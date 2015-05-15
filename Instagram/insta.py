@@ -18,7 +18,7 @@ for line in movies:
    titles = []
    titles_drop_the = []
    titles_drop_a = []
-   #extract REAL title from the title - ex)Harry Potter and the Deathly Hallows -> Harry Potter
+   #extract keywords for searching tags from the title - ex)Harry Potter and the Deathly Hallows -> Harry Potter
    
    title = line.split('title:')[1]
    title = title.lower().strip()
