@@ -15,8 +15,7 @@ db = open('Movie_DB.txt','r')
 #gdb = GraphDatabase(url,username = 'neo4j',password = 'dldlsduq')
 
 
-f = open('query.cql','w')
-
+f = open('query.txt','w')
 
 while True:
 	title = db.readline()

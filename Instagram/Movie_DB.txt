@@ -152,7 +152,7 @@ votes:599,414
 director:Robert Zemeckis,
 stars:Michael J. Fox,Christopher Lloyd,Lea Thompson,
 genres:Adventure,Comedy,Romance,Sci-Fi,
-title:One Flew Over the Cuckoo's Nest
+title:One Flew Over the Cuckoo&#x27;s Nest
 year:(1975)
 rating:8.7
 votes:588,052
@@ -306,7 +306,7 @@ votes:458,179
 director:Joel Coen,
 stars:Jeff Bridges,John Goodman,Julianne Moore,
 genres:Comedy,Crime,
-title:Pirates of the Caribbean: Dead Man's Chest
+title:Pirates of the Caribbean: Dead Man&#x27;s Chest
 year:(2006)
 rating:7.3
 votes:453,210
@@ -425,7 +425,7 @@ votes:736,469
 director:Martin Scorsese,
 stars:Leonardo DiCaprio,Matt Damon,Jack Nicholson,
 genres:Crime,Drama,Thriller,
-title:Schindler's List
+title:Schindler&#x27;s List
 year:(1993)
 rating:8.9
 votes:734,492
@@ -502,7 +502,7 @@ votes:610,159
 director:Christopher Nolan,
 stars:Matthew McConaughey,Anne Hathaway,Jessica Chastain,
 genres:Adventure,Sci-Fi,
-title:WALL·E
+title:WALL&#xB7;E
 year:(2008)
 rating:8.4
 votes:591,889
@@ -754,7 +754,7 @@ votes:405,487
 director:Brad Bird,
 stars:Craig T. Nelson,Samuel L. Jackson,Holly Hunter,
 genres:Animation,Action,Adventure,Family,
-title:Pan's Labyrinth
+title:Pan&#x27;s Labyrinth
 year:(2006)
 rating:8.3
 votes:403,808
@@ -817,7 +817,7 @@ votes:384,984
 director:Bryan Singer,
 stars:Patrick Stewart,Hugh Jackman,Ian McKellen,
 genres:Action,Adventure,Sci-Fi,
-title:Harry Potter and the Sorcerer's Stone
+title:Harry Potter and the Sorcerer&#x27;s Stone
 year:(2001)
 rating:7.5
 votes:383,080
@@ -894,7 +894,7 @@ votes:352,144
 director:Doug Liman,
 stars:Franka Potente,Matt Damon,Chris Cooper,
 genres:Action,Mystery,Thriller,
-title:Ocean's Eleven
+title:Ocean&#x27;s Eleven
 year:(2001)
 rating:7.8
 votes:350,890
@@ -1069,7 +1069,7 @@ votes:418,387
 director:Steven Spielberg,
 stars:Leonardo DiCaprio,Tom Hanks,Christopher Walken,
 genres:Biography,Crime,Drama,
-title:The King's Speech
+title:The King&#x27;s Speech
 year:(2010)
 rating:8.1
 votes:417,107
@@ -1090,7 +1090,7 @@ votes:409,548
 director:David Fincher,
 stars:Jesse Eisenberg,Andrew Garfield,Justin Timberlake,
 genres:Biography,Drama,
-title:Pirates of the Caribbean: At World's End
+title:Pirates of the Caribbean: At World&#x27;s End
 year:(2007)
 rating:7.1
 votes:408,954
@@ -1454,7 +1454,7 @@ votes:297,482
 director:Stephen Chbosky,
 stars:Logan Lerman,Emma Watson,Ezra Miller,
 genres:Drama,Romance,
-title:Mr. & Mrs. Smith
+title:Mr. &#x26; Mrs. Smith
 year:(2005)
 rating:6.5
 votes:295,880
@@ -1671,7 +1671,7 @@ votes:261,332
 director:Tom Shadyac,
 stars:Jim Carrey,Jennifer Aniston,Morgan Freeman,
 genres:Comedy,Drama,Fantasy,
-title:Dumb & Dumber
+title:Dumb &#x26; Dumber
 year:(1994)
 rating:7.3
 votes:261,125
@@ -1958,7 +1958,7 @@ votes:271,627
 director:David Yates,
 stars:Daniel Radcliffe,Emma Watson,Rupert Grint,
 genres:Adventure,Family,Fantasy,Mystery,
-title:We're the Millers
+title:We&#x27;re the Millers
 year:(2013)
 rating:7.1
 votes:268,997
@@ -2042,7 +2042,7 @@ votes:259,079
 director:Gary Trousdale,Kirk Wise,
 stars:Paige O'Hara,Robby Benson,Jesse Corti,
 genres:Animation,Family,Fantasy,Musical,Romance,
-title:Fast & Furious 6
+title:Fast &#x26; Furious 6
 year:(2013)
 rating:7.2
 votes:258,823
@@ -2126,7 +2126,7 @@ votes:250,131
 director:Roland Emmerich,
 stars:John Cusack,Thandie Newton,Chiwetel Ejiofor,
 genres:Action,Adventure,Sci-Fi,
-title:Ocean's Twelve
+title:Ocean&#x27;s Twelve
 year:(2004)
 rating:6.4
 votes:249,601
@@ -2280,7 +2280,7 @@ votes:233,130
 director:Pierre Coffin,Chris Renaud,
 stars:Steve Carell,Kristen Wiig,Benjamin Bratt,
 genres:Animation,Comedy,Family,
-title:Devil's Advocate
+title:Devil&#x27;s Advocate
 year:(1997)
 rating:7.5
 votes:232,868
@@ -2329,7 +2329,7 @@ votes:228,769
 director:David Fincher,
 stars:Michael Douglas,Deborah Kara Unger,Sean Penn,
 genres:Drama,Mystery,Thriller,
-title:There's Something About Mary
+title:There&#x27;s Something About Mary
 year:(1998)
 rating:7.1
 votes:228,147
@@ -2343,7 +2343,7 @@ votes:226,481
 director:Robert Zemeckis,
 stars:Michael J. Fox,Christopher Lloyd,Mary Steenburgen,
 genres:Adventure,Comedy,Romance,Sci-Fi,Western,
-title:Ocean's Thirteen
+title:Ocean&#x27;s Thirteen
 year:(2007)
 rating:6.9
 votes:226,090
@@ -2609,7 +2609,7 @@ votes:235,540
 director:Adam McKay,
 stars:Will Ferrell,Christina Applegate,Steve Carell,
 genres:Comedy,
-title:It's a Wonderful Life
+title:It&#x27;s a Wonderful Life
 year:(1946)
 rating:8.7
 votes:235,139
@@ -2798,7 +2798,7 @@ votes:215,911
 director:James Mangold,
 stars:Russell Crowe,Christian Bale,Ben Foster,
 genres:Adventure,Crime,Drama,Western,
-title:Les Misérables
+title:Les Mis&#xE9;rables
 year:(2012)
 rating:7.7
 votes:215,299
@@ -3148,7 +3148,7 @@ votes:186,406
 director:Troy Duffy,
 stars:Willem Dafoe,Sean Patrick Flanery,Norman Reedus,
 genres:Action,Crime,Thriller,
-title:Ferris Bueller's Day Off
+title:Ferris Bueller&#x27;s Day Off
 year:(1986)
 rating:7.9
 votes:215,403
@@ -3491,7 +3491,7 @@ votes:186,829
 director:Roland Emmerich,
 stars:Mel Gibson,Heath Ledger,Joely Richardson,
 genres:Action,Drama,History,War,
-title:A Bug's Life
+title:A Bug&#x27;s Life
 year:(1998)
 rating:7.2
 votes:186,532
@@ -3575,7 +3575,7 @@ votes:181,186
 director:J.B. Rogers,
 stars:Jason Biggs,Seann William Scott,Shannon Elizabeth,
 genres:Comedy,Romance,
-title:Alien³
+title:Alien&#xB3;
 year:(1992)
 rating:6.4
 votes:180,243
@@ -3715,14 +3715,14 @@ votes:170,826
 director:Michel Hazanavicius,
 stars:Jean Dujardin,Bérénice Bejo,John Goodman,
 genres:Comedy,Drama,Romance,
-title:Fast & Furious
+title:Fast &#x26; Furious
 year:(2009)
 rating:6.6
 votes:170,737
 director:Justin Lin,
 stars:Vin Diesel,Paul Walker,Michelle Rodriguez,
 genres:Action,Crime,Drama,Thriller,
-title:Batman & Robin
+title:Batman &#x26; Robin
 year:(1997)
 rating:3.6
 votes:170,389
@@ -3750,7 +3750,7 @@ votes:169,539
 director:Cameron Crowe,
 stars:Tom Cruise,Cuba Gooding Jr.,Renée Zellweger,
 genres:Comedy,Drama,Romance,Sport,
-title:Pride & Prejudice
+title:Pride &#x26; Prejudice
 year:(2005)
 rating:7.8
 votes:169,360
@@ -3897,7 +3897,7 @@ votes:183,146
 director:Todd Phillips,
 stars:Bradley Cooper,Zach Galifianakis,Ed Helms,
 genres:Comedy,
-title:Angels & Demons
+title:Angels &#x26; Demons
 year:(2009)
 rating:6.7
 votes:182,779
@@ -4121,7 +4121,7 @@ votes:169,277
 director:Danny Boyle,
 stars:Cillian Murphy,Rose Byrne,Chris Evans,
 genres:Adventure,Sci-Fi,Thriller,
-title:Me, Myself & Irene
+title:Me, Myself &#x26; Irene
 year:(2000)
 rating:6.5
 votes:169,070
@@ -4289,7 +4289,7 @@ votes:161,078
 director:Nancy Meyers,
 stars:Kate Winslet,Cameron Diaz,Jude Law,
 genres:Comedy,Romance,
-title:Ender's Game
+title:Ender&#x27;s Game
 year:(2013)
 rating:6.7
 votes:160,467
@@ -4436,7 +4436,7 @@ votes:153,016
 director:Ted Kotcheff,
 stars:Sylvester Stallone,Brian Dennehy,Richard Crenna,
 genres:Action,Thriller,
-title:What's Eating Gilbert Grape
+title:What&#x27;s Eating Gilbert Grape
 year:(1993)
 rating:7.8
 votes:152,852
@@ -4492,7 +4492,7 @@ votes:149,893
 director:M. Night Shyamalan,
 stars:Mark Wahlberg,Zooey Deschanel,John Leguizamo,
 genres:Drama,Sci-Fi,Thriller,
-title:Carlito's Way
+title:Carlito&#x27;s Way
 year:(1993)
 rating:7.9
 votes:149,502
@@ -4744,7 +4744,7 @@ votes:156,383
 director:Ridley Scott,
 stars:Leonardo DiCaprio,Russell Crowe,Mark Strong,
 genres:Action,Drama,Thriller,
-title:Cowboys & Aliens
+title:Cowboys &#x26; Aliens
 year:(2011)
 rating:6.1
 votes:156,065
@@ -4835,14 +4835,14 @@ votes:151,126
 director:George Roy Hill,
 stars:Paul Newman,Robert Redford,Robert Shaw,
 genres:Comedy,Crime,Drama,
-title:The World's End
+title:The World&#x27;s End
 year:(2013)
 rating:7.0
 votes:150,138
 director:Edgar Wright,
 stars:Simon Pegg,Nick Frost,Martin Freeman,
 genres:Action,Comedy,Sci-Fi,
-title:Bridget Jones's Diary
+title:Bridget Jones&#x27;s Diary
 year:(2001)
 rating:6.7
 votes:149,785
@@ -4982,7 +4982,7 @@ votes:141,908
 director:Richard Linklater,
 stars:Ethan Hawke,Julie Delpy,Vernon Dobtcheff,
 genres:Drama,Romance,
-title:Lemony Snicket's A Series of Unfortunate Events
+title:Lemony Snicket&#x27;s A Series of Unfortunate Events
 year:(2004)
 rating:6.8
 votes:141,693
@@ -5010,7 +5010,7 @@ votes:140,863
 director:Simon West,
 stars:Angelina Jolie,Jon Voight,Iain Glen,
 genres:Action,Adventure,Fantasy,Thriller,
-title:The Hitchhiker's Guide to the Galaxy
+title:The Hitchhiker&#x27;s Guide to the Galaxy
 year:(2005)
 rating:6.8
 votes:140,812
@@ -5248,7 +5248,7 @@ votes:129,416
 director:Robert Wise,
 stars:Julie Andrews,Christopher Plummer,Eleanor Parker,
 genres:Biography,Drama,Family,Musical,Romance,
-title:South Park: Bigger Longer & Uncut
+title:South Park: Bigger Longer &#x26; Uncut
 year:(1999)
 rating:7.8
 votes:146,369
@@ -5297,7 +5297,7 @@ votes:143,161
 director:Adam Shankman,
 stars:Mandy Moore,Shane West,Peter Coyote,
 genres:Drama,Romance,
-title:Harold & Kumar Go to White Castle
+title:Harold &#x26; Kumar Go to White Castle
 year:(2004)
 rating:7.2
 votes:143,124
@@ -5353,7 +5353,7 @@ votes:141,396
 director:David Lynch,
 stars:Anthony Hopkins,John Hurt,Anne Bancroft,
 genres:Biography,Drama,
-title:Hansel & Gretel: Witch Hunters
+title:Hansel &#x26; Gretel: Witch Hunters
 year:(2013)
 rating:6.1
 votes:140,966
@@ -5388,14 +5388,14 @@ votes:140,176
 director:Spike Lee,
 stars:Edward Norton,Barry Pepper,Philip Seymour Hoffman,
 genres:Crime,Drama,
-title:You Don't Mess with the Zohan
+title:You Don&#x27;t Mess with the Zohan
 year:(2008)
 rating:5.5
 votes:140,094
 director:Dennis Dugan,
 stars:Adam Sandler,John Turturro,Emmanuelle Chriqui,
 genres:Action,Comedy,
-title:Pain & Gain
+title:Pain &#x26; Gain
 year:(2013)
 rating:6.5
 votes:139,587
@@ -5479,7 +5479,7 @@ votes:136,250
 director:Russell Mulcahy,
 stars:Milla Jovovich,Ali Larter,Oded Fehr,
 genres:Action,Horror,Sci-Fi,Thriller,
-title:You've Got Mail
+title:You&#x27;ve Got Mail
 year:(1998)
 rating:6.5
 votes:135,604
@@ -5493,7 +5493,7 @@ votes:135,385
 director:Baltasar Kormákur,
 stars:Denzel Washington,Mark Wahlberg,Paula Patton,
 genres:Action,Comedy,Crime,Drama,Thriller,
-title:Charlie's Angels
+title:Charlie&#x27;s Angels
 year:(2000)
 rating:5.5
 votes:134,293
@@ -5619,7 +5619,7 @@ votes:128,818
 director:Burr Steers,
 stars:Zac Efron,Matthew Perry,Leslie Mann,
 genres:Comedy,Drama,Fantasy,Romance,
-title:Singin' in the Rain
+title:Singin&#x27; in the Rain
 year:(1952)
 rating:8.4
 votes:128,709
@@ -5710,7 +5710,7 @@ votes:126,261
 director:David Dobkin,
 stars:Jason Bateman,Ryan Reynolds,Olivia Wilde,
 genres:Comedy,
-title:Rosemary's Baby
+title:Rosemary&#x27;s Baby
 year:(1968)
 rating:8.0
 votes:125,998
@@ -5752,7 +5752,7 @@ votes:124,255
 director:Peter Lord,Nick Park,
 stars:Mel Gibson,Julia Sawalha,Phil Daniels,
 genres:Animation,Family,Comedy,
-title:A Knight's Tale
+title:A Knight&#x27;s Tale
 year:(2001)
 rating:6.9
 votes:124,162
@@ -5871,7 +5871,7 @@ votes:119,659
 director:Paul Verhoeven,
 stars:Michael Douglas,Sharon Stone,George Dzundza,
 genres:Drama,Mystery,Thriller,
-title:He's Just Not That Into You
+title:He&#x27;s Just Not That Into You
 year:(2009)
 rating:6.4
 votes:119,594
@@ -6053,7 +6053,7 @@ votes:126,440
 director:Genndy Tartakovsky,
 stars:Adam Sandler,Kevin James,Andy Samberg,
 genres:Animation,Comedy,Family,Fantasy,
-title:Love & Other Drugs
+title:Love &#x26; Other Drugs
 year:(2010)
 rating:6.7
 votes:126,280
@@ -6088,7 +6088,7 @@ votes:125,204
 director:Andrew Dominik,
 stars:Brad Pitt,Casey Affleck,Sam Shepard,
 genres:Biography,Crime,Drama,History,Western,
-title:Percy Jackson & the Olympians: The Lightning Thief
+title:Percy Jackson &#x26; the Olympians: The Lightning Thief
 year:(2010)
 rating:5.9
 votes:124,532
@@ -6158,7 +6158,7 @@ votes:122,851
 director:Sam Raimi,
 stars:Bruce Campbell,Ellen Sandweiss,Richard DeManincor,
 genres:Horror,
-title:Shoot 'Em Up
+title:Shoot &#x27;Em Up
 year:(2007)
 rating:6.7
 votes:122,751
@@ -6389,7 +6389,7 @@ votes:112,823
 director:Charles Chaplin,
 stars:Charles Chaplin,Paulette Goddard,Jack Oakie,
 genres:Comedy,Drama,War,
-title:Starsky & Hutch
+title:Starsky &#x26; Hutch
 year:(2004)
 rating:6.1
 votes:112,475
@@ -6501,7 +6501,7 @@ votes:109,473
 director:David R. Ellis,
 stars:Samuel L. Jackson,Julianna Margulies,Nathan Phillips,
 genres:Action,Thriller,
-title:I Now Pronounce You Chuck & Larry
+title:I Now Pronounce You Chuck &#x26; Larry
 year:(2007)
 rating:6.0
 votes:109,154
@@ -6529,7 +6529,7 @@ votes:108,222
 director:John G. Avildsen,
 stars:Ralph Macchio,Pat Morita,Elisabeth Shue,
 genres:Action,Drama,Family,Sport,
-title:The Emperor's New Groove
+title:The Emperor&#x27;s New Groove
 year:(2000)
 rating:7.3
 votes:108,036
@@ -6543,7 +6543,7 @@ votes:107,594
 director:M. Night Shyamalan,
 stars:Noah Ringer,Nicola Peltz,Jackson Rathbone,
 genres:Action,Adventure,Family,Fantasy,
-title:Dude, Where's My Car?
+title:Dude, Where&#x27;s My Car?
 year:(2000)
 rating:5.5
 votes:107,441
@@ -6599,7 +6599,7 @@ votes:105,866
 director:Tom Shadyac,
 stars:Steve Carell,Morgan Freeman,Lauren Graham,
 genres:Comedy,Family,Fantasy,
-title:Harold & Kumar Escape from Guantanamo Bay
+title:Harold &#x26; Kumar Escape from Guantanamo Bay
 year:(2008)
 rating:6.7
 votes:105,822
@@ -6697,7 +6697,7 @@ votes:114,488
 director:George Miller,Warren Coleman,
 stars:Elijah Wood,Brittany Murphy,Hugh Jackman,
 genres:Animation,Comedy,Family,Music,
-title:Hachi: A Dog's Tale
+title:Hachi: A Dog&#x27;s Tale
 year:(2009)
 rating:8.2
 votes:114,123
@@ -6711,7 +6711,7 @@ votes:113,869
 director:Albert Hughes,Allen Hughes,
 stars:Johnny Depp,Heather Graham,Ian Holm,
 genres:Horror,Mystery,Thriller,
-title:Smokin' Aces
+title:Smokin&#x27; Aces
 year:(2006)
 rating:6.7
 votes:113,594
@@ -6746,7 +6746,7 @@ votes:112,671
 director:Jessie Nelson,
 stars:Sean Penn,Michelle Pfeiffer,Dakota Fanning,
 genres:Drama,
-title:The Sorcerer's Apprentice
+title:The Sorcerer&#x27;s Apprentice
 year:(2010)
 rating:6.2
 votes:112,430
@@ -6767,7 +6767,7 @@ votes:112,213
 director:Brian De Palma,
 stars:Sissy Spacek,Piper Laurie,Amy Irving,
 genres:Horror,
-title:Willy Wonka & the Chocolate Factory
+title:Willy Wonka &#x26; the Chocolate Factory
 year:(1971)
 rating:7.8
 votes:112,036
@@ -6879,7 +6879,7 @@ votes:108,419
 director:David R. Ellis,
 stars:A.J. Cook,Ali Larter,Tony Todd,
 genres:Horror,Thriller,
-title:Brüno
+title:Br&#xFC;no
 year:(2009)
 rating:5.9
 votes:108,140
@@ -6900,7 +6900,7 @@ votes:107,539
 director:Kevin Smith,
 stars:Brian O'Halloran,Jeff Anderson,Rosario Dawson,
 genres:Comedy,
-title:Breakfast at Tiffany's
+title:Breakfast at Tiffany&#x27;s
 year:(1961)
 rating:7.8
 votes:107,289
@@ -7082,7 +7082,7 @@ votes:102,238
 director:Lisa Cholodenko,
 stars:Annette Bening,Julianne Moore,Mark Ruffalo,
 genres:Comedy,Drama,
-title:Winter's Bone
+title:Winter&#x27;s Bone
 year:(2010)
 rating:7.2
 votes:102,040
@@ -7348,14 +7348,14 @@ votes:94,730
 director:Patty Jenkins,
 stars:Charlize Theron,Christina Ricci,Bruce Dern,
 genres:Biography,Crime,Drama,
-title:Æon Flux
+title:&#xC6;on Flux
 year:(2005)
 rating:5.5
 votes:104,430
 director:Karyn Kusama,
 stars:Charlize Theron,Frances McDormand,Sophie Okonedo,
 genres:Action,Mystery,Sci-Fi,
-title:Marley & Me
+title:Marley &#x26; Me
 year:(2008)
 rating:7.1
 votes:104,333
@@ -7418,7 +7418,7 @@ votes:102,793
 director:Mel Brooks,
 stars:Gene Wilder,Madeline Kahn,Marty Feldman,
 genres:Comedy,
-title:The Time Traveler's Wife
+title:The Time Traveler&#x27;s Wife
 year:(2009)
 rating:7.1
 votes:102,696
@@ -7432,7 +7432,7 @@ votes:102,473
 director:Takashi Shimizu,
 stars:Sarah Michelle Gellar,Jason Behr,Clea DuVall,
 genres:Horror,Mystery,Thriller,
-title:Wayne's World
+title:Wayne&#x27;s World
 year:(1992)
 rating:7.0
 votes:102,115
@@ -7481,7 +7481,7 @@ votes:100,804
 director:Brett Ratner,
 stars:Eddie Murphy,Ben Stiller,Casey Affleck,
 genres:Action,Comedy,Crime,
-title:Madagascar 3: Europe's Most Wanted
+title:Madagascar 3: Europe&#x27;s Most Wanted
 year:(2012)
 rating:7.0
 votes:100,794
@@ -7537,7 +7537,7 @@ votes:99,289
 director:Terry Zwigoff,
 stars:Billy Bob Thornton,Bernie Mac,Lauren Graham,
 genres:Comedy,Crime,Drama,
-title:She's the Man
+title:She&#x27;s the Man
 year:(2006)
 rating:6.4
 votes:99,150
@@ -7642,7 +7642,7 @@ votes:96,424
 director:Patrick Hughes,
 stars:Sylvester Stallone,Jason Statham,Jet Li,
 genres:Action,Adventure,Thriller,
-title:Lilo & Stitch
+title:Lilo &#x26; Stitch
 year:(2002)
 rating:7.1
 votes:96,146
@@ -7740,7 +7740,7 @@ votes:93,739
 director:Woody Allen,
 stars:Woody Allen,Diane Keaton,Mariel Hemingway,
 genres:Comedy,Drama,Romance,
-title:Charlie's Angels: Full Throttle
+title:Charlie&#x27;s Angels: Full Throttle
 year:(2003)
 rating:4.8
 votes:93,649
@@ -7901,7 +7901,7 @@ votes:89,949
 director:Renny Harlin,
 stars:Thomas Jane,Saffron Burrows,Samuel L. Jackson,
 genres:Action,Sci-Fi,Thriller,
-title:Thelma & Louise
+title:Thelma &#x26; Louise
 year:(1991)
 rating:7.4
 votes:89,765
@@ -7978,7 +7978,7 @@ votes:88,558
 director:Nick Cassavetes,
 stars:Denzel Washington,Robert Duvall,Gabriela Oltean,
 genres:Crime,Drama,Thriller,
-title:My Best Friend's Wedding
+title:My Best Friend&#x27;s Wedding
 year:(1997)
 rating:6.3
 votes:88,304
@@ -8048,7 +8048,7 @@ votes:86,560
 director:Michael Mann,
 stars:Colin Farrell,Jamie Foxx,Li Gong,
 genres:Action,Crime,Thriller,
-title:Miller's Crossing
+title:Miller&#x27;s Crossing
 year:(1990)
 rating:7.9
 votes:94,695
@@ -8090,7 +8090,7 @@ votes:93,984
 director:Ivan Reitman,
 stars:David Duchovny,Orlando Jones,Julianne Moore,
 genres:Comedy,Sci-Fi,
-title:She's Out of My League
+title:She&#x27;s Out of My League
 year:(2010)
 rating:6.4
 votes:93,709
@@ -8104,7 +8104,7 @@ votes:93,543
 director:Judd Apatow,
 stars:Paul Rudd,Leslie Mann,Maude Apatow,
 genres:Comedy,
-title:It's Kind of a Funny Story
+title:It&#x27;s Kind of a Funny Story
 year:(2010)
 rating:7.2
 votes:93,459
@@ -8517,7 +8517,7 @@ votes:84,481
 director:William Wyler,
 stars:Gregory Peck,Audrey Hepburn,Eddie Albert,
 genres:Comedy,Romance,
-title:Jennifer's Body
+title:Jennifer&#x27;s Body
 year:(2009)
 rating:5.1
 votes:84,433
@@ -8776,7 +8776,7 @@ votes:86,084
 director:Julie Taymor,
 stars:Evan Rachel Wood,Jim Sturgess,Joe Anderson,
 genres:Drama,Fantasy,Musical,Romance,
-title:Valentine's Day
+title:Valentine&#x27;s Day
 year:(2010)
 rating:5.8
 votes:86,040
@@ -8902,7 +8902,7 @@ votes:83,943
 director:Jonathan Lynn,
 stars:Bruce Willis,Matthew Perry,Rosanna Arquette,
 genres:Comedy,Crime,
-title:Something's Gotta Give
+title:Something&#x27;s Gotta Give
 year:(2003)
 rating:6.7
 votes:83,627
@@ -8951,7 +8951,7 @@ votes:82,768
 director:Jason Friedberg,Aaron Seltzer,
 stars:Sean Maguire,Kevin Sorbo,Carmen Electra,
 genres:Comedy,
-title:Charlie Wilson's War
+title:Charlie Wilson&#x27;s War
 year:(2007)
 rating:7.1
 votes:82,635
@@ -9112,7 +9112,7 @@ votes:80,139
 director:Oliver Parker,
 stars:Rowan Atkinson,Rosamund Pike,Dominic West,
 genres:Action,Adventure,Comedy,Crime,Drama,
-title:Let's Be Cops
+title:Let&#x27;s Be Cops
 year:(2014)
 rating:6.5
 votes:80,103
@@ -9154,7 +9154,7 @@ votes:79,502
 director:Iain Softley,
 stars:Kate Hudson,Peter Sarsgaard,Joy Bryant,
 genres:Horror,Mystery,Thriller,
-title:Planes, Trains & Automobiles
+title:Planes, Trains &#x26; Automobiles
 year:(1987)
 rating:7.6
 votes:79,374
@@ -9273,7 +9273,7 @@ votes:77,439
 director:Ron Clements,John Musker,
 stars:Anika Noni Rose,Keith David,Oprah Winfrey,
 genres:Animation,Family,Fantasy,Musical,Romance,
-title:Before the Devil Knows You're Dead
+title:Before the Devil Knows You&#x27;re Dead
 year:(2007)
 rating:7.3
 votes:77,335
@@ -9539,7 +9539,7 @@ votes:78,965
 director:Peter Weir,
 stars:Jim Sturgess,Ed Harris,Colin Farrell,
 genres:Adventure,Drama,History,
-title:The Man Who Wasn't There
+title:The Man Who Wasn&#x27;t There
 year:(2001)
 rating:7.6
 votes:78,907
@@ -9609,7 +9609,7 @@ votes:77,833
 director:Hugh Wilson,
 stars:Steve Guttenberg,G.W. Bailey,Kim Cattrall,
 genres:Comedy,
-title:Bill & Ted's Excellent Adventure
+title:Bill &#x26; Ted&#x27;s Excellent Adventure
 year:(1989)
 rating:6.9
 votes:77,557
@@ -9819,7 +9819,7 @@ votes:74,069
 director:Lasse Hallström,
 stars:Tobey Maguire,Charlize Theron,Michael Caine,
 genres:Drama,Romance,
-title:Lee Daniels' The Butler
+title:Lee Daniels&#x27; The Butler
 year:(2013)
 rating:7.1
 votes:73,905
@@ -9896,7 +9896,7 @@ votes:72,757
 director:James Wong,
 stars:Jet Li,Carla Gugino,Delroy Lindo,
 genres:Action,Sci-Fi,Thriller,
-title:Extremely Loud & Incredibly Close
+title:Extremely Loud &#x26; Incredibly Close
 year:(2011)
 rating:6.9
 votes:72,689
@@ -10008,7 +10008,7 @@ votes:71,246
 director:Richard Donner,
 stars:Gregory Peck,Lee Remick,Harvey Stephens,
 genres:Drama,Horror,Mystery,
-title:Boys Don't Cry
+title:Boys Don&#x27;t Cry
 year:(1999)
 rating:7.6
 votes:71,166
@@ -10022,7 +10022,7 @@ votes:70,905
 director:John Boorman,
 stars:Jon Voight,Burt Reynolds,Ned Beatty,
 genres:Adventure,Drama,Thriller,
-title:Julie & Julia
+title:Julie &#x26; Julia
 year:(2009)
 rating:7.0
 votes:70,884
@@ -10155,7 +10155,7 @@ votes:74,258
 director:Richard Donner,
 stars:Mel Gibson,Jodie Foster,James Garner,
 genres:Action,Adventure,Comedy,Thriller,Western,
-title:The Naked Gun 2½: The Smell of Fear
+title:The Naked Gun 2&#xBD;: The Smell of Fear
 year:(1991)
 rating:6.8
 votes:74,129
@@ -10421,7 +10421,7 @@ votes:70,400
 director:Gary Fleder,
 stars:Jason Statham,James Franco,Winona Ryder,
 genres:Action,Crime,Drama,Thriller,
-title:The Devil's Rejects
+title:The Devil&#x27;s Rejects
 year:(2005)
 rating:6.9
 votes:70,290
@@ -10554,7 +10554,7 @@ votes:68,637
 director:Hironobu Sakaguchi,Motonori Sakakibara,
 stars:Alec Baldwin,Steve Buscemi,Ming-Na Wen,
 genres:Animation,Action,Adventure,Fantasy,Sci-Fi,
-title:Jacob's Ladder
+title:Jacob&#x27;s Ladder
 year:(1990)
 rating:7.5
 votes:68,584
@@ -10596,7 +10596,7 @@ votes:67,899
 director:Gareth Evans,
 stars:Iko Uwais,Yayan Ruhian,Arifin Putra,
 genres:Action,Crime,Thriller,
-title:Nick and Norah's Infinite Playlist
+title:Nick and Norah&#x27;s Infinite Playlist
 year:(2008)
 rating:6.7
 votes:67,844
@@ -10673,7 +10673,7 @@ votes:66,951
 director:Sean Anders,
 stars:Josh Zuckerman,Clark Duke,Amanda Crew,
 genres:Adventure,Comedy,Romance,
-title:My Sister's Keeper
+title:My Sister&#x27;s Keeper
 year:(2009)
 rating:7.4
 votes:66,807
@@ -10981,7 +10981,7 @@ votes:67,654
 director:Steven Soderbergh,
 stars:Gina Carano,Ewan McGregor,Michael Fassbender,
 genres:Action,Thriller,
-title:Monster's Ball
+title:Monster&#x27;s Ball
 year:(2001)
 rating:7.1
 votes:67,562
@@ -11023,7 +11023,7 @@ votes:66,994
 director:Shawn Levy,
 stars:Steve Martin,Bonnie Hunt,Hilary Duff,
 genres:Comedy,Family,
-title:Tango & Cash
+title:Tango &#x26; Cash
 year:(1989)
 rating:6.3
 votes:66,828
@@ -11156,7 +11156,7 @@ votes:64,622
 director:Joshua Michael Stern,
 stars:Ashton Kutcher,Dermot Mulroney,Josh Gad,
 genres:Biography,Drama,
-title:All the President's Men
+title:All the President&#x27;s Men
 year:(1976)
 rating:8.0
 votes:64,597
@@ -11219,7 +11219,7 @@ votes:63,774
 director:Stephen Herek,
 stars:Glenn Close,Jeff Daniels,Joely Richardson,
 genres:Adventure,Comedy,Family,
-title:It's Complicated
+title:It&#x27;s Complicated
 year:(2009)
 rating:6.6
 votes:63,743
@@ -11296,7 +11296,7 @@ votes:63,074
 director:Walter Hill,
 stars:Michael Beck,James Remar,Dorsey Wright,
 genres:Action,Thriller,
-title:Grandma's Boy
+title:Grandma&#x27;s Boy
 year:(2006)
 rating:7.1
 votes:62,928
@@ -11324,7 +11324,7 @@ votes:62,679
 director:Sam Raimi,
 stars:Sharon Stone,Gene Hackman,Russell Crowe,
 genres:Action,Thriller,Western,
-title:That's My Boy
+title:That&#x27;s My Boy
 year:(2012)
 rating:5.6
 votes:62,536
@@ -11429,7 +11429,7 @@ votes:60,988
 director:Werner Herzog,
 stars:Nicolas Cage,Eva Mendes,Russell M. Haeuser,
 genres:Crime,Drama,
-title:Big Momma's House
+title:Big Momma&#x27;s House
 year:(2000)
 rating:5.0
 votes:60,654
@@ -11471,7 +11471,7 @@ votes:60,031
 director:Brian De Palma,
 stars:Nicolas Cage,Gary Sinise,John Heard,
 genres:Action,Crime,Drama,Mystery,Thriller,
-title:She's All That
+title:She&#x27;s All That
 year:(1999)
 rating:5.8
 votes:60,003
@@ -11513,7 +11513,7 @@ votes:59,754
 director:George Cukor,
 stars:Audrey Hepburn,Rex Harrison,Stanley Holloway,
 genres:Drama,Family,Musical,Romance,
-title:Legend of the Guardians: The Owls of Ga'Hoole
+title:Legend of the Guardians: The Owls of Ga&#x27;Hoole
 year:(2010)
 rating:7.0
 votes:59,704
@@ -11905,14 +11905,14 @@ votes:59,425
 director:Shane Carruth,
 stars:Shane Carruth,David Sullivan,Casey Gooden,
 genres:Drama,Thriller,Sci-Fi,
-title:National Lampoon's Vacation
+title:National Lampoon&#x27;s Vacation
 year:(1983)
 rating:7.4
 votes:59,371
 director:Harold Ramis,
 stars:Chevy Chase,Beverly D'Angelo,Imogene Coca,
 genres:Comedy,
-title:New Year's Eve
+title:New Year&#x27;s Eve
 year:(2011)
 rating:5.6
 votes:59,325
@@ -12003,7 +12003,7 @@ votes:58,303
 director:Bobby Farrelly,Peter Farrelly,
 stars:Woody Harrelson,Randy Quaid,Bill Murray,
 genres:Comedy,Sport,
-title:Look Who's Talking
+title:Look Who&#x27;s Talking
 year:(1989)
 rating:5.8
 votes:58,234
@@ -12066,7 +12066,7 @@ votes:57,719
 director:Ric Roman Waugh,
 stars:Dwayne Johnson,Susan Sarandon,Jon Bernthal,
 genres:Action,Drama,Thriller,
-title:Malèna
+title:Mal&#xE8;na
 year:(2000)
 rating:7.5
 votes:57,635
@@ -12304,7 +12304,7 @@ votes:59,314
 director:Angelina Jolie,
 stars:Jack O'Connell,Takamasa Ishihara,Domhnall Gleeson,
 genres:Biography,Drama,Sport,War,
-title:Mr. Popper's Penguins
+title:Mr. Popper&#x27;s Penguins
 year:(2011)
 rating:6.0
 votes:58,991
@@ -12339,7 +12339,7 @@ votes:58,438
 director:Joe Dante,
 stars:Zach Galligan,Phoebe Cates,John Glover,
 genres:Comedy,Horror,
-title:Kate & Leopold
+title:Kate &#x26; Leopold
 year:(2001)
 rating:6.3
 votes:58,421
@@ -12521,7 +12521,7 @@ votes:56,344
 director:Charles Chaplin,
 stars:Charles Chaplin,Mack Swain,Tom Murray,
 genres:Adventure,Comedy,Drama,
-title:Wayne's World 2
+title:Wayne&#x27;s World 2
 year:(1993)
 rating:6.1
 votes:56,294
@@ -12591,14 +12591,14 @@ votes:55,879
 director:Renny Harlin,
 stars:Geena Davis,Samuel L. Jackson,Yvonne Zima,
 genres:Action,Crime,Drama,Mystery,Thriller,
-title:Trick 'r Treat
+title:Trick &#x27;r Treat
 year:(2007)
 rating:6.8
 votes:55,812
 director:Michael Dougherty,
 stars:Anna Paquin,Brian Cox,Dylan Baker,
 genres:Comedy,Horror,Thriller,
-title:Dante's Peak
+title:Dante&#x27;s Peak
 year:(1997)
 rating:5.8
 votes:55,705
@@ -12871,7 +12871,7 @@ votes:53,104
 director:Spike Lee,
 stars:Danny Aiello,Ossie Davis,Ruby Dee,
 genres:Drama,
-title:21 & Over
+title:21 &#x26; Over
 year:(2013)
 rating:5.9
 votes:52,983
@@ -12983,7 +12983,7 @@ votes:55,459
 director:Steve Antin,
 stars:Cher,Christina Aguilera,Alan Cumming,
 genres:Drama,Music,Romance,
-title:Child's Play
+title:Child&#x27;s Play
 year:(1988)
 rating:6.5
 votes:55,385
@@ -13235,7 +13235,7 @@ votes:52,904
 director:Andrzej Bartkowiak,
 stars:Jet Li,Aaliyah,Isaiah Washington,
 genres:Action,Crime,Thriller,
-title:Fool's Gold
+title:Fool&#x27;s Gold
 year:(2008)
 rating:5.6
 votes:52,906
@@ -13298,7 +13298,7 @@ votes:52,444
 director:Jake Kasdan,
 stars:John C. Reilly,Jenna Fischer,David Krumholtz,
 genres:Comedy,Music,
-title:White Men Can't Jump
+title:White Men Can&#x27;t Jump
 year:(1992)
 rating:6.6
 votes:52,424
@@ -13347,14 +13347,14 @@ votes:51,708
 director:Cody Cameron,Kris Pearn,
 stars:Bill Hader,Anna Faris,Will Forte,
 genres:Animation,Comedy,Family,Fantasy,Sci-Fi,
-title:What's Your Number?
+title:What&#x27;s Your Number?
 year:(2011)
 rating:6.0
 votes:51,575
 director:Mark Mylod,
 stars:Anna Faris,Chris Evans,Ari Graynor,
 genres:Comedy,Romance,
-title:What to Expect When You're Expecting
+title:What to Expect When You&#x27;re Expecting
 year:(2012)
 rating:5.7
 votes:51,512
@@ -13515,7 +13515,7 @@ votes:50,063
 director:Robert Redford,
 stars:Ralph Fiennes,John Turturro,Rob Morrow,
 genres:Drama,History,
-title:A Very Harold & Kumar 3D Christmas
+title:A Very Harold &#x26; Kumar 3D Christmas
 year:(2011)
 rating:6.3
 votes:50,032
@@ -13893,7 +13893,7 @@ votes:49,868
 director:Robert Rodriguez,
 stars:Danny Trejo,Alexa PenaVega,Mel Gibson,
 genres:Action,Crime,Thriller,
-title:Brooklyn's Finest
+title:Brooklyn&#x27;s Finest
 year:(2009)
 rating:6.7
 votes:49,844
@@ -13977,7 +13977,7 @@ votes:48,861
 director:Steven E. de Souza,
 stars:Jean-Claude Van Damme,Raul Julia,Ming-Na Wen,
 genres:Action,Adventure,Comedy,
-title:Who's Afraid of Virginia Woolf?
+title:Who&#x27;s Afraid of Virginia Woolf?
 year:(1966)
 rating:8.1
 votes:48,773
@@ -14285,7 +14285,7 @@ votes:45,531
 director:Gary Fleder,
 stars:Morgan Freeman,Ashley Judd,Cary Elwes,
 genres:Crime,Drama,Mystery,Thriller,
-title:Everybody's Fine
+title:Everybody&#x27;s Fine
 year:(2009)
 rating:7.2
 votes:45,467
@@ -14306,7 +14306,7 @@ votes:45,201
 director:Clint Eastwood,
 stars:Clint Eastwood,Sondra Locke,Chief Dan George,
 genres:Western,
-title:Bill & Ted's Bogus Journey
+title:Bill &#x26; Ted&#x27;s Bogus Journey
 year:(1991)
 rating:6.2
 votes:45,089
@@ -14376,14 +14376,14 @@ votes:48,317
 director:Marc Forster,
 stars:Gerard Butler,Michelle Monaghan,Michael Shannon,
 genres:Action,Biography,Crime,Drama,
-title:Surf's Up
+title:Surf&#x27;s Up
 year:(2007)
 rating:6.8
 votes:48,299
 director:Ash Brannon,Chris Buck,
 stars:Shia LaBeouf,Zooey Deschanel,Jon Heder,
 genres:Animation,Comedy,Family,Sport,
-title:Gulliver's Travels
+title:Gulliver&#x27;s Travels
 year:(2010)
 rating:4.9
 votes:48,176
@@ -14446,14 +14446,14 @@ votes:47,465
 director:Aaron Seltzer,
 stars:Alyson Hannigan,Fred Willard,Jennifer Coolidge,
 genres:Comedy,Romance,
-title:¡Three Amigos!
+title:&#xA1;Three Amigos!
 year:(1986)
 rating:6.4
 votes:47,386
 director:John Landis,
 stars:Steve Martin,Chevy Chase,Martin Short,
 genres:Comedy,Western,
-title:Robot & Frank
+title:Robot &#x26; Frank
 year:(2012)
 rating:7.1
 votes:47,367
@@ -14467,7 +14467,7 @@ votes:47,328
 director:Ed Harris,
 stars:Ed Harris,Viggo Mortensen,Renée Zellweger,
 genres:Crime,Drama,Western,
-title:You're Next
+title:You&#x27;re Next
 year:(2011)
 rating:6.5
 votes:47,318
@@ -14607,7 +14607,7 @@ votes:45,946
 director:Randal Kleiser,
 stars:Brooke Shields,Christopher Atkins,Leo McKern,
 genres:Adventure,Drama,Romance,
-title:The 'Burbs
+title:The &#x27;Burbs
 year:(1989)
 rating:6.8
 votes:45,803
@@ -14656,7 +14656,7 @@ votes:45,223
 director:Martin Scorsese,
 stars:Robert De Niro,Jerry Lewis,Diahnne Abbott,
 genres:Comedy,Drama,
-title:I'm Not There.
+title:I&#x27;m Not There.
 year:(2007)
 rating:7.0
 votes:45,165
@@ -15020,7 +15020,7 @@ votes:42,262
 director:Cory Edwards,Todd Edwards,
 stars:Anne Hathaway,Glenn Close,Patrick Warburton,
 genres:Animation,Comedy,Family,
-title:The Astronaut's Wife
+title:The Astronaut&#x27;s Wife
 year:(1999)
 rating:5.3
 votes:42,262
@@ -15034,7 +15034,7 @@ votes:42,198
 director:Neil Marshall,
 stars:Sean Pertwee,Kevin McKidd,Emma Cleasby,
 genres:Action,Comedy,Horror,
-title:Cats & Dogs
+title:Cats &#x26; Dogs
 year:(2001)
 rating:5.2
 votes:42,041
@@ -15048,7 +15048,7 @@ votes:44,806
 director:Oxide Pang Chun,Danny Pang,
 stars:Nicolas Cage,Charlie Yeung,Shahkrit Yamnarm,
 genres:Action,Crime,Thriller,
-title:America's Sweethearts
+title:America&#x27;s Sweethearts
 year:(2001)
 rating:5.7
 votes:44,784
@@ -15223,7 +15223,7 @@ votes:43,519
 director:Ron Howard,
 stars:Tom Cruise,Nicole Kidman,Thomas Gibson,
 genres:Adventure,Drama,Romance,Western,
-title:Ri¢hie Ri¢h
+title:Ri&#xA2;hie Ri&#xA2;h
 year:(1994)
 rating:5.2
 votes:43,475
@@ -15496,7 +15496,7 @@ votes:41,273
 director:Terrence Malick,
 stars:Martin Sheen,Sissy Spacek,Warren Oates,
 genres:Crime,Drama,
-title:Cassandra's Dream
+title:Cassandra&#x27;s Dream
 year:(2007)
 rating:6.7
 votes:41,235
@@ -15510,7 +15510,7 @@ votes:41,218
 director:Howard Hawks,
 stars:Katharine Hepburn,Cary Grant,Charles Ruggles,
 genres:Comedy,Romance,
-title:The World's Fastest Indian
+title:The World&#x27;s Fastest Indian
 year:(2005)
 rating:7.9
 votes:41,142
@@ -15580,7 +15580,7 @@ votes:40,620
 director:Alfred Hitchcock,
 stars:Cary Grant,Grace Kelly,Jessie Royce Landis,
 genres:Mystery,Romance,Thriller,
-title:Hart's War
+title:Hart&#x27;s War
 year:(2002)
 rating:6.3
 votes:40,542
@@ -15741,7 +15741,7 @@ votes:39,402
 director:Mike Judge,Mike de Seve,
 stars:Mike Judge,Bruce Willis,Demi Moore,
 genres:Animation,Adventure,Comedy,Crime,
-title:Benny & Joon
+title:Benny &#x26; Joon
 year:(1993)
 rating:7.2
 votes:42,011
@@ -15790,7 +15790,7 @@ votes:41,716
 director:Burr Steers,
 stars:Zac Efron,Kim Basinger,Charlie Tahan,
 genres:Drama,Fantasy,Romance,
-title:Turner & Hooch
+title:Turner &#x26; Hooch
 year:(1989)
 rating:6.0
 votes:41,698
@@ -15909,7 +15909,7 @@ votes:40,750
 director:Peter Hyams,
 stars:Jean-Claude Van Damme,Mia Sara,Ron Silver,
 genres:Action,Crime,Sci-Fi,Thriller,
-title:The Devil's Own
+title:The Devil&#x27;s Own
 year:(1997)
 rating:6.1
 votes:40,723
@@ -16028,7 +16028,7 @@ votes:39,954
 director:Victor Salva,
 stars:Jonathan Breck,Ray Wise,Nicki Aycox,
 genres:Horror,Thriller,
-title:Legally Blonde 2: Red, White & Blonde
+title:Legally Blonde 2: Red, White &#x26; Blonde
 year:(2003)
 rating:4.5
 votes:39,895
@@ -16224,7 +16224,7 @@ votes:38,568
 director:Andy Fickman,
 stars:Dwayne Johnson,Kyra Sedgwick,Madison Pettis,
 genres:Comedy,Family,Sport,
-title:Gnomeo & Juliet
+title:Gnomeo &#x26; Juliet
 year:(2011)
 rating:6.0
 votes:38,506
@@ -16287,14 +16287,14 @@ votes:38,103
 director:Gore Verbinski,
 stars:Nathan Lane,Lee Evans,Vicki Lewis,
 genres:Comedy,Family,
-title:Don't Be Afraid of the Dark
+title:Don&#x27;t Be Afraid of the Dark
 year:(2010)
 rating:5.6
 votes:38,052
 director:Troy Nixey,
 stars:Katie Holmes,Guy Pearce,Bailee Madison,
 genres:Fantasy,Horror,Thriller,
-title:Pee-wee's Big Adventure
+title:Pee-wee&#x27;s Big Adventure
 year:(1985)
 rating:7.0
 votes:37,970
@@ -16399,7 +16399,7 @@ votes:37,145
 director:Gavin Wiesen,
 stars:Freddie Highmore,Emma Roberts,Michael Angarano,
 genres:Drama,Romance,
-title:A Nightmare on Elm Street 2: Freddy's Revenge
+title:A Nightmare on Elm Street 2: Freddy&#x27;s Revenge
 year:(1985)
 rating:5.3
 votes:37,071
@@ -16462,7 +16462,7 @@ votes:39,301
 director:Billy Wilder,
 stars:Humphrey Bogart,Audrey Hepburn,William Holden,
 genres:Comedy,Drama,Romance,
-title:Mary Shelley's Frankenstein
+title:Mary Shelley&#x27;s Frankenstein
 year:(1994)
 rating:6.4
 votes:39,275
@@ -16490,7 +16490,7 @@ votes:39,026
 director:William Shatner,
 stars:William Shatner,Leonard Nimoy,DeForest Kelley,
 genres:Action,Adventure,Sci-Fi,Thriller,
-title:The General's Daughter
+title:The General&#x27;s Daughter
 year:(1999)
 rating:6.2
 votes:39,005
@@ -16581,7 +16581,7 @@ votes:38,543
 director:Howard Hawks,
 stars:John Wayne,Dean Martin,Ricky Nelson,
 genres:Drama,Music,Romance,Western,
-title:Mr. Peabody & Sherman
+title:Mr. Peabody &#x26; Sherman
 year:(2014)
 rating:6.9
 votes:38,491
@@ -16700,7 +16700,7 @@ votes:37,510
 director:Joel Schumacher,
 stars:Anthony Hopkins,Chris Rock,Peter Stormare,
 genres:Action,Adventure,Comedy,Thriller,
-title:Don't Say a Word
+title:Don&#x27;t Say a Word
 year:(2001)
 rating:6.3
 votes:37,484
@@ -17127,7 +17127,7 @@ votes:34,513
 director:Ava DuVernay,
 stars:David Oyelowo,Carmen Ejogo,Tim Roth,
 genres:Biography,Drama,History,
-title:My Best Friend's Girl
+title:My Best Friend&#x27;s Girl
 year:(2008)
 rating:5.9
 votes:34,309
@@ -17246,7 +17246,7 @@ votes:35,981
 director:Demian Lichtenstein,
 stars:Kurt Russell,Kevin Costner,Courteney Cox,
 genres:Action,Comedy,Crime,Thriller,
-title:Logan's Run
+title:Logan&#x27;s Run
 year:(1976)
 rating:6.8
 votes:35,884
@@ -17386,14 +17386,14 @@ votes:35,149
 director:Thomas McCarthy,
 stars:Richard Jenkins,Haaz Sleiman,Danai Gurira,
 genres:Drama,
-title:Weekend at Bernie's
+title:Weekend at Bernie&#x27;s
 year:(1989)
 rating:6.3
 votes:35,046
 director:Ted Kotcheff,
 stars:Andrew McCarthy,Jonathan Silverman,Catherine Mary Stewart,
 genres:Comedy,
-title:Can't Hardly Wait
+title:Can&#x27;t Hardly Wait
 year:(1998)
 rating:6.5
 votes:34,972
@@ -17498,7 +17498,7 @@ votes:34,053
 director:Jennifer Westfeldt,
 stars:Jennifer Westfeldt,Adam Scott,Maya Rudolph,
 genres:Comedy,Drama,Romance,
-title:Don't Be a Menace to South Central While Drinking Your Juice in the Hood
+title:Don&#x27;t Be a Menace to South Central While Drinking Your Juice in the Hood
 year:(1996)
 rating:6.6
 votes:34,036
@@ -17512,7 +17512,7 @@ votes:34,001
 director:Peter Hedges,
 stars:Jennifer Garner,Joel Edgerton,CJ Adams,
 genres:Comedy,Drama,Family,Fantasy,
-title:Look Who's Talking Too
+title:Look Who&#x27;s Talking Too
 year:(1990)
 rating:4.4
 votes:33,982
@@ -17540,7 +17540,7 @@ votes:33,805
 director:D.J. Caruso,
 stars:Matthew McConaughey,Al Pacino,Rene Russo,
 genres:Drama,Sport,Thriller,
-title:Cirque du Freak: The Vampire's Assistant
+title:Cirque du Freak: The Vampire&#x27;s Assistant
 year:(2009)
 rating:6.0
 votes:33,777
@@ -17750,7 +17750,7 @@ votes:32,604
 director:Angela Robinson,
 stars:Lindsay Lohan,Michael Keaton,Cheryl Hines,
 genres:Adventure,Comedy,Family,Fantasy,Romance,Sport,
-title:Dr. Seuss' The Cat in the Hat
+title:Dr. Seuss&#x27; The Cat in the Hat
 year:(2003)
 rating:3.8
 votes:32,594
@@ -17834,7 +17834,7 @@ votes:32,206
 director:Tommy Lee Jones,
 stars:Tommy Lee Jones,Barry Pepper,Dwight Yoakam,
 genres:Adventure,Crime,Drama,Mystery,Western,
-title:The Hottie & the Nottie
+title:The Hottie &#x26; the Nottie
 year:(2008)
 rating:1.9
 votes:32,127
@@ -17918,7 +17918,7 @@ votes:33,689
 director:Leonard Nimoy,
 stars:Tom Selleck,Steve Guttenberg,Ted Danson,
 genres:Comedy,Drama,Family,
-title:Buffalo '66
+title:Buffalo &#x27;66
 year:(1998)
 rating:7.5
 votes:33,629
@@ -17939,7 +17939,7 @@ votes:33,491
 director:Richard Benjamin,
 stars:Tom Hanks,Shelley Long,Alexander Godunov,
 genres:Comedy,
-title:Winter's Tale
+title:Winter&#x27;s Tale
 year:(2014)
 rating:6.2
 votes:33,481
@@ -18191,7 +18191,7 @@ votes:32,185
 director:Audrey Wells,
 stars:Diane Lane,Raoul Bova,Sandra Oh,
 genres:Comedy,Drama,Romance,
-title:Mr. Magorium's Wonder Emporium
+title:Mr. Magorium&#x27;s Wonder Emporium
 year:(2007)
 rating:6.2
 votes:32,103
@@ -18296,7 +18296,7 @@ votes:31,491
 director:Jonathan English,
 stars:Paul Giamatti,Jason Flemyng,Brian Cox,
 genres:Action,Adventure,History,Romance,
-title:Hustle & Flow
+title:Hustle &#x26; Flow
 year:(2005)
 rating:7.4
 votes:31,475
@@ -18310,7 +18310,7 @@ votes:31,456
 director:David Frankel,
 stars:Owen Wilson,Jack Black,Steve Martin,
 genres:Comedy,
-title:Romy and Michele's High School Reunion
+title:Romy and Michele&#x27;s High School Reunion
 year:(1997)
 rating:6.1
 votes:31,441
@@ -18429,7 +18429,7 @@ votes:30,908
 director:Tamara Jenkins,
 stars:Laura Linney,Philip Seymour Hoffman,Philip Bosco,
 genres:Comedy,Drama,
-title:This Boy's Life
+title:This Boy&#x27;s Life
 year:(1993)
 rating:7.3
 votes:30,893
@@ -18667,7 +18667,7 @@ votes:31,450
 director:Mitchell Lichtenstein,
 stars:Jess Weixler,John Hensley,Josh Pais,
 genres:Comedy,Horror,Thriller,
-title:Get Rich or Die Tryin'
+title:Get Rich or Die Tryin&#x27;
 year:(2005)
 rating:4.9
 votes:31,440
@@ -18744,7 +18744,7 @@ votes:31,077
 director:David Schwimmer,
 stars:Clive Owen,Catherine Keener,Liana Liberato,
 genres:Crime,Drama,Thriller,
-title:Kelly's Heroes
+title:Kelly&#x27;s Heroes
 year:(1970)
 rating:7.7
 votes:31,040
@@ -19101,7 +19101,7 @@ votes:29,096
 director:Randal Kleiser,
 stars:Rick Moranis,Marcia Strassman,Robert Oliveri,
 genres:Adventure,Comedy,Family,Romance,Sci-Fi,
-title:Porky's
+title:Porky&#x27;s
 year:(1982)
 rating:6.1
 votes:29,083
@@ -19143,7 +19143,7 @@ votes:28,973
 director:James Foley,
 stars:Mark Wahlberg,Reese Witherspoon,William Petersen,
 genres:Drama,Thriller,
-title:World's Greatest Dad
+title:World&#x27;s Greatest Dad
 year:(2009)
 rating:7.0
 votes:28,958
@@ -19164,7 +19164,7 @@ votes:28,911
 director:Brian Robbins,
 stars:Eddie Murphy,Elizabeth Banks,Gabrielle Union,
 genres:Adventure,Comedy,Family,Romance,Sci-Fi,
-title:It's a Boy Girl Thing
+title:It&#x27;s a Boy Girl Thing
 year:(2006)
 rating:6.3
 votes:28,870
@@ -19241,7 +19241,7 @@ votes:28,490
 director:Danny Boyle,
 stars:Cameron Diaz,Ewan McGregor,Holly Hunter,
 genres:Comedy,Crime,Fantasy,Romance,
-title:In & Out
+title:In &#x26; Out
 year:(1997)
 rating:6.3
 votes:30,377
@@ -19304,7 +19304,7 @@ votes:30,030
 director:Robert Redford,
 stars:Robert Redford,Kristin Scott Thomas,Sam Neill,
 genres:Drama,Romance,Western,
-title:Les Misérables
+title:Les Mis&#xE9;rables
 year:(1998)
 rating:7.5
 votes:29,984
@@ -19556,7 +19556,7 @@ votes:28,591
 director:Kenneth Branagh,
 stars:Kenneth Branagh,Julie Christie,Derek Jacobi,
 genres:Drama,
-title:Baby's Day Out
+title:Baby&#x27;s Day Out
 year:(1994)
 rating:5.8
 votes:28,577
@@ -19612,7 +19612,7 @@ votes:28,331
 director:Rob Minkoff,
 stars:Eddie Murphy,Marsha Thomason,Jennifer Tilly,
 genres:Comedy,Family,Fantasy,Mystery,Thriller,
-title:Mr. Holland's Opus
+title:Mr. Holland&#x27;s Opus
 year:(1995)
 rating:7.3
 votes:28,311
@@ -19878,7 +19878,7 @@ votes:27,116
 director:Antonia Bird,
 stars:Guy Pearce,Robert Carlyle,David Arquette,
 genres:Horror,Thriller,
-title:Freddy's Dead: The Final Nightmare
+title:Freddy&#x27;s Dead: The Final Nightmare
 year:(1991)
 rating:4.9
 votes:27,088
@@ -19969,7 +19969,7 @@ votes:28,322
 director:Rod Lurie,
 stars:Kate Beckinsale,Matt Dillon,Vera Farmiga,
 genres:Drama,Thriller,
-title:Big Momma's House 2
+title:Big Momma&#x27;s House 2
 year:(2006)
 rating:4.5
 votes:28,299
@@ -19990,7 +19990,7 @@ votes:28,243
 director:Woody Allen,
 stars:Woody Allen,Gene Wilder,Louise Lasser,
 genres:Comedy,
-title:Oliver & Company
+title:Oliver &#x26; Company
 year:(1988)
 rating:6.7
 votes:28,232
@@ -20004,7 +20004,7 @@ votes:28,164
 director:Jay Duplass,Mark Duplass,
 stars:John C. Reilly,Marisa Tomei,Jonah Hill,
 genres:Comedy,Drama,Romance,
-title:Kicking & Screaming
+title:Kicking &#x26; Screaming
 year:(2005)
 rating:5.5
 votes:28,037
@@ -20039,7 +20039,7 @@ votes:27,839
 director:Thomas Bezucha,
 stars:Selena Gomez,Leighton Meester,Katie Cassidy,
 genres:Adventure,Comedy,Romance,
-title:Child's Play 2
+title:Child&#x27;s Play 2
 year:(1990)
 rating:5.7
 votes:27,787
@@ -20333,7 +20333,7 @@ votes:26,590
 director:Abel Ferrara,
 stars:Harvey Keitel,Victor Argo,Paul Calderon,
 genres:Crime,Drama,
-title:It's a Mad, Mad, Mad, Mad World
+title:It&#x27;s a Mad, Mad, Mad, Mad World
 year:(1963)
 rating:7.6
 votes:26,559
@@ -20361,7 +20361,7 @@ votes:26,432
 director:Shekhar Kapur,
 stars:Heath Ledger,Wes Bentley,Kate Hudson,
 genres:Adventure,Drama,Romance,War,
-title:Captain Corelli's Mandolin
+title:Captain Corelli&#x27;s Mandolin
 year:(2001)
 rating:5.9
 votes:26,414
@@ -20410,7 +20410,7 @@ votes:26,169
 director:George A. Romero,
 stars:Hal Holbrook,Leslie Nielsen,Adrienne Barbeau,
 genres:Comedy,Horror,
-title:Dungeons & Dragons
+title:Dungeons &#x26; Dragons
 year:(2000)
 rating:3.6
 votes:26,126
@@ -20452,7 +20452,7 @@ votes:26,028
 director:Sidney Lumet,
 stars:Vin Diesel,Peter Dinklage,Ron Silver,
 genres:Biography,Comedy,Crime,Drama,
-title:Nim's Island
+title:Nim&#x27;s Island
 year:(2008)
 rating:6.0
 votes:26,011
@@ -20515,7 +20515,7 @@ votes:25,792
 director:Nicole Kassell,
 stars:Kevin Bacon,Kyra Sedgwick,Yasiin Bey,
 genres:Drama,
-title:Sophie's Choice
+title:Sophie&#x27;s Choice
 year:(1982)
 rating:7.7
 votes:25,776
@@ -20767,7 +20767,7 @@ votes:26,150
 director:Nick Castle,
 stars:Lance Guest,Robert Preston,Kay E. Kuter,
 genres:Action,Adventure,Sci-Fi,
-title:Brewster's Millions
+title:Brewster&#x27;s Millions
 year:(1985)
 rating:6.4
 votes:26,123
@@ -20872,7 +20872,7 @@ votes:25,789
 director:Simon Wincer,
 stars:Billy Zane,Kristy Swanson,Treat Williams,
 genres:Action,Adventure,Comedy,Fantasy,
-title:Guess Who's Coming to Dinner
+title:Guess Who&#x27;s Coming to Dinner
 year:(1967)
 rating:7.8
 votes:25,764
@@ -21005,7 +21005,7 @@ votes:25,156
 director:Sheldon Lettich,
 stars:Jean-Claude Van Damme,Geoffrey Lewis,Alonna Shaw,
 genres:Action,Comedy,Crime,Drama,Thriller,
-title:One Night at McCool's
+title:One Night at McCool&#x27;s
 year:(2001)
 rating:6.1
 votes:25,127
@@ -21054,7 +21054,7 @@ votes:24,935
 director:Barry Levinson,
 stars:Ben Stiller,Jack Black,Rachel Weisz,
 genres:Comedy,
-title:St. Elmo's Fire
+title:St. Elmo&#x27;s Fire
 year:(1985)
 rating:6.3
 votes:24,917
@@ -21453,7 +21453,7 @@ votes:24,693
 director:Douglas McGrath,
 stars:Gwyneth Paltrow,James Cosmo,Greta Scacchi,
 genres:Comedy,Drama,Romance,
-title:Charlotte's Web
+title:Charlotte&#x27;s Web
 year:(2006)
 rating:6.4
 votes:24,671
@@ -21474,7 +21474,7 @@ votes:24,587
 director:James Algar,Gaëtan Brizzi,
 stars:James Levine,Steve Martin,Leopold Stokowski,
 genres:Animation,Family,Fantasy,Music,
-title:God's Not Dead
+title:God&#x27;s Not Dead
 year:(2014)
 rating:5.0
 votes:24,579
@@ -21705,7 +21705,7 @@ votes:23,577
 director:Jim Fall,
 stars:Hilary Duff,Adam Lamberg,Clayton Snyder,
 genres:Adventure,Comedy,Family,Music,Romance,
-title:Goya's Ghosts
+title:Goya&#x27;s Ghosts
 year:(2006)
 rating:6.9
 votes:23,549
@@ -22370,7 +22370,7 @@ votes:22,128
 director:Dwight H. Little,
 stars:Wesley Snipes,Diane Lane,Daniel Benzali,
 genres:Action,Crime,Drama,Mystery,Thriller,
-title:My Boss's Daughter
+title:My Boss&#x27;s Daughter
 year:(2003)
 rating:4.6
 votes:22,088
@@ -22405,7 +22405,7 @@ votes:21,935
 director:Barbet Schroeder,
 stars:Bridget Fonda,Jennifer Jason Leigh,Steven Weber,
 genres:Drama,Thriller,
-title:Child's Play 3
+title:Child&#x27;s Play 3
 year:(1991)
 rating:4.9
 votes:21,909
@@ -22419,7 +22419,7 @@ votes:21,908
 director:Sheldon Lettich,
 stars:Jean-Claude Van Damme,Harrison Page,Deborah Rennard,
 genres:Action,Drama,Sport,
-title:Hang 'Em High
+title:Hang &#x27;Em High
 year:(1968)
 rating:7.0
 votes:21,864
@@ -22517,7 +22517,7 @@ votes:21,522
 director:Nick Hamm,
 stars:Robert De Niro,Greg Kinnear,Rebecca Romijn,
 genres:Drama,Horror,Sci-Fi,Thriller,
-title:Celeste & Jesse Forever
+title:Celeste &#x26; Jesse Forever
 year:(2012)
 rating:6.6
 votes:21,502
@@ -22531,7 +22531,7 @@ votes:21,476
 director:Nicolas Roeg,
 stars:Anjelica Huston,Mai Zetterling,Jasen Fisher,
 genres:Adventure,Fantasy,Horror,
-title:The Truth About Cats & Dogs
+title:The Truth About Cats &#x26; Dogs
 year:(1996)
 rating:6.3
 votes:21,438
@@ -22692,7 +22692,7 @@ votes:21,020
 director:Arthur Hiller,
 stars:Ali MacGraw,Ryan O'Neal,John Marley,
 genres:Drama,Romance,
-title:Things to Do in Denver When You're Dead
+title:Things to Do in Denver When You&#x27;re Dead
 year:(1995)
 rating:6.8
 votes:21,001
@@ -23140,7 +23140,7 @@ votes:20,710
 director:Kenneth Lonergan,
 stars:Laura Linney,Matthew Broderick,Mark Ruffalo,
 genres:Drama,
-title:Look Who's Talking Now
+title:Look Who&#x27;s Talking Now
 year:(1993)
 rating:4.1
 votes:20,671
@@ -23532,7 +23532,7 @@ votes:20,507
 director:Stephen Chiodo,
 stars:Grant Cramer,Suzanne Snyder,John Allen Nelson,
 genres:Comedy,Horror,Sci-Fi,
-title:Can't Buy Me Love
+title:Can&#x27;t Buy Me Love
 year:(1987)
 rating:6.7
 votes:20,455
@@ -23609,7 +23609,7 @@ votes:20,238
 director:Ate de Jong,
 stars:Phoebe Cates,Rik Mayall,Marsha Mason,
 genres:Comedy,Drama,Fantasy,
-title:A Midsummer Night's Dream
+title:A Midsummer Night&#x27;s Dream
 year:(1999)
 rating:6.5
 votes:20,229
@@ -23686,7 +23686,7 @@ votes:20,039
 director:Steve Oedekerk,
 stars:Kevin James,Courteney Cox,Danny Glover,
 genres:Animation,Comedy,Family,
-title:Don't Tell Mom the Babysitter's Dead
+title:Don&#x27;t Tell Mom the Babysitter&#x27;s Dead
 year:(1991)
 rating:6.0
 votes:20,019
@@ -23798,7 +23798,7 @@ votes:19,638
 director:Danny Steinmann,
 stars:Melanie Kinnaman,John Shepherd,Anthony Barrile,
 genres:Horror,Mystery,Thriller,
-title:Yours, Mine & Ours
+title:Yours, Mine &#x26; Ours
 year:(2005)
 rating:5.3
 votes:19,616
@@ -24120,7 +24120,7 @@ votes:18,626
 director:Vondie Curtis-Hall,
 stars:Mariah Carey,Eric Benét,Max Beesley,
 genres:Drama,Music,Romance,
-title:Your Sister's Sister
+title:Your Sister&#x27;s Sister
 year:(2011)
 rating:6.7
 votes:18,636
@@ -24148,7 +24148,7 @@ votes:19,635
 director:Thomas Carter,
 stars:Eddie Murphy,Michael Rapaport,Kim Miyori,
 genres:Action,Comedy,Crime,Drama,Thriller,
-title:All the King's Men
+title:All the King&#x27;s Men
 year:(2006)
 rating:6.2
 votes:19,626
@@ -24498,7 +24498,7 @@ votes:18,525
 director:John Huston,
 stars:Michael Caine,Sylvester Stallone,Pelé,
 genres:Action,Drama,Sport,War,
-title:Let's Go to Prison
+title:Let&#x27;s Go to Prison
 year:(2006)
 rating:6.0
 votes:18,514
@@ -24897,7 +24897,7 @@ votes:18,343
 director:John Carl Buechler,
 stars:Jennifer Banko,John Otrin,Susan Blu,
 genres:Horror,
-title:But I'm a Cheerleader
+title:But I&#x27;m a Cheerleader
 year:(1999)
 rating:6.5
 votes:18,327
@@ -25086,7 +25086,7 @@ votes:17,813
 director:Blake Edwards,
 stars:Peter Sellers,Elke Sommer,George Sanders,
 genres:Comedy,Mystery,
-title:Marvin's Room
+title:Marvin&#x27;s Room
 year:(1996)
 rating:6.7
 votes:17,811
@@ -25338,7 +25338,7 @@ votes:17,148
 director:Gary Nelson,
 stars:Maximilian Schell,Anthony Perkins,Robert Forster,
 genres:Action,Adventure,Family,Sci-Fi,
-title:Prizzi's Honor
+title:Prizzi&#x27;s Honor
 year:(1985)
 rating:6.8
 votes:17,133
@@ -25800,7 +25800,7 @@ votes:16,790
 director:Bernie Goldmann,Melisa Wallack,
 stars:Aaron Eckhart,Jessica Alba,Logan Lerman,
 genres:Comedy,Drama,
-title:Beethoven's 2nd
+title:Beethoven&#x27;s 2nd
 year:(1993)
 rating:4.7
 votes:16,765
@@ -26038,7 +26038,7 @@ votes:16,182
 director:Will Gluck,
 stars:Quvenzhané Wallis,Cameron Diaz,Jamie Foxx,
 genres:Comedy,Drama,Family,Musical,
-title:You Can't Take It With You
+title:You Can&#x27;t Take It With You
 year:(1938)
 rating:8.0
 votes:16,153
@@ -26073,7 +26073,7 @@ votes:16,095
 director:Simon Wells,
 stars:Seth Green,Joan Cusack,Dan Fogler,
 genres:Animation,Action,Adventure,Comedy,Family,Sci-Fi,
-title:Sullivan's Travels
+title:Sullivan&#x27;s Travels
 year:(1941)
 rating:8.1
 votes:16,086
@@ -26143,7 +26143,7 @@ votes:15,896
 director:Jamie Linden,
 stars:Channing Tatum,Rosario Dawson,Chris Pratt,
 genres:Comedy,Drama,Romance,
-title:Angela's Ashes
+title:Angela&#x27;s Ashes
 year:(1999)
 rating:7.3
 votes:15,857
@@ -26213,7 +26213,7 @@ votes:15,706
 director:David S. Ward,
 stars:Kelsey Grammer,Lauren Holly,Rob Schneider,
 genres:Comedy,
-title:The Adventures of Rocky & Bullwinkle
+title:The Adventures of Rocky &#x26; Bullwinkle
 year:(2000)
 rating:4.1
 votes:15,700
@@ -26458,7 +26458,7 @@ votes:15,998
 director:Yann Samuell,
 stars:Elisha Cuthbert,Jesse Bradford,Austin Basis,
 genres:Comedy,Drama,Romance,
-title:Bride & Prejudice
+title:Bride &#x26; Prejudice
 year:(2004)
 rating:6.2
 votes:15,977
@@ -26535,7 +26535,7 @@ votes:15,776
 director:Mike Mitchell,
 stars:Ben Affleck,Christina Applegate,James Gandolfini,
 genres:Comedy,Romance,
-title:We're No Angels
+title:We&#x27;re No Angels
 year:(1989)
 rating:6.0
 votes:15,762
@@ -26731,7 +26731,7 @@ votes:15,200
 director:Pablo Larraín,
 stars:Gael García Bernal,Alfredo Castro,Antonia Zegers,
 genres:Drama,
-title:Cat's Eye
+title:Cat&#x27;s Eye
 year:(1985)
 rating:6.2
 votes:15,159
@@ -26759,7 +26759,7 @@ votes:15,108
 director:Joe Chappelle,
 stars:Peter O'Toole,Rose McGowan,Joanna Going,
 genres:Horror,Sci-Fi,Thriller,
-title:I Don't Know How She Does It
+title:I Don&#x27;t Know How She Does It
 year:(2011)
 rating:4.8
 votes:15,103
@@ -26780,7 +26780,7 @@ votes:15,081
 director:John Waters,
 stars:Divine,David Lochary,Mary Vivian Pearce,
 genres:Comedy,Crime,Horror,
-title:Malibu's Most Wanted
+title:Malibu&#x27;s Most Wanted
 year:(2003)
 rating:5.1
 votes:15,050
@@ -26934,7 +26934,7 @@ votes:14,770
 director:Don Taylor,
 stars:Kirk Douglas,Martin Sheen,Katharine Ross,
 genres:Action,Sci-Fi,
-title:Dead Men Don't Wear Plaid
+title:Dead Men Don&#x27;t Wear Plaid
 year:(1982)
 rating:6.8
 votes:15,649
@@ -26990,7 +26990,7 @@ votes:15,524
 director:Peter Hyams,
 stars:Edward Burns,Ben Kingsley,Catherine McCormack,
 genres:Action,Adventure,Horror,Sci-Fi,Thriller,
-title:Rosencrantz & Guildenstern Are Dead
+title:Rosencrantz &#x26; Guildenstern Are Dead
 year:(1990)
 rating:7.7
 votes:15,496
@@ -27039,7 +27039,7 @@ votes:15,383
 director:Norman Jewison,
 stars:James Caan,John Houseman,Maud Adams,
 genres:Action,Sci-Fi,Sport,
-title:Beowulf & Grendel
+title:Beowulf &#x26; Grendel
 year:(2005)
 rating:5.9
 votes:15,347
@@ -27235,7 +27235,7 @@ votes:14,846
 director:John Crowley,
 stars:Eric Bana,Rebecca Hall,Jim Broadbent,
 genres:Crime,Drama,Mystery,Thriller,
-title:Pete's Dragon
+title:Pete&#x27;s Dragon
 year:(1977)
 rating:6.3
 votes:14,836
@@ -27249,7 +27249,7 @@ votes:14,828
 director:John Ford,
 stars:Henry Fonda,Linda Darnell,Victor Mature,
 genres:Drama,Western,
-title:Lorenzo's Oil
+title:Lorenzo&#x27;s Oil
 year:(1992)
 rating:7.2
 votes:14,821
@@ -27627,7 +27627,7 @@ votes:14,021
 director:Stephen J. Anderson,Don Hall,
 stars:Jim Cummings,Craig Ferguson,John Cleese,
 genres:Animation,Adventure,Comedy,Family,Musical,
-title:Killer's Kiss
+title:Killer&#x27;s Kiss
 year:(1955)
 rating:6.7
 votes:14,020
@@ -27704,7 +27704,7 @@ votes:14,622
 director:Sydney Pollack,
 stars:Barbra Streisand,Robert Redford,Bradford Dillman,
 genres:Drama,Romance,
-title:Adam's Rib
+title:Adam&#x27;s Rib
 year:(1949)
 rating:7.6
 votes:14,618
@@ -27823,7 +27823,7 @@ votes:14,398
 director:Richard Linklater,
 stars:Ethan Hawke,Robert Sean Leonard,Uma Thurman,
 genres:Drama,
-title:McCabe & Mrs. Miller
+title:McCabe &#x26; Mrs. Miller
 year:(1971)
 rating:7.7
 votes:14,377
@@ -27837,7 +27837,7 @@ votes:14,343
 director:John Dahl,
 stars:Nicolas Cage,Dennis Hopper,Lara Flynn Boyle,
 genres:Crime,Drama,Thriller,
-title:Henry's Crime
+title:Henry&#x27;s Crime
 year:(2010)
 rating:6.0
 votes:14,311
@@ -27935,7 +27935,7 @@ votes:14,093
 director:William Castle,
 stars:Vincent Price,Carol Ohmart,Richard Long,
 genres:Horror,Mystery,
-title:City Slickers II: The Legend of Curly's Gold
+title:City Slickers II: The Legend of Curly&#x27;s Gold
 year:(1994)
 rating:5.4
 votes:14,084
@@ -27970,7 +27970,7 @@ votes:14,036
 director:Brendan Malloy,Emmett Malloy,
 stars:Flex Alexander,David Denman,A.J. Cook,
 genres:Comedy,Sport,
-title:Ocean's 11
+title:Ocean&#x27;s 11
 year:(1960)
 rating:6.6
 votes:14,025
@@ -28033,7 +28033,7 @@ votes:13,967
 director:Kieran Mulroney,Michele Mulroney,
 stars:Jeff Daniels,Emma Stone,Ryan Reynolds,
 genres:Comedy,Drama,
-title:Nobody's Fool
+title:Nobody&#x27;s Fool
 year:(1994)
 rating:7.4
 votes:13,964
@@ -28061,7 +28061,7 @@ votes:13,915
 director:Lasse Hallström,
 stars:Richard Gere,Alfred Molina,David Aaron Baker,
 genres:Comedy,Drama,
-title:Alice Doesn't Live Here Anymore
+title:Alice Doesn&#x27;t Live Here Anymore
 year:(1974)
 rating:7.4
 votes:13,915
@@ -28131,7 +28131,7 @@ votes:13,783
 director:Frank Capra,
 stars:Gary Cooper,Jean Arthur,George Bancroft,
 genres:Comedy,Drama,
-title:Ripley's Game
+title:Ripley&#x27;s Game
 year:(2002)
 rating:6.7
 votes:13,753
@@ -28173,7 +28173,7 @@ votes:13,687
 director:Howard Zieff,
 stars:Dan Aykroyd,Jamie Lee Curtis,Anna Chlumsky,
 genres:Comedy,Drama,Family,Romance,
-title:Men, Women & Children
+title:Men, Women &#x26; Children
 year:(2014)
 rating:6.7
 votes:13,692
@@ -28453,7 +28453,7 @@ votes:13,831
 director:Christopher Spencer,
 stars:Diogo Morgado,Amber Rose Revah,Sebastian Knapp,
 genres:Biography,Drama,
-title:Jumpin' Jack Flash
+title:Jumpin&#x27; Jack Flash
 year:(1986)
 rating:5.7
 votes:13,810
@@ -28586,7 +28586,7 @@ votes:13,573
 director:John Singleton,
 stars:Omar Epps,Kristy Swanson,Michael Rapaport,
 genres:Drama,Romance,Sport,
-title:Who's Your Caddy?
+title:Who&#x27;s Your Caddy?
 year:(2007)
 rating:2.0
 votes:13,558
@@ -28621,7 +28621,7 @@ votes:13,498
 director:Arthur Allan Seidelman,
 stars:Arnold Stang,Arnold Schwarzenegger,Deborah Loomis,
 genres:Adventure,Family,Fantasy,
-title:Ain't Them Bodies Saints
+title:Ain&#x27;t Them Bodies Saints
 year:(2013)
 rating:6.4
 votes:13,485
@@ -28684,7 +28684,7 @@ votes:13,346
 director:Brett Simon,
 stars:Reece Thompson,Mischa Barton,Bruce Willis,
 genres:Comedy,Crime,Mystery,
-title:I'm Still Here
+title:I&#x27;m Still Here
 year:(2010)
 rating:6.2
 votes:13,337
@@ -28719,7 +28719,7 @@ votes:13,285
 director:Jonah Markowitz,
 stars:Trevor Wright,Brad Rowe,Tina Holmes,
 genres:Drama,Romance,Sport,
-title:A Midsummer Night's Sex Comedy
+title:A Midsummer Night&#x27;s Sex Comedy
 year:(1982)
 rating:6.7
 votes:13,265
@@ -28838,7 +28838,7 @@ votes:13,015
 director:Erik Skjoldbjærg,
 stars:Christina Ricci,Jonathan Rhys Meyers,Jessica Lange,
 genres:Drama,
-title:What's Up, Doc?
+title:What&#x27;s Up, Doc?
 year:(1972)
 rating:7.8
 votes:12,973
@@ -29034,7 +29034,7 @@ votes:12,499
 director:Félix Enríquez Alcalá,
 stars:Steven Seagal,Kris Kristofferson,Marg Helgenberger,
 genres:Action,Drama,Thriller,
-title:The Emperor's Club
+title:The Emperor&#x27;s Club
 year:(2002)
 rating:6.9
 votes:13,337
@@ -29160,7 +29160,7 @@ votes:13,101
 director:Tom Kuntz,Mike Maguire,
 stars:Len Cariou,Sarah McElligott,Amir Talai,
 genres:Comedy,
-title:She's the One
+title:She&#x27;s the One
 year:(1996)
 rating:6.1
 votes:13,096
@@ -29370,7 +29370,7 @@ votes:12,531
 director:Guy Hamilton,
 stars:Harrison Ford,Robert Shaw,Edward Fox,
 genres:Action,Drama,War,
-title:Love & Basketball
+title:Love &#x26; Basketball
 year:(2000)
 rating:7.2
 votes:12,527
@@ -29503,7 +29503,7 @@ votes:12,249
 director:Morton DaCosta,
 stars:Robert Preston,Shirley Jones,Buddy Hackett,
 genres:Comedy,Musical,Romance,
-title:Charlotte's Web
+title:Charlotte&#x27;s Web
 year:(1973)
 rating:6.9
 votes:12,241
@@ -29615,7 +29615,7 @@ votes:12,035
 director:Oliver Parker,
 stars:Rupert Everett,Julianne Moore,Peter Vaughan,
 genres:Comedy,Romance,
-title:Devil's Pass
+title:Devil&#x27;s Pass
 year:(2013)
 rating:5.7
 votes:12,036
@@ -29769,7 +29769,7 @@ votes:12,452
 director:Ken Wiederhorn,
 stars:James Karen,Thom Mathews,Michael Kenworthy,
 genres:Comedy,Horror,
-title:What's Love Got to Do with It
+title:What&#x27;s Love Got to Do with It
 year:(1993)
 rating:7.2
 votes:12,418
@@ -29874,7 +29874,7 @@ votes:12,216
 director:Christopher Guest,
 stars:Chris Farley,Matthew Perry,Bokeem Woodbine,
 genres:Adventure,Comedy,Western,
-title:Pat Garrett & Billy the Kid
+title:Pat Garrett &#x26; Billy the Kid
 year:(1973)
 rating:7.4
 votes:12,197
@@ -30007,7 +30007,7 @@ votes:11,987
 director:Jason Friedberg,Aaron Seltzer,
 stars:Maiara Walsh,Brant Daugherty,Cody Christian,
 genres:Comedy,
-title:Devil's Due
+title:Devil&#x27;s Due
 year:(2014)
 rating:4.0
 votes:11,963
@@ -30021,7 +30021,7 @@ votes:11,944
 director:Paul Verhoeven,
 stars:Rutger Hauer,Jennifer Jason Leigh,Tom Burlinson,
 genres:Adventure,Drama,
-title:Coal Miner's Daughter
+title:Coal Miner&#x27;s Daughter
 year:(1980)
 rating:7.5
 votes:11,940
@@ -30245,7 +30245,7 @@ votes:11,541
 director:Jamie Travis,
 stars:Ari Graynor,Lauren Miller,Justin Long,
 genres:Comedy,
-title:Who's Harry Crumb?
+title:Who&#x27;s Harry Crumb?
 year:(1989)
 rating:5.8
 votes:11,537
@@ -30406,7 +30406,7 @@ votes:11,361
 director:Angela Robinson,
 stars:Sara Foster,Jordana Brewster,Devon Aoki,
 genres:Action,Comedy,Romance,
-title:Winchester '73
+title:Winchester &#x27;73
 year:(1950)
 rating:7.8
 votes:11,357
@@ -30434,7 +30434,7 @@ votes:11,310
 director:Jacques Tourneur,
 stars:Simone Simon,Tom Conway,Kent Smith,
 genres:Horror,Mystery,Thriller,
-title:Jane Austen's Mafia!
+title:Jane Austen&#x27;s Mafia!
 year:(1998)
 rating:5.5
 votes:11,812
@@ -30644,7 +30644,7 @@ votes:11,517
 director:Christopher Guest,
 stars:Catherine O'Hara,Parker Posey,Christopher Guest,
 genres:Comedy,
-title:What's the Worst That Could Happen?
+title:What&#x27;s the Worst That Could Happen?
 year:(2001)
 rating:5.4
 votes:11,513
@@ -30658,7 +30658,7 @@ votes:11,506
 director:Joe Nussbaum,
 stars:Alexa PenaVega,Mika Boorem,Scout Taylor-Compton,
 genres:Comedy,
-title:Mother's Day
+title:Mother&#x27;s Day
 year:(2010)
 rating:6.3
 votes:11,498
@@ -30805,7 +30805,7 @@ votes:11,278
 director:John Frankenheimer,
 stars:Gene Hackman,Fernando Rey,Bernard Fresson,
 genres:Action,Crime,Drama,Thriller,
-title:Fathers' Day
+title:Fathers&#x27; Day
 year:(1997)
 rating:5.0
 votes:11,270
@@ -31071,14 +31071,14 @@ votes:10,835
 director:Mark Tarlov,
 stars:Sarah Michelle Gellar,Sean Patrick Flanery,Patricia Clarkson,
 genres:Comedy,Drama,Fantasy,Romance,
-title:River's Edge
+title:River&#x27;s Edge
 year:(1986)
 rating:7.1
 votes:10,807
 director:Tim Hunter,
 stars:Crispin Glover,Keanu Reeves,Ione Skye,
 genres:Crime,Drama,
-title:Sugar & Spice
+title:Sugar &#x26; Spice
 year:(2001)
 rating:5.5
 votes:10,797
@@ -31099,14 +31099,14 @@ votes:10,772
 director:Francis Ford Coppola,
 stars:Tim Roth,Alexandra Maria Lara,Bruno Ganz,
 genres:Drama,Fantasy,History,Mystery,Romance,
-title:Alex & Emma
+title:Alex &#x26; Emma
 year:(2003)
 rating:5.5
 votes:10,760
 director:Rob Reiner,
 stars:Luke Wilson,Kate Hudson,David Paymer,
 genres:Comedy,Romance,
-title:Say It Isn't So
+title:Say It Isn&#x27;t So
 year:(2001)
 rating:4.9
 votes:10,760
@@ -31183,7 +31183,7 @@ votes:11,253
 director:Bruce Robinson,
 stars:Andy Garcia,Uma Thurman,Lance Henriksen,
 genres:Crime,Drama,Mystery,Thriller,
-title:They Shoot Horses, Don't They?
+title:They Shoot Horses, Don&#x27;t They?
 year:(1969)
 rating:7.9
 votes:11,247
@@ -31491,7 +31491,7 @@ votes:10,722
 director:Chris Fisher,
 stars:Daveigh Chase,Briana Evigan,James Lafferty,
 genres:Mystery,Sci-Fi,Thriller,
-title:Cookie's Fortune
+title:Cookie&#x27;s Fortune
 year:(1999)
 rating:6.9
 votes:10,721
@@ -31596,7 +31596,7 @@ votes:10,542
 director:Louis C.K.,
 stars:Chris Rock,Lance Crouther,J.B. Smoove,
 genres:Comedy,Musical,Adventure,Action,
-title:Up Close & Personal
+title:Up Close &#x26; Personal
 year:(1996)
 rating:6.0
 votes:10,516
@@ -31736,7 +31736,7 @@ votes:10,297
 director:Chris Gorak,
 stars:Mary McCormack,Rory Cochrane,Tony Perez,
 genres:Drama,Thriller,
-title:Bang Bang You're Dead
+title:Bang Bang You&#x27;re Dead
 year:(2002)
 rating:8.0
 votes:10,281
@@ -31841,7 +31841,7 @@ votes:10,729
 director:Mark Pellington,
 stars:Luke Wilson,George Lopez,Radha Mitchell,
 genres:Comedy,Drama,
-title:Gridlock'd
+title:Gridlock&#x27;d
 year:(1997)
 rating:7.0
 votes:10,718
@@ -32030,7 +32030,7 @@ votes:10,371
 director:Michael Gordon,
 stars:Rock Hudson,Doris Day,Tony Randall,
 genres:Comedy,Romance,
-title:Coogan's Bluff
+title:Coogan&#x27;s Bluff
 year:(1968)
 rating:6.5
 votes:10,365
@@ -32254,7 +32254,7 @@ votes:9,993
 director:Jonathan Kaplan,
 stars:Kurt Russell,Ray Liotta,Madeleine Stowe,
 genres:Crime,Drama,Thriller,
-title:The Band's Visit
+title:The Band&#x27;s Visit
 year:(2007)
 rating:7.6
 votes:9,983
@@ -32282,7 +32282,7 @@ votes:9,963
 director:Hal Needham,
 stars:Burt Reynolds,Jackie Gleason,Jerry Reed,
 genres:Action,Comedy,Crime,Romance,
-title:The Slammin' Salmon
+title:The Slammin&#x27; Salmon
 year:(2009)
 rating:6.5
 votes:9,935
@@ -32373,7 +32373,7 @@ votes:9,811
 director:Sebastian Gutierrez,
 stars:Lucy Liu,Michael Chiklis,Carla Gugino,
 genres:Action,Horror,Mystery,Thriller,
-title:Joe's Apartment
+title:Joe&#x27;s Apartment
 year:(1996)
 rating:5.3
 votes:9,811
@@ -32506,7 +32506,7 @@ votes:9,633
 director:Trey Parker,
 stars:Trey Parker,Dian Bachar,Stephen Blackpool,
 genres:Biography,Comedy,Musical,Thriller,Western,
-title:April Fool's Day
+title:April Fool&#x27;s Day
 year:(1986)
 rating:6.2
 votes:9,628
@@ -32520,7 +32520,7 @@ votes:9,620
 director:Ron Shelton,
 stars:Woody Harrelson,Antonio Banderas,Lolita Davidovich,
 genres:Comedy,Drama,Sport,
-title:Intolerance: Love's Struggle Throughout the Ages
+title:Intolerance: Love&#x27;s Struggle Throughout the Ages
 year:(1916)
 rating:8.0
 votes:9,614
@@ -32576,7 +32576,7 @@ votes:10,036
 director:Jerry Schatzberg,
 stars:Gene Hackman,Al Pacino,Dorothy Tristan,
 genres:Drama,
-title:Devil's Knot
+title:Devil&#x27;s Knot
 year:(2013)
 rating:6.0
 votes:10,045
@@ -32597,7 +32597,7 @@ votes:10,004
 director:Amy Heckerling,
 stars:Michael Keaton,Joe Piscopo,Marilu Henner,
 genres:Comedy,Crime,
-title:Heaven & Earth
+title:Heaven &#x26; Earth
 year:(1993)
 rating:6.8
 votes:10,002
@@ -32779,7 +32779,7 @@ votes:9,744
 director:Gregg Bishop,
 stars:Jared Kusnitz,Greyson Chadwick,Chandler Darby,
 genres:Comedy,Horror,
-title:Weekend at Bernie's II
+title:Weekend at Bernie&#x27;s II
 year:(1993)
 rating:4.5
 votes:9,735
@@ -32947,7 +32947,7 @@ votes:9,495
 director:Anthony DiBlasi,
 stars:Jackson Rathbone,Hanne Steen,Laura Donnelly,
 genres:Drama,Horror,Thriller,
-title:Planes: Fire & Rescue
+title:Planes: Fire &#x26; Rescue
 year:(2014)
 rating:5.9
 votes:9,492
@@ -32996,7 +32996,7 @@ votes:9,401
 director:Joseph Zito,
 stars:Chuck Norris,M. Emmet Walsh,David Tress,
 genres:Action,Adventure,Drama,Thriller,War,
-title:Henry & June
+title:Henry &#x26; June
 year:(1990)
 rating:6.4
 votes:9,386
@@ -33094,7 +33094,7 @@ votes:9,229
 director:Martha Coolidge,
 stars:Nicolas Cage,Deborah Foreman,Elizabeth Daily,
 genres:Comedy,Romance,
-title:We're Back! A Dinosaur's Story
+title:We&#x27;re Back! A Dinosaur&#x27;s Story
 year:(1993)
 rating:6.1
 votes:9,224
@@ -33206,7 +33206,7 @@ votes:9,129
 director:Brian Yuzna,
 stars:Kent McCord,James T. Callahan,Sarah Douglas,
 genres:Horror,Romance,
-title:Cats & Dogs: The Revenge of Kitty Galore
+title:Cats &#x26; Dogs: The Revenge of Kitty Galore
 year:(2010)
 rating:4.2
 votes:9,129
@@ -33255,7 +33255,7 @@ votes:9,586
 director:Sam Weisman,
 stars:Steve Martin,Goldie Hawn,John Cleese,
 genres:Comedy,
-title:Gentleman's Agreement
+title:Gentleman&#x27;s Agreement
 year:(1947)
 rating:7.4
 votes:9,584
@@ -33346,7 +33346,7 @@ votes:9,410
 director:Hans Canosa,
 stars:Helena Bonham Carter,Aaron Eckhart,Yury Tsykun,
 genres:Comedy,Drama,Romance,
-title:Romance & Cigarettes
+title:Romance &#x26; Cigarettes
 year:(2005)
 rating:6.3
 votes:9,387
@@ -33409,7 +33409,7 @@ votes:9,290
 director:Tyler Perry,
 stars:Jurnee Smollett-Bell,Vanessa Williams,Brandy Norwood,
 genres:Drama,Thriller,
-title:The Bishop's Wife
+title:The Bishop&#x27;s Wife
 year:(1947)
 rating:7.6
 votes:9,272
@@ -33514,7 +33514,7 @@ votes:9,169
 director:Neil LaBute,
 stars:Paul Rudd,Rachel Weisz,Gretchen Mol,
 genres:Comedy,Drama,Romance,
-title:Von Ryan's Express
+title:Von Ryan&#x27;s Express
 year:(1965)
 rating:7.1
 votes:9,162
@@ -33528,7 +33528,7 @@ votes:9,161
 director:Sam Firstenberg,
 stars:Michael Dudikoff,Steve James,Judie Aronson,
 genres:Action,Adventure,Romance,
-title:I'm Gonna Git You Sucka
+title:I&#x27;m Gonna Git You Sucka
 year:(1988)
 rating:6.5
 votes:9,155
@@ -33570,7 +33570,7 @@ votes:9,125
 director:Robert Benton,
 stars:Dustin Hoffman,Nicole Kidman,Loren Dean,
 genres:Action,Crime,Drama,
-title:What Doesn't Kill You
+title:What Doesn&#x27;t Kill You
 year:(2008)
 rating:6.7
 votes:9,122
@@ -33955,7 +33955,7 @@ votes:9,108
 director:Adam Jay Epstein,Andrew Jacobson,
 stars:Frankie Muniz,Michael Cera,Ashley Schneider,
 genres:Comedy,
-title:The Children's Hour
+title:The Children&#x27;s Hour
 year:(1961)
 rating:7.8
 votes:9,109
@@ -33983,7 +33983,7 @@ votes:9,078
 director:Tibor Takács,
 stars:Stephen Dorff,Christa Denton,Louis Tripp,
 genres:Horror,
-title:Twelve O'Clock High
+title:Twelve O&#x27;Clock High
 year:(1949)
 rating:7.8
 votes:9,062
@@ -34067,7 +34067,7 @@ votes:8,972
 director:Albert Brooks,
 stars:Albert Brooks,Sharon Stone,Andie MacDowell,
 genres:Comedy,
-title:King Solomon's Mines
+title:King Solomon&#x27;s Mines
 year:(1985)
 rating:5.1
 votes:8,969
@@ -34214,7 +34214,7 @@ votes:8,820
 director:David Gordon Green,
 stars:Zooey Deschanel,Paul Schneider,Patricia Clarkson,
 genres:Drama,Romance,
-title:Heaven's Gate
+title:Heaven&#x27;s Gate
 year:(1980)
 rating:6.7
 votes:8,806
@@ -34277,7 +34277,7 @@ votes:8,749
 director:Roland Suso Richter,
 stars:Ryan Phillippe,Sarah Polley,Piper Perabo,
 genres:Mystery,Sci-Fi,Thriller,
-title:All the King's Men
+title:All the King&#x27;s Men
 year:(1949)
 rating:7.6
 votes:8,747
@@ -34452,7 +34452,7 @@ votes:8,526
 director:Gary Nelson,
 stars:Barbara Harris,Jodie Foster,John Astin,
 genres:Comedy,Family,Fantasy,
-title:She's Having a Baby
+title:She&#x27;s Having a Baby
 year:(1988)
 rating:5.8
 votes:8,515
@@ -34487,7 +34487,7 @@ votes:8,482
 director:Don Siegel,
 stars:Clint Eastwood,Geraldine Page,Elizabeth Hartman,
 genres:Drama,Romance,Thriller,War,
-title:Madea's Family Reunion
+title:Madea&#x27;s Family Reunion
 year:(2006)
 rating:4.9
 votes:8,471
@@ -34599,7 +34599,7 @@ votes:8,350
 director:Rouben Mamoulian,
 stars:Fredric March,Miriam Hopkins,Rose Hobart,
 genres:Horror,Sci-Fi,
-title:Vampire's Kiss
+title:Vampire&#x27;s Kiss
 year:(1988)
 rating:5.8
 votes:8,345
@@ -34914,7 +34914,7 @@ votes:8,400
 director:Brian De Palma,
 stars:Patrick Carroll,Rob Devaney,Izzy Diaz,
 genres:Crime,Drama,War,
-title:Moms' Night Out
+title:Moms&#x27; Night Out
 year:(2014)
 rating:5.4
 votes:8,402
@@ -35019,7 +35019,7 @@ votes:8,254
 director:Jane Campion,
 stars:Nicole Kidman,John Malkovich,Barbara Hershey,
 genres:Drama,Romance,
-title:The Preacher's Wife
+title:The Preacher&#x27;s Wife
 year:(1996)
 rating:5.4
 votes:8,251
@@ -35138,7 +35138,7 @@ votes:8,104
 director:Nora Ephron,
 stars:John Travolta,Lisa Kudrow,Tim Roth,
 genres:Comedy,Crime,
-title:It's Pat
+title:It&#x27;s Pat
 year:(1994)
 rating:2.6
 votes:8,097
@@ -35180,7 +35180,7 @@ votes:8,068
 director:Andrew V. McLaglen,
 stars:John Wayne,Maureen O'Hara,Patrick Wayne,
 genres:Comedy,Romance,Western,
-title:Cheech and Chong's Next Movie
+title:Cheech and Chong&#x27;s Next Movie
 year:(1980)
 rating:6.1
 votes:8,059
@@ -35271,7 +35271,7 @@ votes:7,967
 director:Joe Dante,Carl Gottlieb,
 stars:Rosanna Arquette,Michelle Pfeiffer,Arsenio Hall,
 genres:Comedy,Sci-Fi,
-title:That's What I Am
+title:That&#x27;s What I Am
 year:(2011)
 rating:7.1
 votes:7,954
@@ -35292,7 +35292,7 @@ votes:7,932
 director:Douglas Sirk,
 stars:Jane Wyman,Rock Hudson,Agnes Moorehead,
 genres:Drama,Romance,
-title:You're Not You
+title:You&#x27;re Not You
 year:(2014)
 rating:7.4
 votes:7,965
@@ -35432,7 +35432,7 @@ votes:8,183
 director:Mars Callahan,
 stars:Mars Callahan,Chazz Palminteri,Michael Rosenbaum,
 genres:Drama,Thriller,
-title:Happily N'Ever After
+title:Happily N&#x27;Ever After
 year:(2006)
 rating:4.5
 votes:8,179
@@ -35649,7 +35649,7 @@ votes:7,928
 director:Kaige Chen,
 stars:Cecilia Cheung,Dong-gun Jang,Hiroyuki Sanada,
 genres:Action,Drama,Fantasy,
-title:Porky's II: The Next Day
+title:Porky&#x27;s II: The Next Day
 year:(1983)
 rating:4.8
 votes:7,923
@@ -35775,7 +35775,7 @@ votes:7,803
 director:Don Roos,
 stars:Lisa Kudrow,Steve Coogan,Maggie Gyllenhaal,
 genres:Comedy,Drama,Music,Thriller,
-title:We Don't Live Here Anymore
+title:We Don&#x27;t Live Here Anymore
 year:(2004)
 rating:6.4
 votes:7,806
@@ -36265,7 +36265,7 @@ votes:7,677
 director:Mike Nichols,
 stars:Garry Shandling,Annette Bening,John Goodman,
 genres:Comedy,Sci-Fi,
-title:It's a Disaster
+title:It&#x27;s a Disaster
 year:(2012)
 rating:6.5
 votes:7,669
@@ -36335,7 +36335,7 @@ votes:7,612
 director:Peter MacDonald,
 stars:Jason James Richter,Melody Kay,Jack Black,
 genres:Adventure,Comedy,Family,Fantasy,
-title:Gone Fishin'
+title:Gone Fishin&#x27;
 year:(1997)
 rating:4.6
 votes:7,606
@@ -36356,7 +36356,7 @@ votes:7,587
 director:Ira Sachs,
 stars:Chris Cooper,Patricia Clarkson,Rachel McAdams,
 genres:Crime,Drama,Romance,
-title:Mo' Better Blues
+title:Mo&#x27; Better Blues
 year:(1990)
 rating:6.5
 votes:7,581
@@ -36580,7 +36580,7 @@ votes:7,287
 director:Ralph Bakshi,
 stars:Skip Hinnant,Rosetta LeNoire,John McCurry,
 genres:Animation,Comedy,
-title:What's New Pussycat
+title:What&#x27;s New Pussycat
 year:(1965)
 rating:6.2
 votes:7,281
@@ -36601,7 +36601,7 @@ votes:7,278
 director:Bruce A. Evans,
 stars:Christian Slater,Milla Jovovich,Ric Roman Waugh,
 genres:Action,Comedy,Crime,
-title:Three O'Clock High
+title:Three O&#x27;Clock High
 year:(1987)
 rating:7.2
 votes:7,278
@@ -36664,7 +36664,7 @@ votes:7,222
 director:Alan Cumming,Jennifer Jason Leigh,
 stars:Alan Cumming,Jennifer Jason Leigh,Phoebe Cates,
 genres:Drama,Comedy,
-title:What's Up, Tiger Lily?
+title:What&#x27;s Up, Tiger Lily?
 year:(1966)
 rating:6.1
 votes:7,215
@@ -36706,7 +36706,7 @@ votes:7,170
 director:Andrew Scheinman,
 stars:Luke Edwards,Timothy Busfield,John Ashton,
 genres:Comedy,Family,Sport,
-title:Tim and Eric's Billion Dollar Movie
+title:Tim and Eric&#x27;s Billion Dollar Movie
 year:(2012)
 rating:5.2
 votes:7,161
@@ -36748,7 +36748,7 @@ votes:7,545
 director:Andy Cheng,
 stars:Nathan Phillips,Nadia Bjorlin,Eddie Griffin,
 genres:Action,
-title:Violet & Daisy
+title:Violet &#x26; Daisy
 year:(2011)
 rating:6.1
 votes:7,536
@@ -36881,7 +36881,7 @@ votes:7,362
 director:George A. Romero,
 stars:Lane Carroll,Will MacMillan,Harold Wayne Jones,
 genres:Action,Horror,Sci-Fi,
-title:Meek's Cutoff
+title:Meek&#x27;s Cutoff
 year:(2010)
 rating:6.5
 votes:7,350
@@ -36972,7 +36972,7 @@ votes:7,262
 director:Alan Shapiro,
 stars:Paul Hogan,Elijah Wood,Jonathan Banks,
 genres:Family,Adventure,
-title:I'll Sleep When I'm Dead
+title:I&#x27;ll Sleep When I&#x27;m Dead
 year:(2003)
 rating:5.9
 votes:7,248
@@ -37049,7 +37049,7 @@ votes:7,179
 director:David Ross,
 stars:Lauren Birkell,Paul Borghese,Chira Cassel,
 genres:Drama,
-title:The Four Musketeers: Milady's Revenge
+title:The Four Musketeers: Milady&#x27;s Revenge
 year:(1974)
 rating:7.1
 votes:7,170
@@ -37280,7 +37280,7 @@ votes:6,958
 director:Eduardo Sánchez,
 stars:Gretchen Lodge,Johnny Lewis,Alexandra Holden,
 genres:Drama,Horror,
-title:Who's That Girl
+title:Who&#x27;s That Girl
 year:(1987)
 rating:4.5
 votes:6,952
@@ -37343,14 +37343,14 @@ votes:6,908
 director:Billy Wilder,
 stars:Robert Stephens,Christopher Lee,Colin Blakely,
 genres:Adventure,Comedy,Crime,Mystery,Romance,Thriller,
-title:Madea's Witness Protection
+title:Madea&#x27;s Witness Protection
 year:(2012)
 rating:4.7
 votes:6,901
 director:Tyler Perry,
 stars:Tyler Perry,Eugene Levy,Denise Richards,
 genres:Comedy,Crime,Drama,
-title:It's All About Love
+title:It&#x27;s All About Love
 year:(2003)
 rating:5.5
 votes:6,895
@@ -37686,7 +37686,7 @@ votes:6,915
 director:Jeffrey Bloom,
 stars:Louise Fletcher,Victoria Tennant,Kristy Swanson,
 genres:Drama,Mystery,Thriller,
-title:Amos & Andrew
+title:Amos &#x26; Andrew
 year:(1993)
 rating:5.5
 votes:6,915
@@ -37777,7 +37777,7 @@ votes:6,844
 director:Alfred Hitchcock,
 stars:Gregory Peck,Ann Todd,Charles Laughton,
 genres:Crime,Drama,Romance,Thriller,
-title:Ben & Arthur
+title:Ben &#x26; Arthur
 year:(2002)
 rating:2.3
 votes:6,842
@@ -37798,7 +37798,7 @@ votes:6,826
 director:Don Siegel,
 stars:Walter Matthau,Joe Don Baker,Felicia Farr,
 genres:Action,Crime,Drama,Thriller,
-title:Your Friends & Neighbors
+title:Your Friends &#x26; Neighbors
 year:(1998)
 rating:6.4
 votes:6,820
@@ -37882,14 +37882,14 @@ votes:6,745
 director:Tamra Davis,
 stars:Chris Rock,Allen Payne,Deezer D,
 genres:Comedy,Music,
-title:She's So Lovely
+title:She&#x27;s So Lovely
 year:(1997)
 rating:5.9
 votes:6,740
 director:Nick Cassavetes,
 stars:Sean Penn,Robin Wright,John Travolta,
 genres:Drama,Romance,
-title:Santa's Slay
+title:Santa&#x27;s Slay
 year:(2005)
 rating:5.4
 votes:6,736
@@ -38120,7 +38120,7 @@ votes:6,555
 director:Carl Franklin,
 stars:Bill Paxton,Billy Bob Thornton,Cynda Williams,
 genres:Thriller,Crime,Drama,
-title:Mr. & Mrs. Smith
+title:Mr. &#x26; Mrs. Smith
 year:(1941)
 rating:6.5
 votes:6,540
@@ -38141,7 +38141,7 @@ votes:6,832
 director:David Seltzer,
 stars:Michael Douglas,Melanie Griffith,Liam Neeson,
 genres:Drama,Romance,Thriller,War,
-title:Mini's First Time
+title:Mini&#x27;s First Time
 year:(2006)
 rating:5.9
 votes:6,826
@@ -38309,7 +38309,7 @@ votes:6,696
 director:Steve Buscemi,
 stars:Casey Affleck,Liv Tyler,Mary Kay Place,
 genres:Comedy,Drama,
-title:Cop & ½
+title:Cop &#x26; &#xBD;
 year:(1993)
 rating:3.8
 votes:6,677
@@ -38491,7 +38491,7 @@ votes:6,521
 director:Martin Ritt,
 stars:Paul Newman,Joanne Woodward,Anthony Franciosa,
 genres:Drama,
-title:The Cat's Meow
+title:The Cat&#x27;s Meow
 year:(2001)
 rating:6.4
 votes:6,519
@@ -38778,7 +38778,7 @@ votes:6,287
 director:Otto Preminger,
 stars:Paul Newman,Eva Marie Saint,Ralph Richardson,
 genres:Action,Drama,History,War,
-title:The Nun's Story
+title:The Nun&#x27;s Story
 year:(1959)
 rating:7.6
 votes:6,286
@@ -38862,7 +38862,7 @@ votes:6,516
 director:Louis Malle,
 stars:Brooke Shields,Keith Carradine,Susan Sarandon,
 genres:Drama,
-title:Eve's Bayou
+title:Eve&#x27;s Bayou
 year:(1997)
 rating:7.3
 votes:6,509
@@ -38890,7 +38890,7 @@ votes:6,502
 director:Gary Nelson,
 stars:Richard Chamberlain,Sharon Stone,James Earl Jones,
 genres:Action,Adventure,Comedy,
-title:Rock 'n' Roll High School
+title:Rock &#x27;n&#x27; Roll High School
 year:(1979)
 rating:6.8
 votes:6,496
@@ -39079,7 +39079,7 @@ votes:6,357
 director:Peter Yates,
 stars:Cher,Dennis Quaid,Liam Neeson,
 genres:Crime,Drama,Thriller,
-title:Dead & Buried
+title:Dead &#x26; Buried
 year:(1981)
 rating:6.6
 votes:6,349
@@ -39100,7 +39100,7 @@ votes:6,321
 director:Hype Williams,
 stars:Nas,DMX,Taral Hicks,
 genres:Crime,Drama,
-title:Airport '77
+title:Airport &#x27;77
 year:(1977)
 rating:5.5
 votes:6,309
@@ -39205,7 +39205,7 @@ votes:6,238
 director:Chazz Palminteri,
 stars:Susan Sarandon,Penélope Cruz,Paul Walker,
 genres:Drama,
-title:Don't Come Knocking
+title:Don&#x27;t Come Knocking
 year:(2005)
 rating:6.7
 votes:6,225
@@ -39387,7 +39387,7 @@ votes:6,086
 director:Randy Moore,
 stars:Roy Abramsohn,Elena Schuber,Katelynn Rodriguez,
 genres:Fantasy,Horror,
-title:I Hate Valentine's Day
+title:I Hate Valentine&#x27;s Day
 year:(2009)
 rating:4.6
 votes:6,080
@@ -39702,7 +39702,7 @@ votes:6,121
 director:Josh Stolberg,
 stars:Ross Nathan,Sam Pancake,Ben Begley,
 genres:Comedy,
-title:Other People's Money
+title:Other People&#x27;s Money
 year:(1991)
 rating:6.1
 votes:6,114
@@ -39793,7 +39793,7 @@ votes:6,048
 director:Mike Binder,
 stars:Damon Wayans,David Alan Grier,Robin Givens,
 genres:Comedy,Action,Crime,
-title:A Soldier's Story
+title:A Soldier&#x27;s Story
 year:(1984)
 rating:7.2
 votes:6,043
@@ -39814,7 +39814,7 @@ votes:6,030
 director:Nicholas Meyer,
 stars:Tom Hanks,John Candy,Rita Wilson,
 genres:Comedy,
-title:Jesus' Son
+title:Jesus&#x27; Son
 year:(1999)
 rating:7.0
 votes:6,023
@@ -39828,7 +39828,7 @@ votes:6,020
 director:Robert Siodmak,
 stars:Dorothy McGuire,George Brent,Ethel Barrymore,
 genres:Mystery,Thriller,
-title:Kickin' It Old Skool
+title:Kickin&#x27; It Old Skool
 year:(2007)
 rating:4.6
 votes:6,016
@@ -39926,7 +39926,7 @@ votes:5,946
 director:Mike Binder,
 stars:Ben Affleck,Rebecca Romijn,John Cleese,
 genres:Comedy,Drama,
-title:I'll Be Home for Christmas
+title:I&#x27;ll Be Home for Christmas
 year:(1998)
 rating:5.3
 votes:5,938
@@ -40178,7 +40178,7 @@ votes:5,769
 director:Neil Jordan,
 stars:Peter O'Toole,Daryl Hannah,Steve Guttenberg,
 genres:Comedy,Fantasy,Horror,Romance,
-title:Griffin & Phoenix
+title:Griffin &#x26; Phoenix
 year:(2006)
 rating:7.1
 votes:5,762
@@ -40626,7 +40626,7 @@ votes:5,678
 director:Todd Burrows,Christopher Folino,
 stars:Chase Williamson,Ashley Bell,Clancy Brown,
 genres:Action,Thriller,
-title:Everyone's Hero
+title:Everyone&#x27;s Hero
 year:(2006)
 rating:5.8
 votes:5,677
@@ -40906,7 +40906,7 @@ votes:5,544
 director:Carl Schenkel,
 stars:Christopher Lambert,Tom Skerritt,Diane Lane,
 genres:Drama,Mystery,Thriller,
-title:Porky's 3: Revenge
+title:Porky&#x27;s 3: Revenge
 year:(1985)
 rating:4.6
 votes:5,543
@@ -40948,14 +40948,14 @@ votes:5,702
 director:Andrew Leman,
 stars:Matt Foyer,John Bolen,Ralph Lucas,
 genres:Fantasy,Horror,Mystery,Thriller,
-title:Madea's Big Happy Family
+title:Madea&#x27;s Big Happy Family
 year:(2011)
 rating:4.3
 votes:5,691
 director:Tyler Perry,
 stars:Tyler Perry,Loretta Devine,Shad Moss,
 genres:Comedy,Drama,
-title:Lovely & Amazing
+title:Lovely &#x26; Amazing
 year:(2001)
 rating:6.9
 votes:5,690
@@ -41004,7 +41004,7 @@ votes:5,670
 director:John Sayles,
 stars:Chris Cooper,James Earl Jones,Mary McDonnell,
 genres:Drama,History,
-title:In Harm's Way
+title:In Harm&#x27;s Way
 year:(1965)
 rating:7.4
 votes:5,668
@@ -41081,7 +41081,7 @@ votes:5,620
 director:Michael Mayer,
 stars:Alison Lohman,Tim McGraw,Maria Bello,
 genres:Adventure,Drama,Family,
-title:Daddy's Little Girls
+title:Daddy&#x27;s Little Girls
 year:(2007)
 rating:5.2
 votes:5,617
@@ -41137,7 +41137,7 @@ votes:5,598
 director:Howard Deutch,
 stars:Macaulay Culkin,Ted Danson,Glenne Headly,
 genres:Comedy,Crime,Family,
-title:Recess: School's Out
+title:Recess: School&#x27;s Out
 year:(2001)
 rating:6.5
 votes:5,599
@@ -41151,7 +41151,7 @@ votes:5,595
 director:Martha Coolidge,
 stars:Jack Lemmon,Walter Matthau,Dyan Cannon,
 genres:Comedy,Romance,
-title:We're No Angels
+title:We&#x27;re No Angels
 year:(1955)
 rating:7.5
 votes:5,593
@@ -41235,7 +41235,7 @@ votes:5,561
 director:Mark Rydell,
 stars:Richard Gere,Sharon Stone,Lolita Davidovich,
 genres:Drama,Romance,
-title:Frankenstein's Army
+title:Frankenstein&#x27;s Army
 year:(2013)
 rating:5.3
 votes:5,554
@@ -41410,7 +41410,7 @@ votes:5,434
 director:John Landis,
 stars:Tom Arnold,Jessica Lundy,Bug Hall,
 genres:Comedy,Adventure,
-title:Ulee's Gold
+title:Ulee&#x27;s Gold
 year:(1997)
 rating:7.1
 votes:5,431
@@ -41473,14 +41473,14 @@ votes:5,404
 director:Sidney Lumet,
 stars:Rod Steiger,Geraldine Fitzgerald,Brock Peters,
 genres:Drama,
-title:Lost & Found
+title:Lost &#x26; Found
 year:(1999)
 rating:5.0
 votes:5,395
 director:Jeff Pollack,
 stars:David Spade,Sophie Marceau,Ever Carradine,
 genres:Comedy,Romance,
-title:Love Don't Cost a Thing
+title:Love Don&#x27;t Cost a Thing
 year:(2003)
 rating:5.0
 votes:5,394
@@ -41508,7 +41508,7 @@ votes:5,378
 director:Mike Figgis,
 stars:Wesley Snipes,Nastassja Kinski,Kyle MacLachlan,
 genres:Drama,Romance,
-title:10th & Wolf
+title:10th &#x26; Wolf
 year:(2006)
 rating:6.4
 votes:5,374
@@ -41718,7 +41718,7 @@ votes:5,474
 director:Sam Wood,
 stars:Gary Cooper,Ingrid Bergman,Akim Tamiroff,
 genres:Adventure,Drama,History,Romance,War,
-title:God's Pocket
+title:God&#x27;s Pocket
 year:(2014)
 rating:6.1
 votes:5,467
@@ -41823,7 +41823,7 @@ votes:5,406
 director:Mark Rydell,
 stars:Bette Midler,Alan Bates,Frederic Forrest,
 genres:Drama,Music,Romance,
-title:Class of Nuke 'Em High
+title:Class of Nuke &#x27;Em High
 year:(1986)
 rating:5.6
 votes:5,400
@@ -41837,7 +41837,7 @@ votes:5,394
 director:David Hugh Jones,
 stars:Anne Bancroft,Anthony Hopkins,Judi Dench,
 genres:Biography,Drama,Romance,
-title:The Caveman's Valentine
+title:The Caveman&#x27;s Valentine
 year:(2001)
 rating:6.0
 votes:5,395
@@ -41886,7 +41886,7 @@ votes:5,364
 director:mink,
 stars:Steven Seagal,Takao Ohsawa,Juliette Marquis,
 genres:Action,Adventure,Thriller,
-title:The Devil's Tomb
+title:The Devil&#x27;s Tomb
 year:(2009)
 rating:3.8
 votes:5,358
@@ -41935,7 +41935,7 @@ votes:5,330
 director:Joseph Zito,
 stars:Chuck Norris,Richard Lynch,Melissa Prophet,
 genres:Action,Thriller,
-title:Mackenna's Gold
+title:Mackenna&#x27;s Gold
 year:(1969)
 rating:6.8
 votes:5,324
@@ -42173,7 +42173,7 @@ votes:5,203
 director:Michael Oblowitz,
 stars:Steven Seagal,Harry Van Gorkum,Max Ryan,
 genres:Action,Thriller,
-title:Cats Don't Dance
+title:Cats Don&#x27;t Dance
 year:(1997)
 rating:6.9
 votes:5,200
@@ -42257,7 +42257,7 @@ votes:5,137
 director:Richard Benjamin,
 stars:Shirley MacLaine,Ricki Lake,Brendan Fraser,
 genres:Comedy,Drama,Romance,
-title:The Miracle of Morgan's Creek
+title:The Miracle of Morgan&#x27;s Creek
 year:(1944)
 rating:8.0
 votes:5,133
@@ -42327,7 +42327,7 @@ votes:5,103
 director:Mike Figgis,
 stars:Richard Gere,Lena Olin,Anne Bancroft,
 genres:Drama,Romance,
-title:The Butcher's Wife
+title:The Butcher&#x27;s Wife
 year:(1991)
 rating:5.2
 votes:5,099
@@ -42397,7 +42397,7 @@ votes:5,280
 director:Gregory La Cava,
 stars:Katharine Hepburn,Ginger Rogers,Adolphe Menjou,
 genres:Comedy,Drama,
-title:Max Keeble's Big Move
+title:Max Keeble&#x27;s Big Move
 year:(2001)
 rating:5.3
 votes:5,273
@@ -42439,7 +42439,7 @@ votes:5,258
 director:Samuel Fuller,
 stars:Kristy McNichol,Christa Lang,Vernon Weddle,
 genres:Drama,Horror,Thriller,
-title:McHale's Navy
+title:McHale&#x27;s Navy
 year:(1997)
 rating:4.3
 votes:5,254
@@ -42558,7 +42558,7 @@ votes:5,180
 director:David Miller,
 stars:Kirk Douglas,Gena Rowlands,Walter Matthau,
 genres:Drama,Western,
-title:Donovan's Reef
+title:Donovan&#x27;s Reef
 year:(1963)
 rating:6.9
 votes:5,173
@@ -42628,7 +42628,7 @@ votes:5,126
 director:Bruce Beresford,
 stars:Tom Selleck,Paulina Porizkova,William Daniels,
 genres:Comedy,Crime,Mystery,Romance,
-title:Give 'em Hell Malone
+title:Give &#x27;em Hell Malone
 year:(2009)
 rating:6.0
 votes:5,126
@@ -42684,219 +42684,3 @@ votes:5,103
 director:Bruce Beresford,
 stars:Pierce Brosnan,Julianna Margulies,Aidan Quinn,
 genres:Drama,
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                hn Madden,
-
-stars:Judi Dench,Maggie Smith,Bill Nighy,
-
-genres:Comedy,Drama,
-
-title:+1
-
-year:(2013)
-
-rating:5.5
-
-votes:5,149
-
-director:Dennis Iliadis,
-
-stars:Rhys Wakefield,Logan Miller,Ashley Hinshaw,
-
-genres:Sci-Fi,Thriller,
-
-title:Kill Theory
-
-year:(2009)
-
-rating:5.6
-
-votes:5,147
-
-director:Chris Moore,
-
-stars:Don McManus,Ryanne Duzich,Teddy Dunn,
-
-genres:Horror,Thriller,
-
-title:Indiscreet
-
-year:(1958)
-
-rating:6.9
-
-votes:5,141
-
-director:Stanley Donen,
-
-stars:Cary Grant,Ingrid Bergman,Cecil Parker,
-
-genres:Comedy,Romance,
-
-title:The Thing Called Love
-
-year:(1993)
-
-rating:6.3
-
-votes:5,146
-
-director:Peter Bogdanovich,
-
-stars:River Phoenix,Samantha Mathis,Dermot Mulroney,
-
-genres:Drama,Music,Romance,
-
-title:Bye Bye Birdie
-
-year:(1963)
-
-rating:6.6
-
-votes:5,134
-
-director:George Sidney,
-
-stars:Dick Van Dyke,Ann-Margret,Janet Leigh,
-
-genres:Comedy,Musical,
-
-title:The Prince and the Showgirl
-
-year:(1957)
-
-rating:6.7
-
-votes:5,132
-
-director:Laurence Olivier,
-
-stars:Marilyn Monroe,Laurence Olivier,Richard Wattis,
-
-genres:Comedy,Romance,
-
-title:Her Alibi
-
-year:(1989)
-
-rating:5.6
-
-votes:5,126
-
-director:Bruce Beresford,
-
-stars:Tom Selleck,Paulina Porizkova,William Daniels,
-
-genres:Comedy,Crime,Mystery,Romance,
-
-title:Give 'em Hell Malone
-
-year:(2009)
-
-rating:6.0
-
-votes:5,126
-
-director:Russell Mulcahy,
-
-stars:Thomas Jane,Ving Rhames,Elsa Pataky,
-
-genres:Action,Crime,Thriller,
-
-title:Fortress 2
-
-year:(2000)
-
-rating:4.4
-
-votes:5,119
-
-director:Geoff Murphy,
-
-stars:Christopher Lambert,Beth Toussaint,Willie Garson,
-
-genres:Action,Sci-Fi,
-
-title:The Disappearance of Eleanor Rigby: Them
-
-year:(2014)
-
-rating:6.4
-
-votes:5,126
-
-director:Ned Benson,
-
-stars:James McAvoy,Jessica Chastain,Viola Davis,
-
-genres:Drama,
-
-title:Nice Dreams
-
-year:(1981)
-
-rating:6.1
-
-votes:5,111
-
-director:Tommy Chong,
-
-stars:Cheech Marin,Tommy Chong,Benita Barrie,
-
-genres:Comedy,Crime,
-
-title:Fatal Instinct
-
-year:(1993)
-
-rating:5.6
-
-votes:5,112
-
-director:Carl Reiner,
-
-stars:Armand Assante,Sherilyn Fenn,Kate Nelligan,
-
-genres:Comedy,Crime,Thriller,
-
-title:Hunter Prey
-
-year:(2010)
-
-rating:5.8
-
-votes:5,103
-
-director:Sandy Collora,
-
-stars:Clark Bartram,Damion Poitier,Isaac C. Singleton Jr.,
-
-genres:Sci-Fi,Thriller,
-
-title:The Tripper
-
-year:(2006)
-
-rating:5.1
-
-votes:5,102
-
-director:David Arquette,
-
-stars:Jaime King,Thomas Jane,Lukas Haas,
-
-genres:Comedy,Horror,
-
-title:Evelyn
-
-year:(2002)
-
-rating:7.0
-
-votes:5,103
-
-director:Bruce Beresford,
-
-stars:Pierce Brosnan,Julianna Margulies,Aidan Quinn,
-
-genres:Drama,
-
