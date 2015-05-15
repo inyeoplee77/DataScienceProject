@@ -1,0 +1,31 @@
+title:See You Again
+artist:Wiz Khalifa
+Composer:Wiz Khalifa
+title:Uptown Funk!
+artist:Mark Ronson
+Composer:Mark Ronson
+Genre:Funk / Soul,
+Album:Mark Ronson - Uptown Special,
+title:Sugar
+artist:Maroon 5
+Composer:Adam Levine
+Genre:Pop,
+Album:Maroon 5 - V,
+title:Trap Queen
+artist:Fetty Wap
+Composer:Fetty Wap
+Genre:Hip Hop,
+Album:DJ Louie Styles Presents Fetty Wap - Up Next,
+title:Thinking Out Loud
+artist:Ed Sheeran
+Composer:Amy Wadge
+Genre:Pop,Rock,
+Album:Ed Sheeran - X,
+title:Earned It (Fifty Shades Of Grey)
+artist:The Weeknd
+Composer:The Weeknd
+Genre:Pop,
+title:Love Me Like You Do
+artist:Ellie Goulding
+Composer:Ellie Goulding
+Genre:Pop,
