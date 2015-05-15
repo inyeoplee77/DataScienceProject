@@ -52,9 +52,9 @@ for i in scraps:
 		stars = staff[staff.find('With:')+5:].split(',')
 		title = info.find('a').contents[0]
 		
-		parser.unescape(title)
-		parser.unescape(directors)
-		parser.unescape(stars)
+		title = parser.unescape(title)
+		directors = parser.unescape(directors)
+		stars = parser.unescape(stars)
 		
 		f.write('title:'+title+'\n')
 		f.write('year:'+year+'\n')
