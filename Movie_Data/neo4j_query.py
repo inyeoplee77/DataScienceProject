@@ -7,28 +7,6 @@ locale.setlocale(locale.LC_ALL, 'en_US.UTF-8' )
 
 
 db = open('Movie_DB.txt','r')
-#convert html special charater to utf 8
-def uni(s):
-	loc = s.find('&#x')
-	while loc != -1:
-		u = s[loc:loc+6]
-		t = s[loc+3:loc+5]
-		s = s.replace(u,unichr(int(t,16)))
-		loc = s.find('&#x')
-	s = s.decode('string-escape')
-	return s
-
-def uni_list(l):
-	for s in range(0,len(l)):
-		loc = l[s].find('&#x')
-		while loc != -1:
-			u = l[s][loc:loc+6]
-			t = l[s][loc+3:loc+5]
-			l[s] = l[s].replace(u,unichr(int(t,16)))
-			loc = l[s].find('&#x')
-	for a in range(0,len(l)):
-		l[a] = l[a].decode('string-escape')
-	return l
 
 #from neo4jrestclient.client import GraphDatabase
 
@@ -45,14 +23,11 @@ while True:
 	if not title:
 		break
 	title = title.rstrip().split(':',1)[1]
-	title = uni(title)
 	year = int(db.readline().rstrip().split(':')[1][1:5])
 	rating = float(db.readline().rstrip().split(':')[1])
 	votes = locale.atoi(db.readline().rstrip().split(':')[1])
 	directors = db.readline().rstrip().split(':',1)[1].split(',')[:-1]	
-	directors = uni_list(directors)
 	stars = db.readline().rstrip().split(':',1)[1].split(',')[:-1]
-	stars = uni_list(stars)
 	genres = db.readline().rstrip().split(':',1)[1].split(',')[:-1]
 	
 	for i in range(0,len(genres)):
