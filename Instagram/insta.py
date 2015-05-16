@@ -60,6 +60,7 @@ for line in movies:
       if count > max_count:
          max_count = count
          max_tag = tags[0]
+   users = {} #to avoid duplication, initialize users dictionary for every movie title
    for j in range(10):
       try:
          media = api.tag_recent_media(tag_name = max_tag.name,)
@@ -75,14 +76,17 @@ for line in movies:
                   continue
                for tag in m.tags:
                   if 'movie' in tag.name:
-                     user_db.write(str(m.user.id) + ':' + title_original + '\n')
+                     user[m.user.id] = title_original
             media = api.tag_recent_media(max_tag_id = max_tag_id,tag_name = max_tag.name)
             if media[1] is None:
                break
-            max_tag_id = media[1].split('max_tag_id=')[1]
+            max_tag_id = media[1].split('max_tag_id=')[1]         
       except Exception as e:
          print e
          continue
-      break        
+      break
+   for key in users.keys():
+      user_db.write(str(key) + '::' + users[key] + '\n')        
+user_db.close()
 #for key in users.keys():
 #   user_db.write(str(key) + ':' + users[key] + '\n')
