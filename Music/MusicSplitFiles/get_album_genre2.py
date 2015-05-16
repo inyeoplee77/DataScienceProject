@@ -114,9 +114,8 @@ def search_album_name(url):
 		return -1
 			
 
-result_file = open('ResultDB.txt','w')
-
-input_file = open('MusicDB.txt','r')
+result_file = open('ResultDB_4.txt','w')
+input_file = open('MusicDB_2_4.txt','r')
 
 while True:
 	_title = input_file.readline()
