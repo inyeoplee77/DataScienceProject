@@ -1,0 +1,864 @@
+title:See You Again
+artist:Wiz Khalifa
+Album:Furious 7 [Original Motion Picture Soundtrack],See You Again,
+Genre: Classical,Stage & Screen,
+
+title:Uptown Funk!
+artist:Mark Ronson
+
+title:Sugar
+artist:Maroon 5
+Album:V,
+Genre:Pop/Rock,
+
+title:Trap Queen
+artist:Fetty Wap
+Album:Trap Queen,
+Genre:Rap,
+
+title:Thinking Out Loud
+artist:Ed Sheeran
+Album:X,
+Genre:Pop/Rock,
+
+title:Earned It (Fifty Shades Of Grey)
+artist:The Weeknd
+
+title:Love Me Like You Do
+artist:Ellie Goulding
+Album:Fifty Shades of Grey [Original Motion Picture Soundtrack],
+Genre:Pop/Rock, Avant-Garde,
+
+title:G.D.F.R.
+artist:Flo Rida
+Album:My House,
+Genre:Pop/Rock,
+
+title:Shut Up And Dance
+artist:WALK THE MOON
+Album:Talking Is Hard,
+Genre: Pop/Rock,Electronic,
+
+title:Style
+artist:Taylor Swift
+Album:1989,
+Genre:Pop/Rock,
+
+title:Somebody
+artist:Natalie La Rose
+
+title:Want To Want Me
+artist:Jason Derulo
+
+title:FourFiveSeconds
+artist:Rihanna
+Album:FourFiveSeconds,
+Genre:Pop/Rock,
+
+title:Chains
+artist:Nick Jonas
+Album:Chains,Nick Jonas,
+Genre:Pop/Rock,
+
+title:One Last Time
+artist:Ariana Grande
+Album:My Everything,One Last Time,
+Genre:Pop/Rock,
+
+title:Post To Be
+artist:Omarion
+Album:Sex Playlist,
+Genre:Stage & Screen,
+
+title:Time Of Our Lives
+artist:Pitbull
+Album:Globalization,
+Genre: Pop/Rock,Folk,
+
+title:Truffle Butter
+artist:Nicki Minaj
+Album:Truffle Butter,
+Genre:Rap,
+
+title:Blank Space
+artist:Taylor Swift
+Album:1989,
+Genre:Pop/Rock,
+
+title:Lay Me Down
+artist:Sam Smith
+Album:Lay Me Down,
+Genre:Pop/Rock,
+
+title:B**** Better Have My Money
+artist:Rihanna
+Album:Bitch Better Have My Money,
+Genre:Rap,
+
+title:Take Your Time
+artist:Sam Hunt
+Album:Montevallo,
+Genre:Pop/Rock,
+
+title:Take Me To Church
+artist:Hozier
+Album:Hozier,Take Me to Church,
+Genre: Pop/Rock,Folk,
+
+title:Talking Body
+artist:Tove Lo
+Album:Talking Body,
+Genre: Pop/Rock,Electronic,
+
+title:Ayo
+artist:Chris Brown
+Album:Fan of a Fan: The Album,
+Genre:Country,
+
+title:Dear Future Husband
+artist:Meghan Trainor
+Album:Title [EP],Title,
+Genre:Vocal,
+
+title:Shake It Off
+artist:Taylor Swift
+Album:1989,Shake It Off,
+Genre:Pop/Rock,
+
+title:Blessings
+artist:Big Sean
+Album:Dark Sky Paradise,Blessings,
+Genre:Religious,
+
+title:I Want You To Know
+artist:Zedd
+Album:I Want You To Know,
+Genre:Pop/Rock,
+
+title:Throw Sum Mo
+artist:Rae Sremmurd
+Album:SremmLife,Throw Sum Mo,
+Genre:Electronic,
+
+title:Heartbeat Song
+artist:Kelly Clarkson
+Album:Piece by Piece,Heartbeat Song,
+Genre:Country,
+
+title:I'm Not The Only One
+artist:Sam Smith
+Album:In the Lonely Hour,Live from the Roundhouse,Traumfrauen,
+Genre:Jazz,
+
+title:Lips Are Movin
+artist:Meghan Trainor
+Album:Lips Are Movin,Title,
+Genre:Pop/Rock,
+
+title:Honey, I'm Good.
+artist:Andy Grammer
+Album:Magazines or Novels,
+Genre:Pop/Rock,
+
+title:Homegrown
+artist:Zac Brown Band
+Album:Jekyll + Hyde,Homegrown,
+Genre:International,
+
+title:All About That Bass
+artist:Meghan Trainor
+Album:All About That Bass,Title [EP],Title,
+Genre:Pop/Rock,
+
+title:I Don't Mind
+artist:Usher
+Album:I Don't Mind,
+Genre:Pop/Rock,
+
+title:Riptide
+artist:Vance Joy
+Album:Dream Your Life Away,God Loves You When You're Dancing,Riptide,
+Genre:Pop/Rock,
+
+title:Worth It
+artist:Fifth Harmony
+Album:Reflection,
+Genre:Rap,
+
+title:Centuries
+artist:Fall Out Boy
+Album:American Beauty/American Psycho,Centuries,
+Genre:Pop/Rock,
+
+title:Only
+artist:Nicki Minaj
+Album:The Pinkprint,Only,
+Genre:Pop/Rock,
+
+title:Where Are U Now
+artist:Skrillex
+
+title:Budapest
+artist:George Ezra
+Album:Wanted on Voyage,Did You Hear the Rain?,
+Genre: Blues,Pop/Rock,
+
+title:Hey Mama
+artist:David Guetta
+Album:Listen,
+Genre:Pop/Rock,
+
+title:Slow Motion
+artist:Trey Songz
+Album:Love Song/Slow Motion,
+Genre:Jazz,
+
+title:Outside
+artist:Calvin Harris
+
+title:Elastic Heart
+artist:Sia
+Album:Elastic Heart,
+Genre:Stage & Screen,
+
+title:Jealous
+artist:Nick Jonas
+Album:Jealous,Nick Jonas,
+Genre:Pop/Rock,
+
+title:Stay With Me
+artist:Sam Smith
+Album:Stay with Me,In the Lonely Hour,Live from the Roundhouse,
+Genre:Pop/Rock,
+
+title:I Don't F**k With You
+artist:Big Sean
+Album:I Don't F**k With You,
+Genre:Rap,
+
+title:7/11
+artist:Beyonce
+
+title:All Day
+artist:Kanye West
+Album:All Day,
+Genre:Rap,
+
+title:Know Yourself
+artist:Drake
+Album:If You're Reading This It's Too Late,
+Genre:Rap,
+
+title:Watch Me
+artist:Silento
+
+title:Ain't Worth The Whiskey
+artist:Cole Swindell
+Album:Cole Swindell,Ain't Worth the Whiskey,
+Genre:Country,
+
+title:Girl Crush
+artist:Little Big Town
+Album:Pain Killer,
+Genre:Pop/Rock,
+
+title:Say You Do
+artist:Dierks Bentley
+Album:Riser,
+Genre:Pop/Rock,
+
+title:King Kunta
+artist:Kendrick Lamar
+Album:To Pimp a Butterfly,
+Genre:R&B;,
+
+title:Sippin' On Fire
+artist:Florida Georgia Line
+Album:Anything Goes,
+Genre:Jazz,
+
+title:Energy
+artist:Drake
+Album:If You're Reading This It's Too Late,
+Genre:Rap,
+
+title:Get Low
+artist:Dillon Francis
+Album:Money Sucks, Friends Rule,Furious 7 [Original Motion Picture Soundtrack],
+Genre:Electronic,
+
+title:A Guy Walks Into A Bar
+artist:Tyler Farr
+Album:Suffer in Peace,
+Genre:R&B;,
+
+title:Geronimo
+artist:Sheppard
+Album:Geronimo,
+Genre:Stage & Screen,
+
+title:Lonely Eyes
+artist:Chris Young
+Album:A.M.,
+Genre:Country,
+
+title:Don't It
+artist:Billy Currington
+Album:Don't It,
+Genre:Jazz, Vocal,
+
+title:Nobody Love
+artist:Tori Kelly
+Album:Unbreakable Smile,
+Genre:Pop/Rock,
+
+title:You Know You Like It
+artist:DJ Snake
+Album:You Know You Like It,
+Genre: R&B;, Pop/Rock,Electronic,
+
+title:Raise 'Em Up
+artist:Keith Urban
+Album:Fuse,
+Genre:Jazz,
+
+title:Smoke
+artist:A Thousand Horses
+Album:Smoke,Smoke,
+Genre:Country,
+
+title:Ride Out
+artist:Kid Ink
+Album:Furious 7 [Original Motion Picture Soundtrack],
+Genre: Classical,Stage & Screen,
+
+title:I Bet
+artist:Ciara
+Album:Jackie,I Bet,
+Genre:Pop/Rock,
+
+title:Believe
+artist:Mumford
+Album:Believe,Wilder Mind,
+Genre:Pop/Rock,
+
+title:Legend
+artist:Drake
+Album:If You're Reading This It's Too Late,
+Genre:Rap,
+
+title:Prayer In C
+artist:Lillywood
+
+title:10 Bands
+artist:Drake
+Album:If You're Reading This It's Too Late,
+Genre:Rap,
+
+title:Bright
+artist:Echosmith
+Album:Talking Dreams,
+Genre:Pop/Rock,
+
+title:Little Toy Guns
+artist:Carrie Underwood
+Album:Greatest Hits: Decade #1,
+Genre: R&B;,Pop/Rock, Religious,
+
+title:Little Red Wagon
+artist:Miranda Lambert
+Album:Platinum,
+Genre: R&B;,Pop/Rock,
+
+title:Commas
+artist:Future
+
+title:Feeling Myself
+artist:Nicki Minaj
+Album:The Pinkprint,
+Genre:Country,
+
+title:Homegrown Honey
+artist:Darius Rucker
+Album:Southern Style,Homegrown Honey,
+Genre: Jazz,Vocal,
+
+title:Tear In My Heart
+artist:twenty one pilots
+Album:Blurryface,
+Genre:Pop/Rock,
+
+title:I Really Like You
+artist:Carly Rae Jepsen
+Album:I Really Like You,
+Genre:Pop/Rock,
+
+title:Trouble
+artist:Iggy Azalea
+Album:Reclassified,
+Genre:Blues, Pop/Rock,
+
+title:The Matrimony
+artist:Wale
+Album:The Album About Nothing,
+Genre:Rap,
+
+title:Go Hard Or Go Home
+artist:Wiz Khalifa
+Album:Go Hard or Go Home,
+Genre:Rap,
+
+title:She Don't Love You
+artist:Eric Paslay
+Album:Eric Paslay,
+Genre:Country,
+
+title:Bills
+artist:LunchMoney Lewis
+
+title:Wild Child
+artist:Kenny Chesney With Grace Potter
+Album:Don't Mess with My Man/Wild Child,
+Genre:R&B;,
+
+title:Diamond Rings And Old Barstools
+artist:Tim McGraw With Catherine Dunn
+Album:Sundown Heaven Town,Diamond Rings and Old Barstools,
+Genre:Blues,
+
+title:Love You Like That
+artist:Canaan Smith
+Album:Canaan Smith,Love You Like That,
+Genre:Country,
+
+title:Immortals
+artist:Fall Out Boy
+Album:American Beauty/American Psycho,
+Genre:Pop/Rock,
+
+title:Like A Wrecking Ball
+artist:Eric Church
+Album:The Outsiders,
+Genre:Country, Pop/Rock, Folk,
+
+title:Love Me Like You Mean It
+artist:Kelsea Ballerini
+Album:Love Me Like You Mean It,The First Time,
+Genre: Pop/Rock,Folk,
+
+title:El Perdon
+artist:Nicky Jam
+
+title:Crash And Burn
+artist:Thomas Rhett
+Album:Crash and Burn,
+Genre:Pop/Rock,
+
+title:Good Lovin
+artist:Ludacris
+
+title:Goodbye
+artist:Who Is Fancy
+
+title:Baby Be My Love Song
+artist:Easton Corbin
+Album:Baby Be My Love Song,
+Genre:Country,
+
+title:Lean On
+artist:Major Lazer X DJ Snake
+
+title:Animals
+artist:Maroon 5
+Album:V,Animals,
+Genre:Pop/Rock,
+
+title:Night Changes
+artist:One Direction
+Album:Four,
+Genre:International, Pop/Rock,
+
+title:She Knows
+artist:Ne-Yo
+Album:She Knows,Non-Fiction,
+Genre:R&B;,
+
+title:I Bet My Life
+artist:Imagine Dragons
+Album:Smoke + Mirrors,I Bet My Life,Smoke + Mirrors [Commentary],
+Genre:Classical,
+
+title:CoCo
+artist:O.T. Genasis
+Album:CoCo [1996],
+Genre: Easy Listening,Vocal,
+
+title:Apparently
+artist:J. Cole
+Album:2014 Forest Hills Drive,
+Genre:Rap,
+
+title:I See You
+artist:Luke Bryan
+Album:Crash My Party,
+Genre:Country,
+
+title:Failure
+artist:Breaking Benjamin
+Album:Failure,
+Genre:Pop/Rock,
+
+title:Lonely Tonight
+artist:Blake Shelton
+Album:Bringing Back the Sunshine,
+Genre:Pop/Rock,
+
+title:Baby Blue
+artist:Action Bronson
+Album:Mr. Wonderful,
+Genre: Rap, Pop/Rock,Electronic,
+
+title:Just Gettin' Started
+artist:Jason Aldean
+Album:Old Boots, New Dirt,
+Genre:Pop/Rock,
+
+title:Make Me Wanna
+artist:Thomas Rhett
+Album:Thomas Rhett EP,It Goes Like This,
+Genre:Country,
+
+title:Chandelier
+artist:Sia
+Album:Chandelier,1000 Forms of Fear,
+Genre:Pop/Rock,
+
+title:No Type
+artist:Rae Sremmurd
+Album:SremmLife,No Type,
+Genre:Pop/Rock,
+
+title:The Blacker The Berry
+artist:Kendrick Lamar
+Album:The  Blacker the Berry,
+Genre:Rap,
+
+title:Mean To Me
+artist:Brett Eldredge
+Album:Bring You Back,Mean to Me,
+Genre:Electronic,
+
+title:Alright
+artist:Kendrick Lamar
+Album:To Pimp a Butterfly,
+Genre:Rap,
+
+title:Fairly Local
+artist:Twenty One Pilots
+Album:Blurryface,Fairly Local,
+Genre:Pop/Rock,
+
+title:The Heart Wants What It Wants
+artist:Selena Gomez
+Album:For You,For You EP,The  Heart Wants What It Wants,
+Genre:Electronic,
+
+title:You're So Beautiful
+artist:Empire Cast
+
+title:Wesley's Theory
+artist:Kendrick Lamar
+Album:To Pimp a Butterfly,
+Genre: Blues, Jazz, Pop/Rock,Easy Listening,
+
+title:I Lived
+artist:OneRepublic
+Album:Native,
+Genre:Jazz,
+
+title:These Walls
+artist:Kendrick Lamar
+Album:To Pimp a Butterfly,
+Genre:Pop/Rock,
+
+title:Institutionalized
+artist:Kendrick Lamar
+Album:To Pimp a Butterfly,
+Genre:Rap,
+
+title:The Hanging Tree
+artist:James Newton Howard
+Album:The Hunger Games: Mockingjay, Pt. 1,The Hunger Games: Mockingjay, Part 1 [Original Motion Picture Score],
+Genre:Classical,
+
+title:Ghost
+artist:Ella Henderson
+Album:Chapter One,
+Genre:R&B;, Jazz, Pop/Rock, Blues,
+
+title:Masterpiece
+artist:Jessie J
+Album:Sweet Talker,Masterpiece,
+Genre:Pop/Rock,
+
+title:Conqueror
+artist:Empire Cast
+Album:Empire [Original Soundtrack from Season 1],
+Genre:Jazz, Stage & Screen,
+
+title:What We Ain't Got
+artist:Jake Owen
+Album:Days of Gold,
+Genre:Vocal,
+
+title:Games
+artist:Luke Bryan
+Album:Spring Break... Checkin' Out,Games,
+Genre:Country,
+
+title:Love Me Harder
+artist:Ariana Grande
+Album:My Everything,
+Genre:Pop/Rock,
+
+title:New Romantics
+artist:Taylor Swift
+Album:1989,New Romantics,
+Genre:Pop/Rock,
+
+title:Sun Daze
+artist:Florida Georgia Line
+Album:Anything Goes,Sun Daze,
+Genre:Jazz,
+
+title:Like A Cowboy
+artist:Randy Houser
+Album:How Country Feels,
+Genre:Country, Pop/Rock,
+
+title:Talladega
+artist:Eric Church
+Album:The Outsiders,
+Genre:Pop/Rock,
+
+title:Adore
+artist:Cashmere Cat
+Album:Adore,
+Genre:Pop/Rock,
+
+title:Monster
+artist:Meek Mill
+Album:Smoke + Mirrors,Monster,
+Genre:Classical,
+
+title:Sledgehammer
+artist:Fifth Harmony
+Album:Sledgehammer,Reflection,
+Genre: R&B;, Blues,Pop/Rock,
+
+title:Try Me
+artist:DeJ Loaf
+Album:Try Me,
+Genre:R&B;,
+
+title:Not For Long
+artist:B.o.B
+Album:Not For Long,
+Genre:Rap,
+
+title:Glory
+artist:Common
+
+title:Bang Bang
+artist:Jessie J
+Album:My Everything,Sweet Talker,Bang Bang,
+Genre:Pop/Rock,
+
+title:Drinking Class
+artist:Lee Brice
+Album:I Don't Dance,
+Genre:Pop/Rock,
+
+title:First Kiss
+artist:Kid Rock
+Album:First Kiss,First Kiss [Single],
+Genre:Pop/Rock,
+
+title:Often
+artist:The Weeknd
+Album:Often,
+Genre:Pop/Rock,
+
+title:All Your Fault
+artist:Big Sean
+Album:Dark Sky Paradise,
+Genre: Children's,Stage & Screen,
+
+title:You Are In Love
+artist:Taylor Swift
+Album:1989,You Are In Love,
+Genre:Pop/Rock, Country,
+
+title:Stuck On A Feeling
+artist:Prince Royce
+Album:Stuck On a Feeling,
+Genre:International,
+
+title:Only One
+artist:Kanye West
+Album:Only One,
+Genre:Rap,
+
+title:One Man Can Change The World
+artist:Big Sean
+Album:Dark Sky Paradise,One Man Can Change the World,
+Genre:Pop/Rock,
+
+title:Paradise
+artist:Big Sean
+Album:Dark Sky Paradise,Paradise,
+Genre:Rap,
+
+title:No Tellin'
+artist:Drake
+Album:If You're Reading This It's Too Late,
+Genre:Rap,
+
+title:Tuesday
+artist:I LOVE MAKONNEN
+Album:I Love Makonnen,Tuesday,
+Genre:Rap,
+
+title:Habits (Stay High)
+artist:Tove Lo
+Album:Habits (Stay High),Truth Serum,Queen of the Clouds,
+Genre: Pop/Rock,Electronic,
+
+title:Wonderland
+artist:Taylor Swift
+Album:1989,Wonderland,
+Genre:Pop/Rock, Electronic,
+
+title:Preach
+artist:Drake
+Album:If You're Reading This It's Too Late,
+Genre:Rap,
+
+title:6 God
+artist:Drake
+Album:If You're Reading This It's Too Late,
+Genre:Rap,
+
+title:Used To
+artist:Drake
+Album:If You're Reading This It's Too Late,
+Genre:Rap,
+
+title:Take It On Back
+artist:Chase Bryant
+Album:Take It On Back,Chase Bryant,
+Genre:Pop/Rock,
+
+title:What Kind Of Man
+artist:Florence + The Machine
+Album:What Kind of Man,How Big, How Blue, How Beautiful,
+Genre:Pop/Rock,
+
+title:Shots
+artist:Imagine Dragons
+Album:Shots,Smoke + Mirrors,Smoke + Mirrors [Commentary],
+Genre:Country,
+
+title:The Body
+artist:Wale
+Album:The Body,The Album About Nothing,
+Genre: Pop/Rock,Electronic,
+
+title:Now & Forever
+artist:Drake
+Album:If You're Reading This It's Too Late,
+Genre:Rap,
+
+title:6 Man
+artist:Drake
+Album:If You're Reading This It's Too Late,
+Genre:Rap,
+
+title:Don't
+artist:Ed Sheeran
+Album:X,
+Genre:Pop/Rock,
+
+title:Heroes (We Could Be)
+artist:Alesso
+Album:Heroes (We Could Be),
+Genre:Electronic,
+
+title:Something In The Water
+artist:Carrie Underwood
+Album:Something in the Water,
+Genre: Jazz, Country,Folk,
+
+title:Shotgun Rider
+artist:Tim McGraw
+Album:Sundown Heaven Town,
+Genre:Blues,
+
+title:Uma Thurman
+artist:Fall Out Boy
+Album:Uma Thurman,American Beauty/American Psycho,
+Genre:Pop/Rock,
+
+title:Where You Belong
+artist:The Weeknd
+Album:Fifty Shades of Grey [Original Motion Picture Soundtrack],
+Genre: Classical,Stage & Screen,
+
+title:I Put A Spell On You
+artist:Annie Lennox
+Album:Nostalgia,Nostalgia: An Evening with Annie Lennox,An Evening of Nostalgia with Annie Lennox [Video],
+Genre:Pop/Rock,
+
+title:Keep Your Money
+artist:Empire Cast
+
+title:Work It
+artist:Missy &Misdemeanor& Elliott
+Album:Work It,Under Construction,Respect M.E.,Original Album Series,
+Genre: Jazz,Vocal,
+
+title:Get Ur Freak On
+artist:Missy &Misdemeanor& Elliott
+
+title:Waves
+artist:Mr. Probz
+
+title:Body Language
+artist:Kid Ink
+Album:Body Language,Full Speed,
+Genre:Pop/Rock, Electronic,
+
+title:Beg For It
+artist:Iggy Azalea
+Album:Beg For It,Reclassified,
+Genre:Pop/Rock,
+
+title:L.A.LOVE (la la)
+artist:Fergie
+
+title:A Little Too Much
+artist:Shawn Mendes
+Album:Handwritten,A  Little Too Much,
+Genre: R&B;,Pop/Rock,
+
+title:God Made Girls
+artist:RaeLynn
+Album:Me EP,God Made Girls,
+Genre:Pop/Rock,
+
+title:Hotel
+artist:Kid Ink
+
+title:***Flawless
+artist:Beyonce
+Album:
