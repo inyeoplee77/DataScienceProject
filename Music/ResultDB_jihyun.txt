@@ -1,0 +1,1153 @@
+title:***Flawless
+artist:Beyonce
+album: Beyoncé,
+genre: R&B;,
+title:Out The Speakers
+artist:A-Trak + Milo
+album: Out the Speakers,
+genre:  Rap,Electronic,
+title:I Mean It
+artist:G-Eazy
+album: These Things Happen,
+genre: Pop/Rock,
+title:Rude
+artist:MAGIC!
+album: Rude,Don't Kill the Magic,
+genre: Pop/Rock,
+title:All About It
+artist:Hoodie Allen
+album: People Keep Talking,
+genre: Rap,
+title:Til It's Gone
+artist:Kenny Chesney
+album: The Big Revival,
+genre: Pop/Rock,
+title:Dangerous
+artist:David Guetta
+album: Listen,Dangerous,
+genre: R&B;,
+title:Can't Stop Dancin'
+artist:Becky G
+album: Can't Stop Dancin',
+genre:  Rap,Pop/Rock,
+title:Perfect Storm
+artist:Brad Paisley
+album: Moonshine in the Trunk,
+genre: Country,
+title:Steal My Girl
+artist:One Direction
+album: Steal My Girl,Four,
+genre: Pop/Rock,
+title:Don't Tell 'Em
+artist:Jeremih
+album: Don't Tell 'Em,
+genre:  R&B;,Electronic,
+title:Black Widow
+artist:Iggy Azalea
+album: The New Classic,Reclassified,
+genre: Pop/Rock,
+title:Blame
+artist:Calvin Harris
+album: Motion,
+genre: Country,
+title:Hot Boy
+artist:Bobby Shmurda
+title:Touchin, Lovin
+artist:Trey Songz
+album: Trigga,
+genre: Pop/Rock,
+title:Hold You Down
+artist:DJ Khaled
+album: Hold You Down,
+genre: R&B;, Pop/Rock, Electronic,
+title:No Love
+artist:August Alsina
+album: No Love,
+genre: Pop/Rock,
+title:Stolen Dance
+artist:Milky Chance
+album: Sadnecessary,Stolen Dance,Spotify Sessions: Live From Spotify Berlin,
+genre:  Blues,Pop/Rock,
+title:Rather Be
+artist:Clean Bandit
+album: New Eyes,Rather Be,
+genre: Pop/Rock,
+title:Irresistible
+artist:Fall Out Boy
+album: American Beauty/American Psycho,Irresistible,
+genre: Pop/Rock,
+title:Somewhere In My Car
+artist:Keith Urban
+album: Fuse,
+genre: Pop/Rock,
+title:Close Your Eyes
+artist:Parmalee
+album: Feels Like Carolina,
+genre: Pop/Rock,
+title:Best Friends
+artist:Sophia Grace
+title:Neon Light
+artist:Blake Shelton
+album: Bringing Back the Sunshine,Neon Light,
+genre: Pop/Rock,
+title:Trumpets
+artist:Jason Derulo
+album: Talk Dirty [Single],
+genre: Electronic,
+title:Anaconda
+artist:Nicki Minaj
+album: Anaconda,The Pinkprint,Anaconda,
+genre: Rap,
+title:Lifestyle
+artist:Rich Gang
+album: Lifestyle,
+genre: Pop/Rock,
+title:Try
+artist:Colbie Caillat
+album: Gypsy Heart: Side A,Gypsy Heart,
+genre: Folk,
+title:Something Big
+artist:Shawn Mendes
+album: Something Big,Handwritten,
+genre: Religious,
+title:In Your Arms
+artist:Nico
+album: Black Star Elephant,Hits For Kids, Vol. 32,In Your Arms,
+genre: Pop/Rock,
+title:Bed Of Lies
+artist:Nicki Minaj
+album: The Pinkprint,
+genre: Pop/Rock,
+title:Yellow Flicker Beat
+artist:Lorde
+album: The Hunger Games: Mockingjay, Pt. 1,
+genre: Pop/Rock,
+title:Santa Tell Me
+artist:Ariana Grande
+album: Santa Tell Me,
+genre: Holiday,
+title:Mary, Did You Know?
+artist:Pentatonix
+album: That's Christmas to Me,
+genre: 
+title:Bad Blood
+artist:Taylor Swift
+album: 1989,
+genre: Pop/Rock,
+title:Burnin' Up
+artist:Jessie J
+album: Sweet Talker,Burnin' Up,
+genre: Folk,
+title:Break The Rules
+artist:Charli XCX
+album: Sucker,
+genre: Pop/Rock,
+title:Bad B*tch
+artist:French Montana
+album: Bad B*tch,
+genre: Rap,
+title:Shell Shocked
+artist:Juicy J
+album: Shell Shocked,
+genre: Rap,
+title:Title
+artist:Meghan Trainor
+album: Title [EP],Title,
+genre: Pop/Rock,
+title:Wasted Love
+artist:Matt McAndrew
+album: The  Voice: The Complete Season 7 Collection,Wasted Love,
+genre: Pop/Rock,
+title:My Baby's Got A Smile On Her Face
+artist:Craig Wayne Boyd
+album: My Baby's Got A Smile On Her Face,
+genre: Country, Pop/Rock,
+title:All I Want For Christmas Is You
+artist:Mariah Carey
+album: Merry Christmas,#1's,All I Want for Christmas Is You,Greatest Hits,The Remixes,The Ballads,Love Songs,Merry Christmas II You,
+genre: Holiday,
+title:Velvet
+artist:Chris Jamison
+title:About The Money
+artist:T.I.
+album: Paperwork,
+genre:  Pop/Rock,Comedy/Spoken, Easy Listening, Stage & Screen,
+title:Lost Without U
+artist:Chris Jamison
+album: Voice: The Complete Season 7 Collection,Lost Without U,
+genre: Pop/Rock,
+title:Soldier
+artist:Damien
+title:Lost Stars
+artist:Matt McAndrew
+album: The  Voice: The Complete Season 7 Collection,Lost Stars,
+genre: Pop/Rock,
+title:Girl In A Country Song
+artist:Maddie
+album: Girl In a Country Song,
+genre: Country,
+title:Get On Your Knees
+artist:Nicki Minaj
+album: The Pinkprint,
+genre: Pop/Rock,
+title:Fireball
+artist:Pitbull
+title:Wet Dreamz
+artist:J. Cole
+album: 2014 Forest Hills Drive,
+genre: Rap,
+title:Cool Kids
+artist:Echosmith
+album: Talking Dreams,Acoustic Dreams,Summer Sampler,
+genre: Pop/Rock,
+title:New Flame
+artist:Chris Brown
+album: X,New Flame,
+genre: R&B;,
+title:Make It Rain
+artist:Ed Sheeran
+album: Make It Rain,Sons of Anarchy: Songs of Anarchy, Vol. 4 [Original TV Soundtrack],
+genre: Electronic,
+title:The Old Rugged Cross
+artist:Craig Wayne Boyd
+album: The Back to Back: Oak Ridge Boys/J.D. Sumner & the Stamps,
+genre: Country,
+title:No Flex Zone
+artist:Rae Sremmurd
+album: SremmLife,No Flex Zone,
+genre: Latin,
+title:Have Yourself A Merry Little Christmas
+artist:Sam Smith
+album: Have Yourself a Merry Little Christmas,
+genre: Jazz, Holiday, Vocal,
+title:Come Join The Murder
+artist:The White Buffalo
+album: Sons of Anarchy: Songs of Anarchy, Vol. 4 [Original TV Soundtrack],
+genre: Easy Listening,
+title:No Role Modelz
+artist:J. Cole
+album: 2014 Forest Hills Drive,
+genre: Pop/Rock,
+title:When I Was Your Man
+artist:Chris Jamison
+title:The Blower's Daughter
+artist:Matt McAndrew
+album: The  Voice: The Complete Season 7 Collection,The Blower's Daughter,
+genre: Pop/Rock,
+title:0 To 100 / The Catch Up
+artist:Drake
+title:Burnin' It Down
+artist:Jason Aldean
+album: Burnin' It Down,Old Boots, New Dirt,
+genre: Country,
+title:Look At You
+artist:Big
+album: Gravity,
+genre: Pop/Rock,
+title:Day Drinking
+artist:Little Big Town
+album: Pain Killer,Day Drinking,
+genre: Country,
+title:Feelin' It
+artist:Scotty McCreery
+album: See You Tonight,
+genre: Pop/Rock, Stage & Screen,
+title:i
+artist:Kendrick Lamar
+album: To Pimp a Butterfly,i,
+genre: Rap,
+title:Royals
+artist:Taylor John Williams
+title:Break Free
+artist:Ariana Grande
+album: My Everything,Break Free,
+genre: Electronic,
+title:Fancy
+artist:Iggy Azalea
+album: Fancy,The New Classic,Reclassified,
+genre: Pop/Rock,
+title:Guts Over Fear
+artist:Eminem
+title:Booty
+artist:Jennifer Lopez
+album: Booty,
+genre: R&B;,
+title:I Walk The Line
+artist:Craig Wayne Boyd
+album: I Walk the Line/Little Fauss and Big Halsey [Original Soundtrack],
+genre: Country, Pop/Rock,
+title:This Is How We Do
+artist:Katy Perry
+album: Prism,
+genre: Pop/Rock,
+title:Baby Don't Lie
+artist:Gwen Stefani
+album: Baby Don't Lie,
+genre: Pop/Rock,
+title:Roller Coaster
+artist:Luke Bryan
+album: Crash My Party,
+genre: Country,
+title:All Of Me
+artist:John Legend
+album: Love in the Future,All of Me,
+genre: R&B;, Pop/Rock,
+title:Bailando
+artist:Enrique Iglesias
+album: Sex and Love,
+genre: Pop/Rock,
+title:Boom Clap
+artist:Charli XCX
+album: The Fault in Our Stars [Original Motion Picture Soundtrack],Das Schicksal Ist Ein Mieser Verräter,Sucker,Boom Clap,Nos Étoiles Contraires [Music from the Motion Picture],
+genre: Stage & Screen,
+title:Happy
+artist:Pharrell Williams
+album: Happy,
+genre: Pop/Rock,
+title:Do They Know It's Christmas? (2014)
+artist:Band Aid 30
+title:Sunshine & Whiskey
+artist:Frankie Ballard
+album: Sunshine & Whiskey,
+genre: Country,
+title:Baby It's Cold Outside
+artist:Idina Menzel Duet With Michael Buble
+album: Holiday Wishes,
+genre:  Jazz, Holiday,Vocal,
+title:Dirt
+artist:Florida Georgia Line
+album: Dirt,Anything Goes,
+genre: Pop/Rock,
+title:Good Girls
+artist:5 Seconds Of Summer
+album: 5 Seconds of Summer,Good Girls,LIVESOS,
+genre: Pop/Rock,
+title:Stockholm Syndrome
+artist:One Direction
+album: Four,
+genre: Pop/Rock,
+title:You And Your Friends
+artist:Wiz Khalifa
+album: You and Your Friends,
+genre: Rap,
+title:Am I Wrong
+artist:Nico
+album: Am I Wrong?,Black Star Elephant,
+genre: Pop/Rock,
+title:Maps
+artist:Maroon 5
+album: V,Maps,
+genre: Pop/Rock,
+title:Leave The Night On
+artist:Sam Hunt
+album: Leave the Night On,X2C,Montevallo,
+genre: Country,
+title:Amnesia
+artist:5 Seconds Of Summer
+title:18
+artist:One Direction
+album: Four,
+genre: Classical,
+title:Where Do Broken Hearts Go
+artist:One Direction
+album: Four,
+genre: Vocal,
+title:Handsome And Wealthy
+artist:Migos
+album: No Label II,
+genre: Pop/Rock,
+title:Bobby Bitch
+artist:Bobby Shmurda
+album: Shmurda She Wrote,Bobby Bitch,
+genre: Rap,
+title:Superheroes
+artist:The Script
+album: No Sound Without Silence,
+genre: Pop/Rock,
+title:Made Me
+artist:Snootie Wild
+album: Go Mode,
+genre: Pop/Rock,
+title:Ready To Run
+artist:One Direction
+album: Four,
+genre: R&B;,
+title:Secrets
+artist:Mary Lambert
+album: Secrets,Heart on My Sleeve,
+genre: Pop/Rock,
+title:Shut Up + Dance
+artist:Walk The Moon
+title:Thriller
+artist:Michael Jackson
+album: Thriller,The Making of Thriller [Video],Dangerous: The Short Films,Video Greatest Hits: HIStory [Video],History on Film, Vol. 2,12 Inch Mixes,Greatest Hits: HIStory, Vol. 1,Number Ones [DVD],Thriller [Single],Off the Wall/Thriller,The Ultimate Collection [Sony/Epic],The Essential Michael Jackson,Live in Bucharest: The Dangerous Tour [DVD],Visionary: The Video Singles [Box Set],Visionary: The Singles Set 1,The Instrumental Hits of Michael Jackson,King of Pop,One Night in Japan,The Collection,Live in Japan,Michael Jackson's This Is It,Ultimate Collection,Vision,Live at Wembley 7.16.1988,History, Vols. 1-2,Majesty 1992,
+genre: R&B;, Pop/Rock,
+title:Latch
+artist:Disclosure
+album: Latch,The  Singles,Settle,Live at Øya Festival '13,Spotify Sessions: Live from Bonnaroo 2014,
+genre: Electronic,
+title:No Mediocre
+artist:T.I.
+album: Paperwork,No Mediocre,
+genre: Pop/Rock,
+title:Welcome To New York
+artist:Taylor Swift
+album: 1989,
+genre: Pop/Rock,
+title:I Won't Let You Down
+artist:OK Go
+album: Hungry Ghosts,
+genre: Pop/Rock,
+title:Wildest Dreams
+artist:Taylor Swift
+album: 1989,
+genre: Pop/Rock,
+title:American Kids
+artist:Kenny Chesney
+album: The Big Revival,American Kids,
+genre: Pop/Rock,
+title:Hope You Get Lonely Tonight
+artist:Cole Swindell
+album: Cole Swindell,Hope You Get Lonely Tonight,
+genre: Country,
+title:A Sky Full Of Stars
+artist:Coldplay
+album: Ghost Stories,Ghost Stories: Live 2014,
+genre: Pop/Rock,
+title:Small Town Throwdown
+artist:Brantley Gilbert
+album: Just as I Am,
+genre: Pop/Rock,
+title:Out Of The Woods
+artist:Taylor Swift
+album: 1989,
+genre: Folk,
+title:Hideaway
+artist:Kiesza
+album: Sound of a Woman,
+genre: Pop/Rock,
+title:Hookah
+artist:Tyga
+title:Fight Night
+artist:Migos
+album: No Label II,Fight Night,
+genre: Stage & Screen,
+title:U Guessed It
+artist:OG Maco
+album: U Guessed It,
+genre: Rap,
+title:2 On
+artist:Tinashe
+album: Aquarius,2 On,
+genre: Pop/Rock,
+title:Problem
+artist:Ariana Grande
+album: Problem,My Everything,
+genre: Jazz,
+title:Dark Horse
+artist:Katy Perry
+album: Prism,Dark Horse,
+genre: Country,
+title:Ready Set Roll
+artist:Chase Rice
+album: Ready Set Roll,Ready Set Roll [Single],Ignite the Night,
+genre: Country,
+title:Shower
+artist:Becky G
+title:V. 3005
+artist:Childish Gambino
+album: Because the Internet,
+genre: Rap,
+title:Studio
+artist:ScHoolboy Q
+album: Oxymoron,
+genre: Reggae,
+title:EW!
+artist:Jimmy Fallon
+album: EW!,
+genre: Pop/Rock,
+title:I'm Not Gonna Miss You
+artist:Glen Campbell
+album: I'll Be Me [Soundtrack],
+genre: Rap,
+title:Bo$$
+artist:Fifth Harmony
+album: Bo$$,Reflection,
+genre:  R&B;, Blues,Pop/Rock,
+title:The Days
+artist:Avicii
+album: The  Days,The  Days/Nights,
+genre: Pop/Rock,
+title:Believe Me
+artist:Lil Wayne
+album: Hood Heat, Vol. 1,
+genre: Pop/Rock,
+title:24 Hours
+artist:TeeFLii
+album: Starr,
+genre: New Age,
+title:Errrbody
+artist:Yo Gotti
+title:Later On
+artist:The Swon Brothers
+album: The  Swon Brothers,
+genre: Country,
+title:Counting Stars
+artist:OneRepublic
+album: Native,Hits For Kids, Vol. 32,
+genre: Rap,
+title:Somethin' Bad
+artist:Miranda Lambert Duet With Carrie Underwood
+album: Platinum,
+genre: Pop/Rock,
+title:Bartender
+artist:Lady Antebellum
+album: 747,Bartender,
+genre: Country,
+title:Bumpin' The Night
+artist:Florida Georgia Line
+album: Anything Goes,Bumpin' the Night,
+genre:  R&B;,Pop/Rock,
+title:Really Don't Care
+artist:Demi Lovato
+album: Demi,Really Don't Care,
+genre:  Pop/Rock,Electronic,
+title:Walk Thru
+artist:Rich Homie Quan
+album: Future vs Rich Homie Quan,
+genre: Rap,
+title:Meanwhile Back At Mama's
+artist:Tim McGraw
+album: Meanwhile Back At Mama's,Sundown Heaven Town,
+genre: Country,
+title:Tonight Looks Good On You
+artist:Jason Aldean
+album: Old Boots, New Dirt,
+genre: Pop/Rock,
+title:Drunk On A Plane
+artist:Dierks Bentley
+album: Riser,
+genre: Pop/Rock,
+title:Anything Goes
+artist:Florida Georgia Line
+album: Anything Goes,Anything Goes,
+genre: Jazz,
+title:Angel In Blue Jeans
+artist:Train
+album: Bulletproof Picasso,
+genre: Pop/Rock,
+title:Bend Ova
+artist:Lil Jon
+title:Left Hand Free
+artist:alt-J
+album: This Is All Yours,Left Hand Free,
+genre: Pop/Rock,
+title:Main Chick
+artist:Kid Ink
+title:Loyal
+artist:Chris Brown
+album: Loyal,X,
+genre: Rap,
+title:Where It's At (Yep, Yep)
+artist:Dustin Lynch
+title:Wiggle
+artist:Jason Derulo
+album: Tattoos,Talk Dirty,
+genre: Pop/Rock,
+title:Love Runs Out
+artist:OneRepublic
+album: Native,Love Runs Out,
+genre: Pop/Rock,
+title:Gonna Know We Were Here
+artist:Jason Aldean
+album: Old Boots, New Dirt,
+genre: Pop/Rock,
+title:Pills N Potions
+artist:Nicki Minaj
+album: The Pinkprint,
+genre: Pop/Rock,
+title:Dust
+artist:Eli Young Band
+album: 10,000 Towns,
+genre:  Pop/Rock, Country,Folk,
+title:X
+artist:Chris Brown
+album: X,
+genre: Pop/Rock,
+title:Foreign
+artist:Trey Songz
+album: Trigga,Foreign,
+genre: Pop/Rock,
+title:Summer
+artist:Calvin Harris
+album: Summer,Motion,
+genre: Pop/Rock,
+title:Two Night Town
+artist:Jason Aldean
+album: Old Boots, New Dirt,Two Night Town,
+genre: Pop/Rock,
+title:Work
+artist:Iggy Azalea
+album: Change Your Life,The New Classic,Reclassified,
+genre: Pop/Rock,
+title:Love Never Felt So Good
+artist:Michael Jackson
+album: Xscape,
+genre: Pop/Rock,
+title:Seen It All
+artist:Jeezy
+album: Seen It All: The Autobiography,
+genre: Rap,
+title:Cold One
+artist:Eric Church
+album: The Outsiders,
+genre:  Jazz, Holiday,Vocal,
+title:Sweet Little Somethin'
+artist:Jason Aldean
+album: Old Boots, New Dirt,Sweet Little Somethin',
+genre: Pop/Rock,
+title:Good Kisser
+artist:Usher
+album: Good Kisser,
+genre: R&B;,
+title:Turn Down For What
+artist:DJ Snake
+album: Turn Down For What,
+genre: Rap,
+title:Yeah
+artist:Joe Nichols
+album: Crickets,
+genre: Pop/Rock,
+title:It Was Always You
+artist:Maroon 5
+album: V,It Was Always You,
+genre: Pop/Rock,
+title:Delirious (Boneless)
+artist:Steve Aoki
+title:I Will Never Let You Down
+artist:Rita Ora
+album: I Will Never Let You Down,
+genre: Pop/Rock,
+title:River Bank
+artist:Brad Paisley
+album: River Bank,Moonshine in the Trunk,
+genre: Jazz,
+title:She Came To Give It To You
+artist:Usher
+album: She Came To Give It To You,
+genre: R&B;, Pop/Rock,
+title:We Dem Boyz
+artist:Wiz Khalifa
+album: Hood Heat, Vol. 1,
+genre: Rap,
+title:I Don't Dance
+artist:Lee Brice
+album: I Don't Dance,I Don't Dance [Single],
+genre: Country,
+title:We Are Tonight
+artist:Billy Currington
+album: We Are Tonight,
+genre: Country,
+title:Best Mistake
+artist:Ariana Grande
+album: My Everything,
+genre: Pop/Rock, Electronic,
+title:Who I Am With You
+artist:Chris Young
+album: A.M.,
+genre: Jazz,
+title:Come Get It Bae
+artist:Pharrell Williams
+album: G I R L,
+genre:  R&B;,Rap,
+title:Come With Me Now
+artist:KONGOS
+album: Lunatic,
+genre: Vocal,
+title:Girls Chase Boys
+artist:Ingrid Michaelson
+album: Lights Out,
+genre: Pop/Rock,
+title:Sing
+artist:Ed Sheeran
+album: Sing,X,Sing,
+genre:  R&B;, Blues,Pop/Rock,
+title:Cut Her Off
+artist:KCamp
+title:Wasted
+artist:Tiesto
+album: Tiesto - In Search of Sunrise 7: Asia,
+genre: Electronic,
+title:Dare (La La La)
+artist:Shakira
+album: Shakira,
+genre: Pop/Rock,
+title:Classic
+artist:MKTO
+album: MKTO,
+genre: Pop/Rock,
+title:Pompeii
+artist:Bastille
+album: Bad Blood,Haunt,
+genre: Pop/Rock,
+title:This Is How We Roll
+artist:Florida Georgia Line Ft. Jason Derulo
+album: Here's to the Good Times,
+genre: Vocal,
+title:She Looks So Perfect
+artist:5 Seconds Of Summer
+album: She Looks So Perfect [EP],5 Seconds of Summer,LIVESOS,
+genre:  Jazz,Latin,
+title:I'm Ready
+artist:AJR
+album: Living Room,
+genre: Folk,
+title:My Eyes
+artist:Blake Shelton
+album: Based on a True Story...,The  Blake Shelton Collection,
+genre:  Jazz, Easy Listening,Folk,
+title:Ain't It Fun
+artist:Paramore
+title:Me And My Broken Heart
+artist:Rixton
+album: Me and My Broken Heart,Me and My Broken Heart [Single],Let the Road,
+genre: Pop/Rock,
+title:Beachin'
+artist:Jake Owen
+album: Days of Gold,
+genre: Pop/Rock,
+title:Wild Life
+artist:Jack
+album: Wild Life,
+genre: Pop/Rock,
+title:Birthday
+artist:Katy Perry
+album: Prism,
+genre: Pop/Rock,
+title:Song About A Girl
+artist:Eric Paslay
+album: Eric Paslay,
+genre: Country,
+title:Talk Dirty
+artist:Jason Derulo
+album: Tattoos,Talk Dirty,
+genre: Electronic,
+title:Na Na
+artist:Trey Songz
+album: Na Na,Trigga,
+genre:  Pop/Rock,Vocal,
+title:Or Nah
+artist:Ty Dolla $ign
+title:Chasing The Sun
+artist:Hilary Duff
+title:No Flex Zone!!
+artist:Rae Sremmurd
+title:Not A Bad Thing
+artist:Justin Timberlake
+album: The 20/20 Experience - 2 of 2,
+genre: Pop/Rock,
+title:Play It Again
+artist:Luke Bryan
+album: Crash My Party,
+genre: Country,
+title:Who Do You Love?
+artist:YG
+album: Hood Heat, Vol. 1,
+genre: 
+title:Tennis Court
+artist:Lorde
+album: Tennis Court,Pure Heroine,Royals,
+genre: Pop/Rock,
+title:Word Crimes
+artist:&Weird Al& Yankovic
+album: Mandatory Fun,
+genre: Jazz,
+title:Happy Little Pill
+artist:Troye Sivan
+album: TRXYE,Happy Little Pill,
+genre: Pop/Rock,
+title:Whiskey In My Water
+artist:Tyler Farr
+album: Redneck Crazy,
+genre: Pop/Rock,
+title:Everything I Didn't Say
+artist:5 Seconds Of Summer
+album: 5 Seconds of Summer,LIVESOS,Everything I Didn't Say,
+genre: Pop/Rock,
+title:Best Day Of My Life
+artist:American Authors
+album: American Authors,Oh, What a Life,Best Day of My Life,
+genre:  Pop/Rock,Electronic,
+title:Trophies
+artist:Young Money
+album: Hood Heat, Vol. 1,
+genre: Pop/Rock,
+title:You & I (Nobody In The World)
+artist:John Legend
+album: Love in the Future,
+genre: Pop/Rock,
+title:She Twerkin
+artist:Ca$h Out
+album: Let's Get It,
+genre: Pop/Rock,
+title:Let It Go
+artist:Idina Menzel
+album: Frozen [Original Motion Picture Soundtrack],
+genre:  Classical,Stage & Screen,
+title:Move That Doh
+artist:Future
+title:I Got A Car
+artist:George Strait
+album: Love Is Everything,
+genre: Pop/Rock,
+title:Chainsaw
+artist:The Band Perry
+album: Pioneer,
+genre: Pop/Rock,
+title:Timber
+artist:Pitbull
+title:La La La
+artist:Naughty Boy
+title:Lettin' The Night Roll
+artist:Justin Moore
+album: Off the Beaten Path,
+genre: Pop/Rock,
+title:Life Of The Party
+artist:Shawn Mendes
+album: The Shawn Mendes EP,Handwritten,Life of the Party,
+genre: Pop/Rock,
+title:Calm Down
+artist:Busta Rhymes
+title:Keep Them Kisses Comin'
+artist:Craig Campbell
+album: Never Regret,Keep Them Kisses Comin' [Hot Radio Mix],Outta My Head,
+genre: Country,
+title:We Are One (Ole Ola) [The 2014 FIFA World Cup Official Song]
+artist:Pitbull
+title:First Love
+artist:Jennifer Lopez
+album: First Love,A.K.A.,
+genre: Pop/Rock,
+title:Ten Feet Tall
+artist:Afrojack
+album: Forget the World,Forget the World,Ten Feet Tall [Remixes],
+genre: New Age,
+title:Wake Me Up!
+artist:Avicii
+title:Get Her Back
+artist:Robin Thicke
+album: Get Her Back,Paula,
+genre:  R&B;,Pop/Rock,
+title:Jungle
+artist:Jamie N Commons
+album: The  Reason,Jungle,
+genre: Pop/Rock, Electronic,
+title:You & I
+artist:One Direction
+album: Midnight Memories,Where We Are: Live from San Siro Stadium,
+genre: Pop/Rock,
+title:Automatic
+artist:Miranda Lambert
+album: Platinum,
+genre: Pop/Rock,
+title:Wild Wild Love
+artist:Pitbull
+album: Globalization,Wild Wild Love,
+genre: Pop/Rock,
+title:Kiss Me Kiss Me
+artist:5 Seconds Of Summer
+album: 5 Seconds of Summer,Kiss Me Kiss Me,
+genre: Pop/Rock,
+title:Afire Love
+artist:Ed Sheeran
+album: X,
+genre: Pop/Rock,
+title:Demons
+artist:Imagine Dragons
+album: Continued Silence,Night Visions,
+genre: Pop/Rock,
+title:Beat Of The Music
+artist:Brett Eldredge
+album: Bring You Back,
+genre: Jazz,
+title:The Worst
+artist:Jhene Aiko
+album: Sail Out,
+genre: Pop/Rock,
+title:Human
+artist:Christina Perri
+album: Head or Heart,Human,
+genre: Pop/Rock,
+title:On Top Of The World
+artist:Imagine Dragons
+album: Continued Silence,Night Visions,
+genre: International,
+title:West Coast
+artist:Lana Del Rey
+album: Ultraviolence,Ultraviolence: Audio Commentary,West Coast,
+genre: Pop/Rock,
+title:Hangover
+artist:PSY
+album: Hangover,
+genre: Jazz,
+title:Team
+artist:Lorde
+album: Pure Heroine,Team,
+genre: Pop/Rock,
+title:Empire
+artist:Shakira
+album: Shakira,
+genre: Pop/Rock,
+title:Sleeping With A Friend
+artist:Neon Trees
+album: Pop Psychology,
+genre: Jazz,
+title:I Choose You
+artist:Sara Bareilles
+album: The  Blessed Unrest,
+genre: Pop/Rock,
+title:Bottoms Up
+artist:Brantley Gilbert
+album: Just as I Am,Bottoms Up,
+genre: Pop/Rock,
+title:Show Me
+artist:Kid Ink
+title:Story Of My Life
+artist:One Direction
+album: Midnight Memories,Where We Are: Live from San Siro Stadium,Story of My Life,
+genre: Pop/Rock,
+title:Ultraviolence
+artist:Lana Del Rey
+album: Ultraviolence,Ultraviolence,Ultraviolence [EP],Ultraviolence: Audio Commentary,
+genre: Pop/Rock,
+title:Red Lights
+artist:Tiesto
+title:Magic
+artist:Coldplay
+album: Magic,Ghost Stories,Ghost Stories: Live 2014,
+genre: Pop/Rock,
+title:Raging Fire
+artist:Phillip Phillips
+album: Behind the Light,Raging Fire,
+genre: Religious,
+title:Partition
+artist:Beyonce
+album: Beyoncé,
+genre: R&B;,
+title:Rewind
+artist:Rascal Flatts
+album: Rewind,Rewind [Single],
+genre: Country,
+title:Mmm Yeah
+artist:Austin Mahone
+album: The Secret,Mmm Yeah,
+genre: Pop/Rock,
+title:Shades Of Cool
+artist:Lana Del Rey
+album: Ultraviolence,Shades of Cool,
+genre: Pop/Rock,
+title:Cop Car
+artist:Keith Urban
+album: Fuse,
+genre: Pop/Rock,
+title:XO
+artist:John Mayer
+title:Don't Stop
+artist:5 Seconds Of Summer
+album: 5 Seconds of Summer,Don't Stop EP,
+genre: Pop/Rock,
+title:Part II (On The Run)
+artist:Jay Z
+album: Magna Carta Holy Grail,
+genre: Rap,
+title:I Won
+artist:Future
+album: Honest,
+genre: R&B;,
+title:Billie Jean
+artist:Michael Jackson
+album: Thriller,The Making of Thriller [Video],Dangerous: The Short Films,Video Greatest Hits: HIStory [Video],History on Film, Vol. 2,Billie Jean,12 Inch Mixes,Greatest Hits: HIStory, Vol. 1,Grand Theft Auto: Vice City, Vol. 4: Flash FM,Number Ones [DVD],Off the Wall/Thriller,The Ultimate Collection [Sony/Epic],The Essential Michael Jackson,Live in Bucharest: The Dangerous Tour [DVD],Visionary: The Video Singles [Box Set],Visionary: The Singles Set 1,The Instrumental Hits of Michael Jackson,King of Pop,One Night in Japan,The Collection,Live in Japan,Michael Jackson's This Is It,Ultimate Collection,Vision,Live at Wembley 7.16.1988,History, Vols. 1-2,Majesty 1992,
+genre: Pop/Rock,
+title:Slave To The Rhythm
+artist:Michael Jackson
+album: Xscape,
+genre: Electronic,
+title:Let Her Go
+artist:Passenger
+album: All the Little Lights,Fack Ju Göhte,Let Her Go,Spotify Sessions: Live From Sydney Opera House,
+genre: Children's, Holiday, Classical,
+title:Get Me Some Of That
+artist:Thomas Rhett
+album: It Goes Like This,
+genre: Comedy/Spoken,
+title:Somebody That I Used To Know
+artist:Christina Grimmie
+album: Somebody That I Used To Know,
+genre: Pop/Rock,
+title:Can't Help Falling In Love
+artist:Christina Grimmie
+album: Can't Help Falling in Love,
+genre: Pop/Rock, Stage & Screen,
+title:Give Me Back My Hometown
+artist:Eric Church
+album: Give Me Back My Hometown,The Outsiders,
+genre: Country,
+title:Leave Your Lover
+artist:Sam Smith
+album: In the Lonely Hour,
+genre: Pop/Rock,
+title:Stoner
+artist:Young Thug
+album: Stoner,
+genre: Country, Pop/Rock,
+title:Can't Remember To Forget You
+artist:Shakira
+album: Shakira,
+genre: Pop/Rock,
+title:Midnight
+artist:Coldplay
+album: Midnight,Ghost Stories,Ghost Stories: Live 2014,Midnight [Giorgio Moroder Remix],
+genre: Pop/Rock,
+title:Headlights
+artist:Eminem
+album: The Marshall Mathers LP 2,
+genre: Rap,
+title:The Monster
+artist:Eminem
+album: The Marshall Mathers LP 2,
+genre: Rap,
+title:Drink To That All Night
+artist:Jerrod Niemann
+album: Drink To That All Night,
+genre: Country,
+title:The Walker
+artist:Fitz And The Tantrums
+album: More Than Just a Dream,The Walker,
+genre: Pop/Rock,
+title:Fever
+artist:The Black Keys
+album: Fever,Fever/Turn Blue [Single],Turn Blue,
+genre:  Pop/Rock,Electronic,
+title:One
+artist:Ed Sheeran
+album: X,One,
+genre: Pop/Rock,
+title:Heaven
+artist:Jake Worthington
+album: Heaven,
+genre: Pop/Rock,
+title:Wake Up Lovin' You
+artist:Craig Morgan
+album: The Journey (Livin' Hits),Wake Up Lovin' You,
+genre: Pop/Rock, Folk,
+title:The Man
+artist:Aloe Blacc
+album: Lift Your Spirit,The Man,
+genre: R&B;,
+title:Burn
+artist:Ellie Goulding
+album: Halcyon,Burn,
+genre:  R&B;, Jazz,Pop/Rock, Vocal,
+title:Hey Brother
+artist:Avicii
+album: True,True: Avicii by Avicii,
+genre: Country,
+title:Neon Lights
+artist:Demi Lovato
+album: Demi,Neon Lights,
+genre:  Pop/Rock,Electronic,
+title:I Can't Make You Love Me
+artist:Josh Kaufman
+album: I Can't Make You Love Me,Love,
+genre:  Jazz,Vocal,
+title:Invisible
+artist:Hunter Hayes
+album: Storyline,Invisible,
+genre:  Pop/Rock,Electronic,
+title:How To Love
+artist:Christina Grimmie
+title:17 Again
+artist:Brantley Gilbert
+album: Just as I Am,
+genre: Pop/Rock,
+title:#SELFIE
+artist:The Chainsmokers
+album: #SELFIE,
+genre: 
+title:Man Of The Year
+artist:ScHoolboy Q
+album: Hood Heat, Vol. 1,
+genre: Jazz,
+title:Doin' What She Likes
+artist:Blake Shelton
+album: Based on a True Story...,The  Blake Shelton Collection,
+genre:  Jazz, Easy Listening,Folk,
+title:Say Something
+artist:A Great Big World
+album: Is There Anybody Out There?,Say Something,
+genre: Pop/Rock,
+title:Drunk In Love
+artist:Beyonce
+album: Beyoncé,
+genre: Pop/Rock,
+title:Paranoid
+artist:Ty Dolla $ign
+title:Hold On, We're Going Home
+artist:Christina Grimmie
+album: Nothing Was the Same,Hold On, We're Going Home,
+genre: Rap,
+title:My Baby's Guns N' Roses
+artist:Brantley Gilbert
+album: Just as I Am,
+genre: Pop/Rock,
+title:19 You + Me
+artist:Dan + Shay
+album: Where It All Began,19 You + Me,
+genre: Pop/Rock,
+title:For The First Time In Forever
+artist:Kristen Bell
+album: Frozen: The Songs,
+genre: Pop/Rock,
+title:The Big Bang
+artist:Katy Tiz
+album: The Big Bang,
+genre: Rap,
+title:Radioactive
+artist:Imagine Dragons
+album: Continued Silence,Night Visions,
+genre: Pop/Rock,
+title:Hello Kitty
+artist:Avril Lavigne
+album: Avril Lavigne,
+genre: Pop/Rock,
+title:John Doe
+artist:B.o.B
+album: Underground Luxury,
+genre: Pop/Rock,
+title:Do You Want To Build A Snowman?
+artist:Kristen Bell
+album: Frozen: The Songs,
+genre: Stage & Screen,
+title:Goodnight Kiss
+artist:Randy Houser
+album: How Country Feels,
+genre: Pop/Rock,
+title:I Hold On
+artist:Dierks Bentley
+album: Riser,I Hold On,
+genre: Electronic,
+title:Do I Wanna Know?
+artist:Arctic Monkeys
+album: AM,Do I Wanna Know?,
+genre: Pop/Rock,
+title:Where It's At
+artist:Dustin Lynch
+album: Where It's At,Where It's At,
+genre: Blues,
+title:Helluva Life
+artist:Frankie Ballard
+album: Sunshine & Whiskey,Helluva Life,
+genre: R&B;, Pop/Rock,
+title:Oceans (Where Feet May Fail)
+artist:Hillsong UNITED
+album: Zion,
