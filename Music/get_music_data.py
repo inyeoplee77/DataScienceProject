@@ -2,6 +2,7 @@ from pyechonest import config
 from pyechonest import artist
 from pyechonest import song
 import HTMLParser
+import time
 import sys
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -17,6 +18,8 @@ result_file=open('Music.txt','w')
 startpoint=0
 maxpoint=1.0
 last_maxpoint=0
+accessCnt=0
+sec=62
 song_artist={}
 for i in range(20):
 	
@@ -24,9 +27,18 @@ for i in range(20):
 		startpoint=0
 		maxpoint=last_maxpoint
 	print 'startpoint: '+str(startpoint)
+	'''
+	if accessCnt>=20 :
+		print 'sleep for a min\n'
+		time.sleep(sec)
+		accessCnt=0
+	'''
+
 
 
 	ss_results = song.search(song_max_hotttnesss=maxpoint,start=startpoint,buckets=['audio_summary','song_type','song_hotttnesss'],results=100,sort ='song_hotttnesss-desc')
+	accessCnt+=1
+	print 'accessCnt: '+str(accessCnt)
 	#print ss_results
 	#print
 	#print
@@ -58,6 +70,21 @@ for i in range(20):
 		for i in songOne.song_type:
 			wt+=i+','
 
+		wt+='\n'
+		'''
+		if accessCnt>=20 :
+			print 'sleep for a min\n'
+			time.sleep(sec)
+			accessCnt=0
+		'''
+
+		artist_id=songOne.artist_id
+		artist_terms=artist.Artist(artist_id).terms
+		accessCnt+=1
+		print 'accessCnt: '+str(accessCnt)
+		wt+='artist_terms: '
+		for i in artist_terms:
+			wt+=i['name']+','
 		wt+='\n'
 		wt=uni(wt)
 		result_file.write(wt)
