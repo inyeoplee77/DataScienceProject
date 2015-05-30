@@ -34,7 +34,7 @@ regex = re.compile('[^a-zA-Z0-9]') #regualr expression for non-alphabets
 #users
 for line in user_db:
    tmp = line.split(':')
-   users[tmp[0]] = tmp[1].split(',')
+   users[tmp[0].strip()] = tmp[1].split(',')
 for line in music_tag_f:
    if not line:
       break
@@ -60,14 +60,15 @@ for user in users:
       for medium in data:
          tags = medium['tags']
          #search for music tag
-         for music in music_tag:
-             
+         for music in music_tag:             
             if any(map(lambda v : v in music_tag[music],tags)):
-               user_music[user].append(music)
+               if music not in user_music[user]:
+                  user_music[user].append(music)
          #search for brand tag
          for brand in brand_tag:
             if any(map(lambda v : v in brand_tag[brand],tags)):
-               user_brand[user].append(brand)
+               if brand not in user_brand[user]:
+                  user_brand[user].append(brand)
       #get all the media from user 
       next_url = result['pagination']
       if 'next_url' not in next_url:
@@ -86,4 +87,4 @@ for user in users:
       for i in user_music[user]:
          training.write(i+',')
       training.write(','+b+'\n')
-   print 'training sample added, ' + str(len(users[user]))+' movie added, '+ str(len(user_music[user]))+ ' music added, brand:', user_brand[user]
+      print 'training sample added, ' + str(len(users[user]))+' movie added, '+ str(len(user_music[user]))+ ' music added, brand:', b

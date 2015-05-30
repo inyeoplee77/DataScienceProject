@@ -14,7 +14,7 @@ users = {}
 
 movies = open('Movie_DB.txt','r')
 
-user_db = open('user_movie_DB.txt','w')
+user_db = open('user_movie_DB_test.txt','w')
 
 regex = re.compile('[^a-zA-Z]') #regualr expression for non-alphabets
 
@@ -43,10 +43,10 @@ def movie_tag(title):
       for title in titles:
          titles_drop_a.append(title.replace('a ',''))
       titles.extend(titles_drop_a)
-   print title_original
    #remove special characters
    for i in range(len(titles)):
       titles[i] = regex.sub('',titles[i])
+   #if necessary, comment return statement and uncomment below code to get tag list
    return titles
    
    '''
@@ -65,7 +65,8 @@ def movie_tag(title):
 for line in movies:
    if 'title' not in line:
       continue
-   titles = movie_tag(line.split('title:')[0])   
+   title_original = line.split('title:')[1].strip()
+   titles = movie_tag(line.split('title:')[1].strip())
    #search movie title tags that have the most media
    max_count = -1
    for title in titles:
@@ -93,8 +94,8 @@ for line in movies:
                   continue
                for tag in m.tags:
                   if 'movie' in tag.name:
-                     user[m.user.id] = title_original
-            media, _next = api.tag_recent_media(max_tag_id = max_tag_id,tag_name = max_tag.name)
+                     users[m.user.id] = title_original
+            media = api.tag_recent_media(max_tag_id = max_tag_id,tag_name = max_tag.name)
             if media[1] is None:
                break
             max_tag_id = media[1].split('max_tag_id=')[1]         
