@@ -2,117 +2,88 @@ from instagram.client import InstagramAPI
 import sys
 import locale
 import re
+import urllib2
+import requests
+
+
 reload(sys)
 
 sys.setdefaultencoding('utf8')
 
 #access_token = '1085114028.334eb93.e4202257327a42fcbe2840b838ef4e55'
 #user_id = '1085114028'
-
+client_id = '334eb938576d4207b655a2911944f919'
 
 api = InstagramAPI(client_id='334eb938576d4207b655a2911944f919', client_secret='f734f47818ae462f9150d4816114df17')
 #api = InstagramAPI(access_token=access_token)
 
 users = {}
+music_tag = {}
+brand_tag = {}
+user_music = {}
+user_brand = {}
 
-music = open('Music_DB.txt','r')
-
+music_tag_f = open('music_tag','r')
+brand_tag_f = open('brand_tag','r')
 user_db = open('user_movie_DB.txt','r')
+brand_db = open('finalBrandDB.txt','r')
+training = open('training','w')
 
-regex = re.compile('[^a-zA-Z]') #regualr expression for non-alphabets
+regex = re.compile('[^a-zA-Z0-9]') #regualr expression for non-alphabets
 
 #users
 for line in user_db:
    tmp = line.split(':')
-   users[tmp[0]] = tmp[1]
+   users[tmp[0]] = tmp[1].split(',')
+for line in music_tag_f:
+   if not line:
+      break
+   line = line.split(' :: ')
+   music_tag[line[0]] = line[1].strip().split(' ')
+for line in brand_tag_f:
+   if not line:
+      break
+   line = line.split(' :: ')
+   brand_tag[line[0]] = line[1].strip().split(' ')
+ 
+music_tag_f.close()
+brand_tag_f.close()
 
 for user in users:
-   media, _next = api.user_recent_media(user)
-   print media
-   #from media, find the media with any music title tags
-   #then build music-user DB
-   #problem: can't get other users' media 
-   '''
-   for medium in media[0]:
-      if not hasattr(medium,'tags'):
-         continue
-      for tag in medium.tags:
-         print tag
-   '''
-
-
-
-
-
-#ignore
-'''
-for line in music:
-   if 'title' not in line:
-      continue
-   titles = []
-   titles_drop_the = []
-   titles_drop_a = []
-   #extract keywords for searching tags from the title - ex)Harry Potter and the Deathly Hallows -> Harry Potter
+   result = requests.get("https://api.instagram.com/v1/users/"+user+"/media/recent/",params={'client_id':client_id}).json()
+   user_music[user] = []
+   user_brand[user] = []
+   while True:
+      data = result['data']
+      #data contains a list of media
+      #media contains a list of tags
+      for medium in data:
+         tags = medium['tags']
+         #search for music tag
+         for music in music_tag:
+             
+            if any(map(lambda v : v in music_tag[music],tags)):
+               user_music[user].append(music)
+         #search for brand tag
+         for brand in brand_tag:
+            if any(map(lambda v : v in brand_tag[brand],tags)):
+               user_brand[user].append(brand)
+      #get all the media from user 
+      next_url = result['pagination']
+      if 'next_url' not in next_url:
+         break       
+      next_url = next_url['next_url']
+      result = requests.get(next_url).json()
    
-   title = line.split('title:')[1]
-   title_original = title.strip()
-   title = title.lower().strip()
-   
-   titles.append(title)   
-   if ':' in title:
-      titles.extend(title.split(':'))
-   if 'and the' in title:
-      titles.extend(title.split('and the'))
-      
-   if title.find('the ') == 0 and 'and the' not in title:
-      for title in titles:
-         titles_drop_the.append(title.replace('the ',''))
-      titles.extend(titles_drop_the)
-   if title.find('a ') == 0:
-      for title in titles:
-         titles_drop_a.append(title.replace('a ',''))
-      titles.extend(titles_drop_a)
-   print title_original
-   #remove special characters
-   for i in range(len(titles)):
-      titles[i] = regex.sub('',titles[i])
-   #search movie title tags that have the most media
-   max_count = -1
-   for title in titles:
-      tags = api.tag_search(q=title,count = 10)
-      if not tags[0]:
-         continue
-      tags = tags[0]
-      count = tags[0].media_count
-      if count > max_count:
-         max_count = count
-         max_tag = tags[0]
-   users = {} #to avoid duplication, initialize users dictionary for every movie title
-   for j in range(10):
-      try:
-         media = api.tag_recent_media(tag_name = max_tag.name,)
-         if media[1] is None or max_count == -1:
-            continue
-         max_tag_id = media[1].split('max_tag_id=')[1]
-         print max_count     
-         #get ids of users who we want
-         num = 10 # number of iterations (= number of media)              
-         for i in range(num):
-            for m in media[0]:
-               if not hasattr(m,'tags'):
-                  continue
-               for tag in m.tags:
-                  if 'movie' in tag.name:
-                     user[m.user.id] = title_original
-            media = api.tag_recent_media(max_tag_id = max_tag_id,tag_name = max_tag.name)
-            if media[1] is None:
-               break
-            max_tag_id = media[1].split('max_tag_id=')[1]         
-      except Exception as e:
-         print e
-         continue
-      break
-   for key in users.keys():
-      user_db.write(str(key) + '::' + users[key] + '\n')        
-user_db.close()
-'''
+   #generate training set 
+   # x = movie list, music list (input) 
+   # y = brand (answer)
+   for b in user_brand[user]:
+      if not b:
+         continue 
+      for i in users[user]:
+         training.write(i+',')
+      for i in user_music[user]:
+         training.write(i+',')
+      training.write(','+b+'\n')
+   print 'training sample added, ' + str(len(users[user]))+' movie added, '+ str(len(user_music[user]))+ ' music added, brand:', user_brand[user]
