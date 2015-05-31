@@ -15,8 +15,8 @@ api = InstagramAPI(client_id='334eb938576d4207b655a2911944f919', client_secret='
 music = open('Music_DB.txt','r')
 brand_db = open('finalBrandDB.txt','r')
 
-music_tag = open('music_tag_new','w')
-brand_tag = open('brand_tag_new','w')
+music_tag = open('music_tag','w')
+brand_tag = open('brand_tag','w')
 
 regex = re.compile('[^a-zA-Z0-9]') #regualr expression for non-alphabets
 music_duplicate = []
@@ -33,12 +33,12 @@ def tag_search_music(title):
    if title in music_duplicate:
       return None
    music_duplicate.append(title)
-   tags = api.tag_search(title,count = 5)   
+   tags = api.tag_search(title,count = 2)   
    return tags
    
 def tag_search_brand(brand):
    brand = regex.sub('',line)
-   tags = api.tag_search(brand,count = 5)
+   tags = api.tag_search(brand,count = 2)
    return tags
 
 for line in music:
