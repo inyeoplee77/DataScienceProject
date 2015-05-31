@@ -25,7 +25,7 @@ user_brand = {}
 
 music_tag_f = open('music_tag','r')
 brand_tag_f = open('brand_tag','r')
-user_db = open('user_movie_DB.txt','r')
+user_db = open('user_movie_DB_test2.txt','r')
 brand_db = open('finalBrandDB.txt','r')
 training = open('training','w')
 
@@ -33,8 +33,8 @@ regex = re.compile('[^a-zA-Z0-9]') #regualr expression for non-alphabets
 
 #users
 for line in user_db:
-   tmp = line.split(':')
-   users[tmp[0].strip()] = tmp[1].split(',')
+   tmp = line.split('::')
+   users[tmp[0].strip()] = tmp[1]#.split(',')
 for line in music_tag_f:
    if not line:
       break
