@@ -15,6 +15,7 @@ client_id='582f02988f5b48baa669fedc9d51fb06'
 tags_dic={}
 music_tags=open('music_tag','r')
 
+
 for line in music_tags:
 	title='music_'+line.split('::')[0].strip()
 	tags=line.split('::')[1].strip().split(' ')
@@ -47,23 +48,44 @@ while True:
 
 	#get contents from user
 	#temp id
-	user_id='1952472361'
+	user_id='453076946'
 	url_user='https://api.instagram.com/v1/users/'+user_id+'/media/recent/?client_id='+client_id
 	print url_user
 	user_tags=[]
+	temp=[]
+#	check_list=[]
+	check_list=['listening','music','listeningto','nowlisteningto']
 	result_user=requests.get(url_user).json()
 	while True:
 		if 'data' not in result_user:
-			break
+			next_url=result_user['pagination']
+			next_url=next_url['next_url']
+			result_user=requests.get(next_url).json()		
+			continue
 		data_user=result_user['data']
+		
 		for i in data_user:
-			user_tags.extend(i['tags'])
+			
+			if any(map(lambda v:v in check_list,i['tags'])):
+				#print i['tags']
+				for j in i['tags']:
+					if j not in user_tags:
+						user_tags.append(j)
+				#if i['tags'] not in user_tags:
+				#	user_tags.append(i['tags'])
+			else :
+				for k in i['tags']:
+					if 'movie' in k:
+						for l in i['tags']:
+							if l not in user_tags:
+								user_tags.append(l)
+						break
 		next_url=result_user['pagination']
 		if 'next_url' not in next_url:
 			break
 		next_url=next_url['next_url']
 		result_user=requests.get(next_url).json()
-	print user_tags
+	
 
 
 	#find valid contents from tags
@@ -72,14 +94,15 @@ while True:
 	for user_tag_item in user_tags:
 		is_found=0
 		for title, tags in tags_dic.iteritems():
-			for tag_item in tags:
-				if user_tag_item==tag_item:					
-					valid_tag.append(title)
-					is_found=1
-					break
-			if is_found ==1:
+			if is_found==1:
 				break
-
+			for tag_item in tags:
+				if user_tag_item==tag_item:
+					if title not in valid_tag:
+						valid_tag.append(title)
+						is_found=1
+						break
+			
 	
 	print valid_tag
 	
