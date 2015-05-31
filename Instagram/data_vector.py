@@ -8,6 +8,8 @@ max_loud = -50.0
 min_loud = 0.0
 music_db = file('Music_DB.txt','r')
 movie_db = file('Movie_DB.txt','r')
+
+#making features
 for a in music_db:
     if (a.split(':')[1].strip()=='None'):
         continue
@@ -43,7 +45,7 @@ for a in movie_db:
         for b in genres:
             _data[b]=0
     
-
+#making features which need to be separated into 10 parts
 for a in range(0,9):
     string = 'energy:'+str(a)
     _data[string]=0
@@ -69,8 +71,9 @@ for a in range(0,9):
     _data[string]=0
 
 
+#search element(movie, music) in list
 title = ['See You Again','Thinking Out Loud']
-#format: title1 title2 title3 .... brand
+#format: title1 title2 title3 .... 
 for a in title:
     _data = dict.fromkeys(_data, 0)
     music_db.close()
@@ -153,8 +156,10 @@ for a in title:
                         _data[b.strip()]=1
                 _line = music_db.next()
     x.append(_data)
-num_one = 0
+
+#delete unnecessary features
 del _data['\n']
 del _data['']
-print [name for name, num in _data.items() if num==1]
-print len(x)
+
+
+#x will be the list of vector
