@@ -5,6 +5,7 @@ import re
 import urllib2
 import requests
 import re
+import time
 reload(sys)
 
 sys.setdefaultencoding('utf8')
@@ -42,7 +43,15 @@ def tag_search_brand(brand):
 
 for line in music:
    if 'title:' in line:
-      tags = tag_search_music(line.strip())
+      while True:
+         try:
+            tags = tag_search_music(line.strip())
+         except Exception as e:
+            time.sleep(10)
+            print '10 seconds break'
+            print e
+            continue
+         break 
       if tags is None:
          print 'duplicated'
          continue

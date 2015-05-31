@@ -61,7 +61,7 @@ for user in users:
          tags = medium['tags']
          #search for music tag
          for music in music_tag:             
-            if any(map(lambda v : v in music_tag[music],tags)):
+            if 'music' in tags and any(map(lambda v : v in music_tag[music],tags)):
                if music not in user_music[user]:
                   user_music[user].append(music)
          #search for brand tag

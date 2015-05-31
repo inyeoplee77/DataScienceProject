@@ -116,6 +116,7 @@ for line in movies:
          print e
          continue
       break
+   user_db.flush()
 for key in users:
    user_db.write(key + '::' + users[key] + '\n')        
 user_db.close()
