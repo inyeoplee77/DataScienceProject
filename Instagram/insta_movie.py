@@ -92,6 +92,7 @@ for line in movies:
             for m in media[0]:
                if not hasattr(m,'tags'):
                   continue
+              
                for tag in m.tags:
                   if 'movie' in tag.name:
                      if m.user.id in users.keys():

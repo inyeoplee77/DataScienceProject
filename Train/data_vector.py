@@ -6,8 +6,8 @@ y = []
 _data = {}
 max_loud = -50.0
 min_loud = 0.0
-music_db = file('Music_DB.txt','r')
-movie_db = file('Movie_DB.txt','r')
+music_db = open('Music_DB.txt','r')
+movie_db = open('Movie_DB.txt','r')
 
 #making features
 for a in music_db:
@@ -72,18 +72,28 @@ for a in range(0,9):
 
 
 #search element(movie, music) in list
-title = ['See You Again','Thinking Out Loud']
+samples_f = open('samples.txt','r')
+sample = []
+sample.append(samples_f.readline().strip())
+tmp = samples_f.readline().split(',,')
+sample.extend(tmp[0].split(','))
+sample_answer = tmp[1].strip()
+#print sample,sample_answer
 #format: title1 title2 title3 .... 
-for a in title:
+for title in sample:
     _data = dict.fromkeys(_data, 0)
     music_db.close()
     movie_db.close()
-    music_db = file('Music_DB.txt','r')
-    movie_db = file('Movie_DB.txt','r')
+    music_db = open('Music_DB.txt','r')
+    movie_db = open('Movie_DB.txt','r')
     #if a is movie title
-    for line in movie_db:
-        if a == line.split(':')[1].strip():
-            _line = movie_db.next()
+    while True:
+        line = movie_db.readline()
+        if not line:
+            break
+        
+        if title == line.split(':')[1].strip():
+            _line = movie_db.readline()
             while(_line.split(':')[0].strip()!='title'):
                 if(_line.split(':')[0]=='rating'):
                     string = 'rate'+str(int(float(_line.split(':')[1].replace('\n',''))))
@@ -100,12 +110,15 @@ for a in title:
                     genres = _line.split(':')[1].split(',')
                     for c in genres:
                         _data[c]=1
-                _line = movie_db.next()
+                _line = movie_db.readline()
 
     #if a is song title
-    for line in music_db:
-        if str(a) == line.split(':')[1].strip():
-            _line = music_db.next()
+    while True:
+        line = music_db.readline()
+        if not line:
+            break
+        if title == line.split(':')[1].strip():
+            _line = music_db.readline()
             while(_line.split(':')[0].strip()!='title'):
                 if(_line.split(':')[0]=='artist'):
                     _data[_line.split(':')[1].strip()]=1
@@ -154,11 +167,12 @@ for a in title:
                     a = _line.split(':')[1].split(',')
                     for b in a:
                         _data[b.strip()]=1
-                _line = music_db.next()
+                _line = music_db.readline()
     x.append(_data)
+
 #delete unnecessary features
 del _data['\n']
 del _data['']
-
+print x
 
 #x will be the list of vector
