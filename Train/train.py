@@ -19,7 +19,7 @@ for i in range(len(x_dic)):
 x = np.array(x)
 y = np.array(y)
 
-#write your code here
+
 '''
 clf = SVC()
 clf.fit(x,y)
