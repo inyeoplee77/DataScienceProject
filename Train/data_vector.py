@@ -1,5 +1,6 @@
 ﻿import sys
 reload(sys)
+import pickle
 sys.setdefaultencoding('utf8')
 x = []
 y = []
@@ -77,9 +78,10 @@ print len(_data)
 #y
 for line in brand_db:
     _yData[line.strip()] = 0
-
+#pickle.dump(_yData,open('y_vector','wb'))
 
 #search element(movie, music) in list
+
 
 samples = open('training.txt','r')
 
@@ -214,7 +216,7 @@ for sample in samples:
 
 #write x,y to file
 
-import pickle
+
 x_f = open('x.p','wb')
 y_f = open('y.p','wb')
 pickle.dump(x,x_f)

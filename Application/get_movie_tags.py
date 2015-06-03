@@ -13,7 +13,7 @@ api = InstagramAPI(access_token=access_token)
 users = {}
 
 movies_f=open('Movie_DB.txt','r')
-tags_f=open('Movie_tag.txt','w')
+tags_f=open('Movie_tag','w')
 regex = re.compile('[^a-zA-Z0-9]') #regualr expression for non-alphabets
 
 
