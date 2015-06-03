@@ -4,7 +4,7 @@ import locale
 import re
 import urllib2
 import requests
-
+import time
 
 reload(sys)
 
@@ -23,18 +23,21 @@ brand_tag = {}
 user_music = {}
 user_brand = {}
 
-music_tag_f = open('music_tag_new','r')
-brand_tag_f = open('brand_tag_new','r')
+music_tag_f = open('music_tag','r')
+brand_tag_f = open('brand_tag_reduced','r')
 user_db = open('user_movie_DB_test2.txt','r')
-brand_db = open('finalBrandDB.txt','r')
-training = open('training','w')
+training = open('training_2.txt','a')
 
 regex = re.compile('[^a-zA-Z0-9]') #regualr expression for non-alphabets
 
 #users
 for line in user_db:
    tmp = line.split('::')
-   users[tmp[0].strip()] = tmp[1].strip()#.split(',')
+   u = tmp[0].strip()
+   m = tmp[1].strip()
+   if u not in users:
+      users[u] = []
+   users[u].append(m)
 for line in music_tag_f:
    if not line:
       break
@@ -49,12 +52,27 @@ for line in brand_tag_f:
 music_tag_f.close()
 brand_tag_f.close()
 
+user_delete = open('user_delete.txt','r')
+user_d = []
+for line in user_delete:
+   user_d.append(line.strip())  
+user_delete.close()
+user_delete = open('user_delete.txt','a')
 for user in users:
-   
-   result = requests.get("https://api.instagram.com/v1/users/"+user+"/media/recent/",params={'client_id':client_id}).json()
+   if user in user_d:
+      continue
+   while True:
+      try:
+         result = requests.get("https://api.instagram.com/v1/users/"+user+"/media/recent/",params={'client_id':client_id}).json()
+      except Exception as e:
+         print e
+         continue
+      break
    user_music[user] = []
    user_brand[user] = []
-   while True:
+   for i in range(10):
+      if 'data' not in result:
+         break
       data = result['data']
       #data contains a list of media
       #media contains a list of tags
@@ -64,19 +82,19 @@ for user in users:
          for music in music_tag:             
             if ('music' in tags or 'listening' in tags or 'nowlisteningto' in tags or 'listeningto' in tags) and any(map(lambda v : v in music_tag[music],tags)):
                if music not in user_music[user]:
-                  print tags, music, users[user]
+                  #print tags, music, users[user]
                   user_music[user].append(music)
          #search for brand tag
          for brand in brand_tag:
             if any(map(lambda v : v in brand_tag[brand],tags)):
                if brand not in user_brand[user]:
-                  print tags, brand, users[user]
+                  #print tags, brand, users[user]
                   user_brand[user].append(brand)
       #get all the media from user 
       next_url = result['pagination']
       if 'next_url' not in next_url:
          break       
-      while True:
+      for j in range(10):
          try:
             next_url = next_url['next_url']
             result = requests.get(next_url).json()
@@ -92,10 +110,13 @@ for user in users:
    for b in user_brand[user]:
       if not b:
          continue 
-      #for i in users[user]:
-      training.write(users[user]+',')
+      for i in users[user]:
+         training.write('movie_'+i+',')
       for i in user_music[user]:
          training.write(i+',')
       training.write(','+b+'\n')
       training.flush()
+      print users[user]
       print 'training sample added, ' + str(len(users[user]))+' movie added, '+ str(len(user_music[user]))+ ' music added, brand:', b
+   user_delete.write(user+'\n')
+   

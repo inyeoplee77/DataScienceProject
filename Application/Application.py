@@ -15,7 +15,6 @@ client_id='582f02988f5b48baa669fedc9d51fb06'
 tags_dic={}
 music_tags=open('music_tag','r')
 
-
 for line in music_tags:
 	title='music_'+line.split('::')[0].strip()
 	tags=line.split('::')[1].strip().split(' ')
@@ -26,8 +25,6 @@ for line in movie_tags:
 	title='movie_'+line.split('::')[0].strip()
 	tags=line.split('::')[1].strip().split(' ')
 	tags_dic[title]=tags
-
-
 while True:
 
 	username=raw_input('What is your instagram UserName? :')
@@ -102,7 +99,11 @@ while True:
 						valid_tag.append(title)
 						is_found=1
 						break
-			
-	
+
 	print valid_tag
-	
+
+from sklearn.svm import SVC
+from sklearn.externals import joblib
+
+clf = joblib.load('SVM.pkl')
+

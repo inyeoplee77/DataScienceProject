@@ -12,11 +12,11 @@ sys.setdefaultencoding('utf8')
 
 api = InstagramAPI(client_id='334eb938576d4207b655a2911944f919', client_secret='f734f47818ae462f9150d4816114df17')
 
-music = open('Music_DB.txt','r')
-brand_db = open('finalBrandDB.txt','r')
+#music = open('Music_DB.txt','r')
+brand_db = open('BrandDB_reduced.txt','r')
 
-music_tag = open('music_tag','w')
-brand_tag = open('brand_tag','w')
+#music_tag = open('music_tag','w')
+brand_tag = open('brand_tag_reduced','w')
 
 regex = re.compile('[^a-zA-Z0-9]') #regualr expression for non-alphabets
 music_duplicate = []
@@ -40,7 +40,7 @@ def tag_search_brand(brand):
    brand = regex.sub('',line)
    tags = api.tag_search(brand,count = 2)
    return tags
-
+'''
 for line in music:
    if 'title:' in line:
       while True:
@@ -63,6 +63,7 @@ for line in music:
       for tag in tags[0]:
          music_tag.write(tag.name+' ')
       music_tag.write('\n')
+'''
 #brand
 for line in brand_db:
    if not line:
