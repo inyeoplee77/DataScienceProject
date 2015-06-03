@@ -14,7 +14,7 @@ def uni(s):
 #   s = s.decode('string-escape')
 	return s
 config.ECHO_NEST_API_KEY="UUPUPB2C9FGMT1NSS"
-result_file=open('Music.txt','w')
+result_file=open('Music_DB.txt','w')
 startpoint=0
 maxpoint=1.0
 last_maxpoint=0

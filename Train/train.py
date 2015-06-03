@@ -13,7 +13,7 @@ y_dic = pickle.load(open('y.p','rb'))
 
 x = []
 y = []
-for i in range(len(x_dic)-90):
+for i in range(len(x_dic)):
 	x.append(x_dic[i].values())
 	y.append(y_dic[i].values().index(1))
 x = np.array(x)

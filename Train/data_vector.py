@@ -10,7 +10,7 @@ max_loud = -50.0
 min_loud = 0.0
 music_db = file('Music_DB.txt','r')
 movie_db = file('Movie_DB.txt','r')
-brand_db = open('BrandDB_reduced.txt','r')
+brand_db = open('Brand_DB.txt','r')
 
 #making features
 for a in music_db:

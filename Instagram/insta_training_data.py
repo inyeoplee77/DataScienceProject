@@ -23,10 +23,10 @@ brand_tag = {}
 user_music = {}
 user_brand = {}
 
-music_tag_f = open('music_tag','r')
-brand_tag_f = open('brand_tag_reduced','r')
+music_tag_f = open('music_tag.txt','r')
+brand_tag_f = open('brand_tag_reduced.txt','r')
 user_db = open('user_movie_DB_test2.txt','r')
-training = open('training_2.txt','a')
+training = open('training.txt','a')
 
 regex = re.compile('[^a-zA-Z0-9]') #regualr expression for non-alphabets
 

@@ -9,7 +9,7 @@ reload(sys)
 
 sys.setdefaultencoding('utf8')
 
-f = open('BrandDB.txt','w')
+f = open('Brand_DB.txt','w')
 
 url='http://www.apparelsearch.com/wholesale_clothing/popular_brand_names_clothes.htm'
 try:

@@ -14,9 +14,9 @@ api = InstagramAPI(access_token=access_token)
 
 users = {}
 
-movies = open('Movie_DB_processing.txt','r')
+movies = open('Movie_DB.txt','r')
 
-user_db = open('user_movie_DB_test3.txt','w')
+user_db = open('user_movie_DB.txt','w')
 
 regex = re.compile('[^a-zA-Z0-9]') #regualr expression for non-alphabets
 
